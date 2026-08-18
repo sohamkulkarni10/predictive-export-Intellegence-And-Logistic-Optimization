@@ -1,0 +1,21 @@
+port_id,port_name,port_type,state,nearest_city,unlocode,latitude,longitude
+1,Jawaharlal Nehru Port (JNPT),Major,Maharashtra,Navi Mumbai,INNSA,18.9497,72.9498
+2,Mumbai Port,Major,Maharashtra,Mumbai,INBOM,18.947,72.84
+3,Deendayal Port (Kandla),Major,Gujarat,Gandhidham,INIXY,23.0333,70.2167
+4,Mundra Port,Private,Gujarat,Mundra,INMUN,22.839,69.721
+5,Pipavav Port,Private,Gujarat,Amreli,INPAV,20.908,71.508
+6,Hazira Port,Private,Gujarat,Surat,INHZA,21.115,72.645
+7,Chennai Port,Major,Tamil Nadu,Chennai,INMAA,13.0827,80.3
+8,Kamarajar Port (Ennore),Major,Tamil Nadu,Chennai,INENR,13.248,80.365
+9,V.O. Chidambaranar Port (Tuticorin),Major,Tamil Nadu,Thoothukudi,INTUT,8.7642,78.1348
+10,Cochin Port,Major,Kerala,Kochi,INCOK,9.9667,76.2673
+11,New Mangalore Port,Major,Karnataka,Mangaluru,INNML,12.923,74.806
+12,Mormugao Port,Major,Goa,Vasco da Gama,INMRM,15.4167,73.8
+13,Visakhapatnam Port,Major,Andhra Pradesh,Visakhapatnam,INVTZ,17.6868,83.2185
+14,Gangavaram Port,Private,Andhra Pradesh,Visakhapatnam,INGGV,17.642,83.274
+15,Paradip Port,Major,Odisha,Paradip,INPRT,20.264,86.671
+16,Dhamra Port,Private,Odisha,Bhadrak,INDHM,20.79,86.96
+17,Kolkata Port,Major,West Bengal,Kolkata,INCCU,22.5411,88.3082
+18,Haldia Dock Complex,Major,West Bengal,Haldia,INHAL,22.03,88.06
+19,Krishnapatnam Port,Private,Andhra Pradesh,Nellore,INKRI,14.25,80.12
+20,Karaikal Port,Private,Puducherry,Karaikal,INKRK,10.92,79.85

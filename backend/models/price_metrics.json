@@ -1,0 +1,61 @@
+{
+  "cv_folds": [
+    {
+      "fold": 1,
+      "return_mae": 0.10545400709888283,
+      "price_mae": 218.9393974938731,
+      "price_mape": 12.451529732322774,
+      "best_iteration": 54
+    },
+    {
+      "fold": 2,
+      "return_mae": 0.044633639628597496,
+      "price_mae": 244.98902365944122,
+      "price_mape": 4.453327640750466,
+      "best_iteration": 70
+    },
+    {
+      "fold": 3,
+      "return_mae": 0.043798842709596074,
+      "price_mae": 86.87498911590637,
+      "price_mape": 4.448670768008987,
+      "best_iteration": 3
+    },
+    {
+      "fold": 4,
+      "return_mae": 0.05758311921881507,
+      "price_mae": 571.564651030956,
+      "price_mape": 5.737819572938247,
+      "best_iteration": 197
+    },
+    {
+      "fold": 5,
+      "return_mae": 0.04489552344055353,
+      "price_mae": 554.9938405948262,
+      "price_mape": 5.2663210393137065,
+      "best_iteration": 0
+    }
+  ],
+  "cv_return_mae": 0.06258888182526486,
+  "cv_price_mae": 378.52307789358,
+  "cv_price_mape_pct": 6.918452737211631,
+  "cv_return_r2": 0.011349806208507451,
+  "n_rows": 557,
+  "features": [
+    "total_news",
+    "average_sentiment",
+    "positive_news",
+    "negative_news",
+    "neutral_news",
+    "news_growth",
+    "price_change",
+    "price_pct_change",
+    "ma_spread",
+    "momentum",
+    "news_intensity"
+  ],
+  "target": "monthly_return",
+  "note": "Predicts return then reconstructs next_price = price*(1+return)",
+  "train_price_mape_pct": 6.768191413776234,
+  "overfit_gap_mape": -0.1502613234353971
+}

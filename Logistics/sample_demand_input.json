@@ -1,0 +1,12 @@
+{
+  "commodity": "Wheat",
+  "demand_country": "Bangladesh",
+  "quantity_tons": 100,
+  "container_type": "20FT",
+  "origin_state": null,
+  "cost_weight": 0.7,
+  "time_weight": 0.3,
+  "predicted_india_price_inr_per_quintal": 2450,
+  "demand_score": 0.86,
+  "horizon_month": "2026-08"
+}

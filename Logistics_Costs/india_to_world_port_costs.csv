@@ -1,0 +1,1321 @@
+india_port_id,india_port,india_unlocode,india_state,destination_port_id,destination_country,destination_port,destination_unlocode,container_type,ocean_freight_usd,origin_port_charge_usd,destination_port_charge_usd,container_cost_usd,logistics_cost_per_container_usd,logistics_cost_per_ton_usd,max_payload_tons,transit_days,service_type
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,902.0,210,168.0,200.0,1480.0,52.86,28,8.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1568.0,210,168.0,290.0,2236.0,74.53,30,8.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,902.0,210,168.0,200.0,1480.0,52.86,28,8.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1568.0,210,168.0,290.0,2236.0,74.53,30,8.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,902.0,210,168.0,200.0,1480.0,52.86,28,8.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1568.0,210,168.0,290.0,2236.0,74.53,30,8.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,902.0,210,168.0,200.0,1480.0,52.86,28,8.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1568.0,210,168.0,290.0,2236.0,74.53,30,8.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,210,168.0,200.0,1478.0,52.79,28,9.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,210,168.0,290.0,2218.0,73.93,30,9.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,210,168.0,200.0,1728.0,61.71,28,12.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,210,168.0,290.0,2618.0,87.27,30,12.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,210,168.0,200.0,1728.0,61.71,28,12.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,210,168.0,290.0,2618.0,87.27,30,12.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,210,168.0,200.0,1728.0,61.71,28,12.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,210,168.0,290.0,2618.0,87.27,30,12.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,210,168.0,200.0,1728.0,61.71,28,12.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,210,168.0,290.0,2618.0,87.27,30,12.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,210,168.0,200.0,1778.0,63.5,28,13.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,210,168.0,290.0,2668.0,88.93,30,13.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,210,168.0,200.0,1778.0,63.5,28,13.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,210,168.0,290.0,2668.0,88.93,30,13.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,210,168.0,200.0,1778.0,63.5,28,13.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,210,168.0,290.0,2668.0,88.93,30,13.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,210,168.0,200.0,1778.0,63.5,28,13.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,210,168.0,290.0,2668.0,88.93,30,13.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,37,Bangladesh,Chittagong Port,BDCGP,20FT,413.0,210,168.0,200.0,991.0,35.39,28,6.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,37,Bangladesh,Chittagong Port,BDCGP,40FT,708.0,210,168.0,290.0,1376.0,45.87,30,6.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,38,Bangladesh,Mongla Port,BDMON,20FT,413.0,210,168.0,200.0,991.0,35.39,28,6.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,38,Bangladesh,Mongla Port,BDMON,40FT,708.0,210,168.0,290.0,1376.0,45.87,30,6.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,39,Bangladesh,Payra Port,BDPRA,20FT,413.0,210,168.0,200.0,991.0,35.39,28,6.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,39,Bangladesh,Payra Port,BDPRA,40FT,708.0,210,168.0,290.0,1376.0,45.87,30,6.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,40,Sri Lanka,Port of Colombo,LKCMB,20FT,420.0,210,168.0,200.0,998.0,35.64,28,4.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,40,Sri Lanka,Port of Colombo,LKCMB,40FT,700.0,210,168.0,290.0,1368.0,45.6,30,4.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,420.0,210,168.0,200.0,998.0,35.64,28,4.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,700.0,210,168.0,290.0,1368.0,45.6,30,4.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,420.0,210,168.0,200.0,998.0,35.64,28,4.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,700.0,210,168.0,290.0,1368.0,45.6,30,4.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,43,Nepal,Birgunj Inland Port,NPBIR,20FT,450.0,210,168.0,200.0,1028.0,36.71,28,8.0,Multimodal
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,43,Nepal,Birgunj Inland Port,NPBIR,40FT,750.0,210,168.0,290.0,1418.0,47.27,30,8.0,Multimodal
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,44,Nepal,Biratnagar ICP,NPBRT,20FT,450.0,210,168.0,200.0,1028.0,36.71,28,8.0,Multimodal
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,44,Nepal,Biratnagar ICP,NPBRT,40FT,750.0,210,168.0,290.0,1418.0,47.27,30,8.0,Multimodal
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,49,Japan,Port of Tokyo,JPTYO,20FT,1900.0,210,168.0,200.0,2478.0,88.5,28,18.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,49,Japan,Port of Tokyo,JPTYO,40FT,3200.0,210,168.0,290.0,3868.0,128.93,30,18.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,50,Japan,Port of Yokohama,JPYOK,20FT,1900.0,210,168.0,200.0,2478.0,88.5,28,18.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,50,Japan,Port of Yokohama,JPYOK,40FT,3200.0,210,168.0,290.0,3868.0,128.93,30,18.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,51,Japan,Port of Kobe,JPUKB,20FT,1900.0,210,168.0,200.0,2478.0,88.5,28,18.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,51,Japan,Port of Kobe,JPUKB,40FT,3200.0,210,168.0,290.0,3868.0,128.93,30,18.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,52,Japan,Port of Nagoya,JPNGO,20FT,1900.0,210,168.0,200.0,2478.0,88.5,28,18.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,52,Japan,Port of Nagoya,JPNGO,40FT,3200.0,210,168.0,290.0,3868.0,128.93,30,18.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2565.0,210,168.0,200.0,3143.0,112.25,28,27.0,Transshipment
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4180.0,210,168.0,290.0,4848.0,161.6,30,27.0,Transshipment
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2565.0,210,168.0,200.0,3143.0,112.25,28,27.0,Transshipment
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4180.0,210,168.0,290.0,4848.0,161.6,30,27.0,Transshipment
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,210,168.0,200.0,3378.0,120.64,28,28.0,Transshipment
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,210,168.0,290.0,5268.0,175.6,30,28.0,Transshipment
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,210,168.0,200.0,3378.0,120.64,28,28.0,Transshipment
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,210,168.0,290.0,5268.0,175.6,30,28.0,Transshipment
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,88,Singapore,Jurong Port,SGJUR,20FT,900.0,210,168.0,200.0,1478.0,52.79,28,9.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,210,168.0,290.0,2218.0,73.93,30,9.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,89,Singapore,Tuas Port,SGTAS,20FT,900.0,210,168.0,200.0,1478.0,52.79,28,9.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,210,168.0,290.0,2218.0,73.93,30,9.0,Direct
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,210,168.0,200.0,3378.0,120.64,28,28.0,Transshipment
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,210,168.0,290.0,5268.0,175.6,30,28.0,Transshipment
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,91,Germany,Port of Rostock,DERSK,20FT,2800.0,210,168.0,200.0,3378.0,120.64,28,28.0,Transshipment
+1,Jawaharlal Nehru Port (JNPT),INNSA,Maharashtra,91,Germany,Port of Rostock,DERSK,40FT,4600.0,210,168.0,290.0,5268.0,175.6,30,28.0,Transshipment
+2,Mumbai Port,INBOM,Maharashtra,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,950.0,215,172.0,200.0,1537.0,54.89,28,8.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1650.0,215,172.0,290.0,2327.0,77.57,30,8.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,950.0,215,172.0,200.0,1537.0,54.89,28,8.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1650.0,215,172.0,290.0,2327.0,77.57,30,8.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,950.0,215,172.0,200.0,1537.0,54.89,28,8.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1650.0,215,172.0,290.0,2327.0,77.57,30,8.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,950.0,215,172.0,200.0,1537.0,54.89,28,8.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1650.0,215,172.0,290.0,2327.0,77.57,30,8.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,21,Singapore,Port of Singapore,SGSIN,20FT,1008.0,215,172.0,200.0,1595.0,56.96,28,10.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,21,Singapore,Port of Singapore,SGSIN,40FT,1736.0,215,172.0,290.0,2413.0,80.43,30,10.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1288.0,215,172.0,200.0,1875.0,66.96,28,13.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,2184.0,215,172.0,290.0,2861.0,95.37,30,13.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,27,Indonesia,Belawan Port,IDBLW,20FT,1288.0,215,172.0,200.0,1875.0,66.96,28,13.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,27,Indonesia,Belawan Port,IDBLW,40FT,2184.0,215,172.0,290.0,2861.0,95.37,30,13.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1288.0,215,172.0,200.0,1875.0,66.96,28,13.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,2184.0,215,172.0,290.0,2861.0,95.37,30,13.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,29,Indonesia,Makassar Port,IDMKS,20FT,1288.0,215,172.0,200.0,1875.0,66.96,28,13.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,29,Indonesia,Makassar Port,IDMKS,40FT,2184.0,215,172.0,290.0,2861.0,95.37,30,13.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,33,Vietnam,Cat Lai Port,VNCAT,20FT,1320.0,215,172.0,200.0,1907.0,68.11,28,14.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,33,Vietnam,Cat Lai Port,VNCAT,40FT,2200.0,215,172.0,290.0,2877.0,95.9,30,14.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,34,Vietnam,Hai Phong Port,VNHPH,20FT,1320.0,215,172.0,200.0,1907.0,68.11,28,14.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,34,Vietnam,Hai Phong Port,VNHPH,40FT,2200.0,215,172.0,290.0,2877.0,95.9,30,14.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,35,Vietnam,Da Nang Port,VNDAD,20FT,1320.0,215,172.0,200.0,1907.0,68.11,28,14.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,35,Vietnam,Da Nang Port,VNDAD,40FT,2200.0,215,172.0,290.0,2877.0,95.9,30,14.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,36,Vietnam,Cai Mep Port,VNCMT,20FT,1320.0,215,172.0,200.0,1907.0,68.11,28,14.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,36,Vietnam,Cai Mep Port,VNCMT,40FT,2200.0,215,172.0,290.0,2877.0,95.9,30,14.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,37,Bangladesh,Chittagong Port,BDCGP,20FT,420.0,215,172.0,200.0,1007.0,35.96,28,7.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,37,Bangladesh,Chittagong Port,BDCGP,40FT,720.0,215,172.0,290.0,1397.0,46.57,30,7.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,38,Bangladesh,Mongla Port,BDMON,20FT,420.0,215,172.0,200.0,1007.0,35.96,28,7.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,38,Bangladesh,Mongla Port,BDMON,40FT,720.0,215,172.0,290.0,1397.0,46.57,30,7.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,39,Bangladesh,Payra Port,BDPRA,20FT,420.0,215,172.0,200.0,1007.0,35.96,28,7.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,39,Bangladesh,Payra Port,BDPRA,40FT,720.0,215,172.0,290.0,1397.0,46.57,30,7.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,40,Sri Lanka,Port of Colombo,LKCMB,20FT,462.0,215,172.0,200.0,1049.0,37.46,28,5.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,40,Sri Lanka,Port of Colombo,LKCMB,40FT,770.0,215,172.0,290.0,1447.0,48.23,30,5.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,462.0,215,172.0,200.0,1049.0,37.46,28,5.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,770.0,215,172.0,290.0,1447.0,48.23,30,5.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,462.0,215,172.0,200.0,1049.0,37.46,28,5.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,770.0,215,172.0,290.0,1447.0,48.23,30,5.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,43,Nepal,Birgunj Inland Port,NPBIR,20FT,504.0,215,172.0,200.0,1091.0,38.96,28,9.0,Multimodal
+2,Mumbai Port,INBOM,Maharashtra,43,Nepal,Birgunj Inland Port,NPBIR,40FT,840.0,215,172.0,290.0,1517.0,50.57,30,9.0,Multimodal
+2,Mumbai Port,INBOM,Maharashtra,44,Nepal,Biratnagar ICP,NPBRT,20FT,504.0,215,172.0,200.0,1091.0,38.96,28,9.0,Multimodal
+2,Mumbai Port,INBOM,Maharashtra,44,Nepal,Biratnagar ICP,NPBRT,40FT,840.0,215,172.0,290.0,1517.0,50.57,30,9.0,Multimodal
+2,Mumbai Port,INBOM,Maharashtra,49,Japan,Port of Tokyo,JPTYO,20FT,2090.0,215,172.0,200.0,2677.0,95.61,28,19.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,49,Japan,Port of Tokyo,JPTYO,40FT,3520.0,215,172.0,290.0,4197.0,139.9,30,19.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,50,Japan,Port of Yokohama,JPYOK,20FT,2090.0,215,172.0,200.0,2677.0,95.61,28,19.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,50,Japan,Port of Yokohama,JPYOK,40FT,3520.0,215,172.0,290.0,4197.0,139.9,30,19.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,51,Japan,Port of Kobe,JPUKB,20FT,2090.0,215,172.0,200.0,2677.0,95.61,28,19.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,51,Japan,Port of Kobe,JPUKB,40FT,3520.0,215,172.0,290.0,4197.0,139.9,30,19.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,52,Japan,Port of Nagoya,JPNGO,20FT,2090.0,215,172.0,200.0,2677.0,95.61,28,19.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,52,Japan,Port of Nagoya,JPNGO,40FT,3520.0,215,172.0,290.0,4197.0,139.9,30,19.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2700.0,215,172.0,200.0,3287.0,117.39,28,27.0,Transshipment
+2,Mumbai Port,INBOM,Maharashtra,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4400.0,215,172.0,290.0,5077.0,169.23,30,27.0,Transshipment
+2,Mumbai Port,INBOM,Maharashtra,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2700.0,215,172.0,200.0,3287.0,117.39,28,27.0,Transshipment
+2,Mumbai Port,INBOM,Maharashtra,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4400.0,215,172.0,290.0,5077.0,169.23,30,27.0,Transshipment
+2,Mumbai Port,INBOM,Maharashtra,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,215,172.0,200.0,3387.0,120.96,28,28.0,Transshipment
+2,Mumbai Port,INBOM,Maharashtra,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,215,172.0,290.0,5277.0,175.9,30,28.0,Transshipment
+2,Mumbai Port,INBOM,Maharashtra,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,215,172.0,200.0,3387.0,120.96,28,28.0,Transshipment
+2,Mumbai Port,INBOM,Maharashtra,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,215,172.0,290.0,5277.0,175.9,30,28.0,Transshipment
+2,Mumbai Port,INBOM,Maharashtra,88,Singapore,Jurong Port,SGJUR,20FT,1008.0,215,172.0,200.0,1595.0,56.96,28,10.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,88,Singapore,Jurong Port,SGJUR,40FT,1736.0,215,172.0,290.0,2413.0,80.43,30,10.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,89,Singapore,Tuas Port,SGTAS,20FT,1008.0,215,172.0,200.0,1595.0,56.96,28,10.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,89,Singapore,Tuas Port,SGTAS,40FT,1736.0,215,172.0,290.0,2413.0,80.43,30,10.0,Direct
+2,Mumbai Port,INBOM,Maharashtra,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,215,172.0,200.0,3387.0,120.96,28,28.0,Transshipment
+2,Mumbai Port,INBOM,Maharashtra,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,215,172.0,290.0,5277.0,175.9,30,28.0,Transshipment
+2,Mumbai Port,INBOM,Maharashtra,91,Germany,Port of Rostock,DERSK,20FT,2800.0,215,172.0,200.0,3387.0,120.96,28,28.0,Transshipment
+2,Mumbai Port,INBOM,Maharashtra,91,Germany,Port of Rostock,DERSK,40FT,4600.0,215,172.0,290.0,5277.0,175.9,30,28.0,Transshipment
+3,Deendayal Port (Kandla),INIXY,Gujarat,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,855.0,195,156.0,200.0,1406.0,50.21,28,7.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1485.0,195,156.0,290.0,2126.0,70.87,30,7.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,855.0,195,156.0,200.0,1406.0,50.21,28,7.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1485.0,195,156.0,290.0,2126.0,70.87,30,7.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,855.0,195,156.0,200.0,1406.0,50.21,28,7.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1485.0,195,156.0,290.0,2126.0,70.87,30,7.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,855.0,195,156.0,200.0,1406.0,50.21,28,7.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1485.0,195,156.0,290.0,2126.0,70.87,30,7.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,195,156.0,200.0,1451.0,51.82,28,9.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,195,156.0,290.0,2191.0,73.03,30,9.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,195,156.0,200.0,1701.0,60.75,28,12.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,195,156.0,290.0,2591.0,86.37,30,12.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,195,156.0,200.0,1701.0,60.75,28,12.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,195,156.0,290.0,2591.0,86.37,30,12.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,195,156.0,200.0,1701.0,60.75,28,12.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,195,156.0,290.0,2591.0,86.37,30,12.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,195,156.0,200.0,1701.0,60.75,28,12.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,195,156.0,290.0,2591.0,86.37,30,12.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,195,156.0,200.0,1751.0,62.54,28,13.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,195,156.0,290.0,2641.0,88.03,30,13.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,195,156.0,200.0,1751.0,62.54,28,13.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,195,156.0,290.0,2641.0,88.03,30,13.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,195,156.0,200.0,1751.0,62.54,28,13.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,195,156.0,290.0,2641.0,88.03,30,13.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,195,156.0,200.0,1751.0,62.54,28,13.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,195,156.0,290.0,2641.0,88.03,30,13.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,37,Bangladesh,Chittagong Port,BDCGP,20FT,434.0,195,156.0,200.0,985.0,35.18,28,7.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,37,Bangladesh,Chittagong Port,BDCGP,40FT,744.0,195,156.0,290.0,1385.0,46.17,30,7.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,38,Bangladesh,Mongla Port,BDMON,20FT,434.0,195,156.0,200.0,985.0,35.18,28,7.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,38,Bangladesh,Mongla Port,BDMON,40FT,744.0,195,156.0,290.0,1385.0,46.17,30,7.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,39,Bangladesh,Payra Port,BDPRA,20FT,434.0,195,156.0,200.0,985.0,35.18,28,7.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,39,Bangladesh,Payra Port,BDPRA,40FT,744.0,195,156.0,290.0,1385.0,46.17,30,7.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,40,Sri Lanka,Port of Colombo,LKCMB,20FT,420.0,195,156.0,200.0,971.0,34.68,28,4.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,40,Sri Lanka,Port of Colombo,LKCMB,40FT,700.0,195,156.0,290.0,1341.0,44.7,30,4.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,420.0,195,156.0,200.0,971.0,34.68,28,4.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,700.0,195,156.0,290.0,1341.0,44.7,30,4.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,420.0,195,156.0,200.0,971.0,34.68,28,4.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,700.0,195,156.0,290.0,1341.0,44.7,30,4.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,43,Nepal,Birgunj Inland Port,NPBIR,20FT,450.0,195,156.0,200.0,1001.0,35.75,28,8.0,Multimodal
+3,Deendayal Port (Kandla),INIXY,Gujarat,43,Nepal,Birgunj Inland Port,NPBIR,40FT,750.0,195,156.0,290.0,1391.0,46.37,30,8.0,Multimodal
+3,Deendayal Port (Kandla),INIXY,Gujarat,44,Nepal,Biratnagar ICP,NPBRT,20FT,450.0,195,156.0,200.0,1001.0,35.75,28,8.0,Multimodal
+3,Deendayal Port (Kandla),INIXY,Gujarat,44,Nepal,Biratnagar ICP,NPBRT,40FT,750.0,195,156.0,290.0,1391.0,46.37,30,8.0,Multimodal
+3,Deendayal Port (Kandla),INIXY,Gujarat,49,Japan,Port of Tokyo,JPTYO,20FT,2185.0,195,156.0,200.0,2736.0,97.71,28,19.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,49,Japan,Port of Tokyo,JPTYO,40FT,3680.0,195,156.0,290.0,4321.0,144.03,30,19.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,50,Japan,Port of Yokohama,JPYOK,20FT,2185.0,195,156.0,200.0,2736.0,97.71,28,19.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,50,Japan,Port of Yokohama,JPYOK,40FT,3680.0,195,156.0,290.0,4321.0,144.03,30,19.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,51,Japan,Port of Kobe,JPUKB,20FT,2185.0,195,156.0,200.0,2736.0,97.71,28,19.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,51,Japan,Port of Kobe,JPUKB,40FT,3680.0,195,156.0,290.0,4321.0,144.03,30,19.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,52,Japan,Port of Nagoya,JPNGO,20FT,2185.0,195,156.0,200.0,2736.0,97.71,28,19.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,52,Japan,Port of Nagoya,JPNGO,40FT,3680.0,195,156.0,290.0,4321.0,144.03,30,19.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2484.0,195,156.0,200.0,3035.0,108.39,28,27.0,Transshipment
+3,Deendayal Port (Kandla),INIXY,Gujarat,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4048.0,195,156.0,290.0,4689.0,156.3,30,27.0,Transshipment
+3,Deendayal Port (Kandla),INIXY,Gujarat,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2484.0,195,156.0,200.0,3035.0,108.39,28,27.0,Transshipment
+3,Deendayal Port (Kandla),INIXY,Gujarat,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4048.0,195,156.0,290.0,4689.0,156.3,30,27.0,Transshipment
+3,Deendayal Port (Kandla),INIXY,Gujarat,59,Germany,Port of Hamburg,DEHAM,20FT,2576.0,195,156.0,200.0,3127.0,111.68,28,28.0,Transshipment
+3,Deendayal Port (Kandla),INIXY,Gujarat,59,Germany,Port of Hamburg,DEHAM,40FT,4232.0,195,156.0,290.0,4873.0,162.43,30,28.0,Transshipment
+3,Deendayal Port (Kandla),INIXY,Gujarat,60,Germany,Port of Bremerhaven,DEBRV,20FT,2576.0,195,156.0,200.0,3127.0,111.68,28,28.0,Transshipment
+3,Deendayal Port (Kandla),INIXY,Gujarat,60,Germany,Port of Bremerhaven,DEBRV,40FT,4232.0,195,156.0,290.0,4873.0,162.43,30,28.0,Transshipment
+3,Deendayal Port (Kandla),INIXY,Gujarat,88,Singapore,Jurong Port,SGJUR,20FT,900.0,195,156.0,200.0,1451.0,51.82,28,9.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,195,156.0,290.0,2191.0,73.03,30,9.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,89,Singapore,Tuas Port,SGTAS,20FT,900.0,195,156.0,200.0,1451.0,51.82,28,9.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,195,156.0,290.0,2191.0,73.03,30,9.0,Direct
+3,Deendayal Port (Kandla),INIXY,Gujarat,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2576.0,195,156.0,200.0,3127.0,111.68,28,28.0,Transshipment
+3,Deendayal Port (Kandla),INIXY,Gujarat,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4232.0,195,156.0,290.0,4873.0,162.43,30,28.0,Transshipment
+3,Deendayal Port (Kandla),INIXY,Gujarat,91,Germany,Port of Rostock,DERSK,20FT,2576.0,195,156.0,200.0,3127.0,111.68,28,28.0,Transshipment
+3,Deendayal Port (Kandla),INIXY,Gujarat,91,Germany,Port of Rostock,DERSK,40FT,4232.0,195,156.0,290.0,4873.0,162.43,30,28.0,Transshipment
+4,Mundra Port,INMUN,Gujarat,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,836.0,200,160.0,200.0,1396.0,49.86,28,7.0,Direct
+4,Mundra Port,INMUN,Gujarat,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1452.0,200,160.0,290.0,2102.0,70.07,30,7.0,Direct
+4,Mundra Port,INMUN,Gujarat,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,836.0,200,160.0,200.0,1396.0,49.86,28,7.0,Direct
+4,Mundra Port,INMUN,Gujarat,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1452.0,200,160.0,290.0,2102.0,70.07,30,7.0,Direct
+4,Mundra Port,INMUN,Gujarat,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,836.0,200,160.0,200.0,1396.0,49.86,28,7.0,Direct
+4,Mundra Port,INMUN,Gujarat,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1452.0,200,160.0,290.0,2102.0,70.07,30,7.0,Direct
+4,Mundra Port,INMUN,Gujarat,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,836.0,200,160.0,200.0,1396.0,49.86,28,7.0,Direct
+4,Mundra Port,INMUN,Gujarat,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1452.0,200,160.0,290.0,2102.0,70.07,30,7.0,Direct
+4,Mundra Port,INMUN,Gujarat,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,200,160.0,200.0,1460.0,52.14,28,9.0,Direct
+4,Mundra Port,INMUN,Gujarat,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,200,160.0,290.0,2200.0,73.33,30,9.0,Direct
+4,Mundra Port,INMUN,Gujarat,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,200,160.0,200.0,1710.0,61.07,28,12.0,Direct
+4,Mundra Port,INMUN,Gujarat,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,200,160.0,290.0,2600.0,86.67,30,12.0,Direct
+4,Mundra Port,INMUN,Gujarat,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,200,160.0,200.0,1710.0,61.07,28,12.0,Direct
+4,Mundra Port,INMUN,Gujarat,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,200,160.0,290.0,2600.0,86.67,30,12.0,Direct
+4,Mundra Port,INMUN,Gujarat,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,200,160.0,200.0,1710.0,61.07,28,12.0,Direct
+4,Mundra Port,INMUN,Gujarat,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,200,160.0,290.0,2600.0,86.67,30,12.0,Direct
+4,Mundra Port,INMUN,Gujarat,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,200,160.0,200.0,1710.0,61.07,28,12.0,Direct
+4,Mundra Port,INMUN,Gujarat,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,200,160.0,290.0,2600.0,86.67,30,12.0,Direct
+4,Mundra Port,INMUN,Gujarat,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,200,160.0,200.0,1760.0,62.86,28,13.0,Direct
+4,Mundra Port,INMUN,Gujarat,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,200,160.0,290.0,2650.0,88.33,30,13.0,Direct
+4,Mundra Port,INMUN,Gujarat,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,200,160.0,200.0,1760.0,62.86,28,13.0,Direct
+4,Mundra Port,INMUN,Gujarat,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,200,160.0,290.0,2650.0,88.33,30,13.0,Direct
+4,Mundra Port,INMUN,Gujarat,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,200,160.0,200.0,1760.0,62.86,28,13.0,Direct
+4,Mundra Port,INMUN,Gujarat,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,200,160.0,290.0,2650.0,88.33,30,13.0,Direct
+4,Mundra Port,INMUN,Gujarat,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,200,160.0,200.0,1760.0,62.86,28,13.0,Direct
+4,Mundra Port,INMUN,Gujarat,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,200,160.0,290.0,2650.0,88.33,30,13.0,Direct
+4,Mundra Port,INMUN,Gujarat,37,Bangladesh,Chittagong Port,BDCGP,20FT,427.0,200,160.0,200.0,987.0,35.25,28,7.0,Direct
+4,Mundra Port,INMUN,Gujarat,37,Bangladesh,Chittagong Port,BDCGP,40FT,732.0,200,160.0,290.0,1382.0,46.07,30,7.0,Direct
+4,Mundra Port,INMUN,Gujarat,38,Bangladesh,Mongla Port,BDMON,20FT,427.0,200,160.0,200.0,987.0,35.25,28,7.0,Direct
+4,Mundra Port,INMUN,Gujarat,38,Bangladesh,Mongla Port,BDMON,40FT,732.0,200,160.0,290.0,1382.0,46.07,30,7.0,Direct
+4,Mundra Port,INMUN,Gujarat,39,Bangladesh,Payra Port,BDPRA,20FT,427.0,200,160.0,200.0,987.0,35.25,28,7.0,Direct
+4,Mundra Port,INMUN,Gujarat,39,Bangladesh,Payra Port,BDPRA,40FT,732.0,200,160.0,290.0,1382.0,46.07,30,7.0,Direct
+4,Mundra Port,INMUN,Gujarat,40,Sri Lanka,Port of Colombo,LKCMB,20FT,420.0,200,160.0,200.0,980.0,35.0,28,4.0,Direct
+4,Mundra Port,INMUN,Gujarat,40,Sri Lanka,Port of Colombo,LKCMB,40FT,700.0,200,160.0,290.0,1350.0,45.0,30,4.0,Direct
+4,Mundra Port,INMUN,Gujarat,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,420.0,200,160.0,200.0,980.0,35.0,28,4.0,Direct
+4,Mundra Port,INMUN,Gujarat,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,700.0,200,160.0,290.0,1350.0,45.0,30,4.0,Direct
+4,Mundra Port,INMUN,Gujarat,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,420.0,200,160.0,200.0,980.0,35.0,28,4.0,Direct
+4,Mundra Port,INMUN,Gujarat,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,700.0,200,160.0,290.0,1350.0,45.0,30,4.0,Direct
+4,Mundra Port,INMUN,Gujarat,43,Nepal,Birgunj Inland Port,NPBIR,20FT,450.0,200,160.0,200.0,1010.0,36.07,28,8.0,Multimodal
+4,Mundra Port,INMUN,Gujarat,43,Nepal,Birgunj Inland Port,NPBIR,40FT,750.0,200,160.0,290.0,1400.0,46.67,30,8.0,Multimodal
+4,Mundra Port,INMUN,Gujarat,44,Nepal,Biratnagar ICP,NPBRT,20FT,450.0,200,160.0,200.0,1010.0,36.07,28,8.0,Multimodal
+4,Mundra Port,INMUN,Gujarat,44,Nepal,Biratnagar ICP,NPBRT,40FT,750.0,200,160.0,290.0,1400.0,46.67,30,8.0,Multimodal
+4,Mundra Port,INMUN,Gujarat,49,Japan,Port of Tokyo,JPTYO,20FT,1900.0,200,160.0,200.0,2460.0,87.86,28,18.0,Direct
+4,Mundra Port,INMUN,Gujarat,49,Japan,Port of Tokyo,JPTYO,40FT,3200.0,200,160.0,290.0,3850.0,128.33,30,18.0,Direct
+4,Mundra Port,INMUN,Gujarat,50,Japan,Port of Yokohama,JPYOK,20FT,1900.0,200,160.0,200.0,2460.0,87.86,28,18.0,Direct
+4,Mundra Port,INMUN,Gujarat,50,Japan,Port of Yokohama,JPYOK,40FT,3200.0,200,160.0,290.0,3850.0,128.33,30,18.0,Direct
+4,Mundra Port,INMUN,Gujarat,51,Japan,Port of Kobe,JPUKB,20FT,1900.0,200,160.0,200.0,2460.0,87.86,28,18.0,Direct
+4,Mundra Port,INMUN,Gujarat,51,Japan,Port of Kobe,JPUKB,40FT,3200.0,200,160.0,290.0,3850.0,128.33,30,18.0,Direct
+4,Mundra Port,INMUN,Gujarat,52,Japan,Port of Nagoya,JPNGO,20FT,1900.0,200,160.0,200.0,2460.0,87.86,28,18.0,Direct
+4,Mundra Port,INMUN,Gujarat,52,Japan,Port of Nagoya,JPNGO,40FT,3200.0,200,160.0,290.0,3850.0,128.33,30,18.0,Direct
+4,Mundra Port,INMUN,Gujarat,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2430.0,200,160.0,200.0,2990.0,106.79,28,26.0,Transshipment
+4,Mundra Port,INMUN,Gujarat,57,Netherlands,Port of Rotterdam,NLRTM,40FT,3960.0,200,160.0,290.0,4610.0,153.67,30,26.0,Transshipment
+4,Mundra Port,INMUN,Gujarat,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2430.0,200,160.0,200.0,2990.0,106.79,28,26.0,Transshipment
+4,Mundra Port,INMUN,Gujarat,58,Netherlands,Port of Amsterdam,NLAMS,40FT,3960.0,200,160.0,290.0,4610.0,153.67,30,26.0,Transshipment
+4,Mundra Port,INMUN,Gujarat,59,Germany,Port of Hamburg,DEHAM,20FT,2520.0,200,160.0,200.0,3080.0,110.0,28,27.0,Transshipment
+4,Mundra Port,INMUN,Gujarat,59,Germany,Port of Hamburg,DEHAM,40FT,4140.0,200,160.0,290.0,4790.0,159.67,30,27.0,Transshipment
+4,Mundra Port,INMUN,Gujarat,60,Germany,Port of Bremerhaven,DEBRV,20FT,2520.0,200,160.0,200.0,3080.0,110.0,28,27.0,Transshipment
+4,Mundra Port,INMUN,Gujarat,60,Germany,Port of Bremerhaven,DEBRV,40FT,4140.0,200,160.0,290.0,4790.0,159.67,30,27.0,Transshipment
+4,Mundra Port,INMUN,Gujarat,88,Singapore,Jurong Port,SGJUR,20FT,900.0,200,160.0,200.0,1460.0,52.14,28,9.0,Direct
+4,Mundra Port,INMUN,Gujarat,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,200,160.0,290.0,2200.0,73.33,30,9.0,Direct
+4,Mundra Port,INMUN,Gujarat,89,Singapore,Tuas Port,SGTAS,20FT,900.0,200,160.0,200.0,1460.0,52.14,28,9.0,Direct
+4,Mundra Port,INMUN,Gujarat,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,200,160.0,290.0,2200.0,73.33,30,9.0,Direct
+4,Mundra Port,INMUN,Gujarat,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2520.0,200,160.0,200.0,3080.0,110.0,28,27.0,Transshipment
+4,Mundra Port,INMUN,Gujarat,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4140.0,200,160.0,290.0,4790.0,159.67,30,27.0,Transshipment
+4,Mundra Port,INMUN,Gujarat,91,Germany,Port of Rostock,DERSK,20FT,2520.0,200,160.0,200.0,3080.0,110.0,28,27.0,Transshipment
+4,Mundra Port,INMUN,Gujarat,91,Germany,Port of Rostock,DERSK,40FT,4140.0,200,160.0,290.0,4790.0,159.67,30,27.0,Transshipment
+5,Pipavav Port,INPAV,Gujarat,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,950.0,196,156.8,200.0,1502.8,53.67,28,8.0,Direct
+5,Pipavav Port,INPAV,Gujarat,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1650.0,196,156.8,290.0,2292.8,76.43,30,8.0,Direct
+5,Pipavav Port,INPAV,Gujarat,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,950.0,196,156.8,200.0,1502.8,53.67,28,8.0,Direct
+5,Pipavav Port,INPAV,Gujarat,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1650.0,196,156.8,290.0,2292.8,76.43,30,8.0,Direct
+5,Pipavav Port,INPAV,Gujarat,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,950.0,196,156.8,200.0,1502.8,53.67,28,8.0,Direct
+5,Pipavav Port,INPAV,Gujarat,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1650.0,196,156.8,290.0,2292.8,76.43,30,8.0,Direct
+5,Pipavav Port,INPAV,Gujarat,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,950.0,196,156.8,200.0,1502.8,53.67,28,8.0,Direct
+5,Pipavav Port,INPAV,Gujarat,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1650.0,196,156.8,290.0,2292.8,76.43,30,8.0,Direct
+5,Pipavav Port,INPAV,Gujarat,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,196,156.8,200.0,1452.8,51.89,28,9.0,Direct
+5,Pipavav Port,INPAV,Gujarat,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,196,156.8,290.0,2192.8,73.09,30,9.0,Direct
+5,Pipavav Port,INPAV,Gujarat,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,196,156.8,200.0,1702.8,60.81,28,12.0,Direct
+5,Pipavav Port,INPAV,Gujarat,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,196,156.8,290.0,2592.8,86.43,30,12.0,Direct
+5,Pipavav Port,INPAV,Gujarat,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,196,156.8,200.0,1702.8,60.81,28,12.0,Direct
+5,Pipavav Port,INPAV,Gujarat,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,196,156.8,290.0,2592.8,86.43,30,12.0,Direct
+5,Pipavav Port,INPAV,Gujarat,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,196,156.8,200.0,1702.8,60.81,28,12.0,Direct
+5,Pipavav Port,INPAV,Gujarat,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,196,156.8,290.0,2592.8,86.43,30,12.0,Direct
+5,Pipavav Port,INPAV,Gujarat,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,196,156.8,200.0,1702.8,60.81,28,12.0,Direct
+5,Pipavav Port,INPAV,Gujarat,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,196,156.8,290.0,2592.8,86.43,30,12.0,Direct
+5,Pipavav Port,INPAV,Gujarat,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,196,156.8,200.0,1752.8,62.6,28,13.0,Direct
+5,Pipavav Port,INPAV,Gujarat,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,196,156.8,290.0,2642.8,88.09,30,13.0,Direct
+5,Pipavav Port,INPAV,Gujarat,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,196,156.8,200.0,1752.8,62.6,28,13.0,Direct
+5,Pipavav Port,INPAV,Gujarat,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,196,156.8,290.0,2642.8,88.09,30,13.0,Direct
+5,Pipavav Port,INPAV,Gujarat,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,196,156.8,200.0,1752.8,62.6,28,13.0,Direct
+5,Pipavav Port,INPAV,Gujarat,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,196,156.8,290.0,2642.8,88.09,30,13.0,Direct
+5,Pipavav Port,INPAV,Gujarat,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,196,156.8,200.0,1752.8,62.6,28,13.0,Direct
+5,Pipavav Port,INPAV,Gujarat,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,196,156.8,290.0,2642.8,88.09,30,13.0,Direct
+5,Pipavav Port,INPAV,Gujarat,37,Bangladesh,Chittagong Port,BDCGP,20FT,350.0,196,156.8,200.0,902.8,32.24,28,5.0,Direct
+5,Pipavav Port,INPAV,Gujarat,37,Bangladesh,Chittagong Port,BDCGP,40FT,600.0,196,156.8,290.0,1242.8,41.43,30,5.0,Direct
+5,Pipavav Port,INPAV,Gujarat,38,Bangladesh,Mongla Port,BDMON,20FT,350.0,196,156.8,200.0,902.8,32.24,28,5.0,Direct
+5,Pipavav Port,INPAV,Gujarat,38,Bangladesh,Mongla Port,BDMON,40FT,600.0,196,156.8,290.0,1242.8,41.43,30,5.0,Direct
+5,Pipavav Port,INPAV,Gujarat,39,Bangladesh,Payra Port,BDPRA,20FT,350.0,196,156.8,200.0,902.8,32.24,28,5.0,Direct
+5,Pipavav Port,INPAV,Gujarat,39,Bangladesh,Payra Port,BDPRA,40FT,600.0,196,156.8,290.0,1242.8,41.43,30,5.0,Direct
+5,Pipavav Port,INPAV,Gujarat,40,Sri Lanka,Port of Colombo,LKCMB,20FT,420.0,196,156.8,200.0,972.8,34.74,28,4.0,Direct
+5,Pipavav Port,INPAV,Gujarat,40,Sri Lanka,Port of Colombo,LKCMB,40FT,700.0,196,156.8,290.0,1342.8,44.76,30,4.0,Direct
+5,Pipavav Port,INPAV,Gujarat,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,420.0,196,156.8,200.0,972.8,34.74,28,4.0,Direct
+5,Pipavav Port,INPAV,Gujarat,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,700.0,196,156.8,290.0,1342.8,44.76,30,4.0,Direct
+5,Pipavav Port,INPAV,Gujarat,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,420.0,196,156.8,200.0,972.8,34.74,28,4.0,Direct
+5,Pipavav Port,INPAV,Gujarat,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,700.0,196,156.8,290.0,1342.8,44.76,30,4.0,Direct
+5,Pipavav Port,INPAV,Gujarat,43,Nepal,Birgunj Inland Port,NPBIR,20FT,450.0,196,156.8,200.0,1002.8,35.81,28,8.0,Multimodal
+5,Pipavav Port,INPAV,Gujarat,43,Nepal,Birgunj Inland Port,NPBIR,40FT,750.0,196,156.8,290.0,1392.8,46.43,30,8.0,Multimodal
+5,Pipavav Port,INPAV,Gujarat,44,Nepal,Biratnagar ICP,NPBRT,20FT,450.0,196,156.8,200.0,1002.8,35.81,28,8.0,Multimodal
+5,Pipavav Port,INPAV,Gujarat,44,Nepal,Biratnagar ICP,NPBRT,40FT,750.0,196,156.8,290.0,1392.8,46.43,30,8.0,Multimodal
+5,Pipavav Port,INPAV,Gujarat,49,Japan,Port of Tokyo,JPTYO,20FT,1900.0,196,156.8,200.0,2452.8,87.6,28,18.0,Direct
+5,Pipavav Port,INPAV,Gujarat,49,Japan,Port of Tokyo,JPTYO,40FT,3200.0,196,156.8,290.0,3842.8,128.09,30,18.0,Direct
+5,Pipavav Port,INPAV,Gujarat,50,Japan,Port of Yokohama,JPYOK,20FT,1900.0,196,156.8,200.0,2452.8,87.6,28,18.0,Direct
+5,Pipavav Port,INPAV,Gujarat,50,Japan,Port of Yokohama,JPYOK,40FT,3200.0,196,156.8,290.0,3842.8,128.09,30,18.0,Direct
+5,Pipavav Port,INPAV,Gujarat,51,Japan,Port of Kobe,JPUKB,20FT,1900.0,196,156.8,200.0,2452.8,87.6,28,18.0,Direct
+5,Pipavav Port,INPAV,Gujarat,51,Japan,Port of Kobe,JPUKB,40FT,3200.0,196,156.8,290.0,3842.8,128.09,30,18.0,Direct
+5,Pipavav Port,INPAV,Gujarat,52,Japan,Port of Nagoya,JPNGO,20FT,1900.0,196,156.8,200.0,2452.8,87.6,28,18.0,Direct
+5,Pipavav Port,INPAV,Gujarat,52,Japan,Port of Nagoya,JPNGO,40FT,3200.0,196,156.8,290.0,3842.8,128.09,30,18.0,Direct
+5,Pipavav Port,INPAV,Gujarat,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2700.0,196,156.8,200.0,3252.8,116.17,28,27.0,Transshipment
+5,Pipavav Port,INPAV,Gujarat,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4400.0,196,156.8,290.0,5042.8,168.09,30,27.0,Transshipment
+5,Pipavav Port,INPAV,Gujarat,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2700.0,196,156.8,200.0,3252.8,116.17,28,27.0,Transshipment
+5,Pipavav Port,INPAV,Gujarat,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4400.0,196,156.8,290.0,5042.8,168.09,30,27.0,Transshipment
+5,Pipavav Port,INPAV,Gujarat,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,196,156.8,200.0,3352.8,119.74,28,28.0,Transshipment
+5,Pipavav Port,INPAV,Gujarat,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,196,156.8,290.0,5242.8,174.76,30,28.0,Transshipment
+5,Pipavav Port,INPAV,Gujarat,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,196,156.8,200.0,3352.8,119.74,28,28.0,Transshipment
+5,Pipavav Port,INPAV,Gujarat,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,196,156.8,290.0,5242.8,174.76,30,28.0,Transshipment
+5,Pipavav Port,INPAV,Gujarat,88,Singapore,Jurong Port,SGJUR,20FT,900.0,196,156.8,200.0,1452.8,51.89,28,9.0,Direct
+5,Pipavav Port,INPAV,Gujarat,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,196,156.8,290.0,2192.8,73.09,30,9.0,Direct
+5,Pipavav Port,INPAV,Gujarat,89,Singapore,Tuas Port,SGTAS,20FT,900.0,196,156.8,200.0,1452.8,51.89,28,9.0,Direct
+5,Pipavav Port,INPAV,Gujarat,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,196,156.8,290.0,2192.8,73.09,30,9.0,Direct
+5,Pipavav Port,INPAV,Gujarat,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,196,156.8,200.0,3352.8,119.74,28,28.0,Transshipment
+5,Pipavav Port,INPAV,Gujarat,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,196,156.8,290.0,5242.8,174.76,30,28.0,Transshipment
+5,Pipavav Port,INPAV,Gujarat,91,Germany,Port of Rostock,DERSK,20FT,2800.0,196,156.8,200.0,3352.8,119.74,28,28.0,Transshipment
+5,Pipavav Port,INPAV,Gujarat,91,Germany,Port of Rostock,DERSK,40FT,4600.0,196,156.8,290.0,5242.8,174.76,30,28.0,Transshipment
+6,Hazira Port,INHZA,Gujarat,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,950.0,198,158.4,200.0,1506.4,53.8,28,8.0,Direct
+6,Hazira Port,INHZA,Gujarat,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1650.0,198,158.4,290.0,2296.4,76.55,30,8.0,Direct
+6,Hazira Port,INHZA,Gujarat,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,950.0,198,158.4,200.0,1506.4,53.8,28,8.0,Direct
+6,Hazira Port,INHZA,Gujarat,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1650.0,198,158.4,290.0,2296.4,76.55,30,8.0,Direct
+6,Hazira Port,INHZA,Gujarat,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,950.0,198,158.4,200.0,1506.4,53.8,28,8.0,Direct
+6,Hazira Port,INHZA,Gujarat,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1650.0,198,158.4,290.0,2296.4,76.55,30,8.0,Direct
+6,Hazira Port,INHZA,Gujarat,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,950.0,198,158.4,200.0,1506.4,53.8,28,8.0,Direct
+6,Hazira Port,INHZA,Gujarat,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1650.0,198,158.4,290.0,2296.4,76.55,30,8.0,Direct
+6,Hazira Port,INHZA,Gujarat,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,198,158.4,200.0,1456.4,52.01,28,9.0,Direct
+6,Hazira Port,INHZA,Gujarat,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,198,158.4,290.0,2196.4,73.21,30,9.0,Direct
+6,Hazira Port,INHZA,Gujarat,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,198,158.4,200.0,1706.4,60.94,28,12.0,Direct
+6,Hazira Port,INHZA,Gujarat,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,198,158.4,290.0,2596.4,86.55,30,12.0,Direct
+6,Hazira Port,INHZA,Gujarat,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,198,158.4,200.0,1706.4,60.94,28,12.0,Direct
+6,Hazira Port,INHZA,Gujarat,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,198,158.4,290.0,2596.4,86.55,30,12.0,Direct
+6,Hazira Port,INHZA,Gujarat,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,198,158.4,200.0,1706.4,60.94,28,12.0,Direct
+6,Hazira Port,INHZA,Gujarat,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,198,158.4,290.0,2596.4,86.55,30,12.0,Direct
+6,Hazira Port,INHZA,Gujarat,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,198,158.4,200.0,1706.4,60.94,28,12.0,Direct
+6,Hazira Port,INHZA,Gujarat,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,198,158.4,290.0,2596.4,86.55,30,12.0,Direct
+6,Hazira Port,INHZA,Gujarat,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,198,158.4,200.0,1756.4,62.73,28,13.0,Direct
+6,Hazira Port,INHZA,Gujarat,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,198,158.4,290.0,2646.4,88.21,30,13.0,Direct
+6,Hazira Port,INHZA,Gujarat,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,198,158.4,200.0,1756.4,62.73,28,13.0,Direct
+6,Hazira Port,INHZA,Gujarat,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,198,158.4,290.0,2646.4,88.21,30,13.0,Direct
+6,Hazira Port,INHZA,Gujarat,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,198,158.4,200.0,1756.4,62.73,28,13.0,Direct
+6,Hazira Port,INHZA,Gujarat,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,198,158.4,290.0,2646.4,88.21,30,13.0,Direct
+6,Hazira Port,INHZA,Gujarat,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,198,158.4,200.0,1756.4,62.73,28,13.0,Direct
+6,Hazira Port,INHZA,Gujarat,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,198,158.4,290.0,2646.4,88.21,30,13.0,Direct
+6,Hazira Port,INHZA,Gujarat,37,Bangladesh,Chittagong Port,BDCGP,20FT,350.0,198,158.4,200.0,906.4,32.37,28,5.0,Direct
+6,Hazira Port,INHZA,Gujarat,37,Bangladesh,Chittagong Port,BDCGP,40FT,600.0,198,158.4,290.0,1246.4,41.55,30,5.0,Direct
+6,Hazira Port,INHZA,Gujarat,38,Bangladesh,Mongla Port,BDMON,20FT,350.0,198,158.4,200.0,906.4,32.37,28,5.0,Direct
+6,Hazira Port,INHZA,Gujarat,38,Bangladesh,Mongla Port,BDMON,40FT,600.0,198,158.4,290.0,1246.4,41.55,30,5.0,Direct
+6,Hazira Port,INHZA,Gujarat,39,Bangladesh,Payra Port,BDPRA,20FT,350.0,198,158.4,200.0,906.4,32.37,28,5.0,Direct
+6,Hazira Port,INHZA,Gujarat,39,Bangladesh,Payra Port,BDPRA,40FT,600.0,198,158.4,290.0,1246.4,41.55,30,5.0,Direct
+6,Hazira Port,INHZA,Gujarat,40,Sri Lanka,Port of Colombo,LKCMB,20FT,420.0,198,158.4,200.0,976.4,34.87,28,4.0,Direct
+6,Hazira Port,INHZA,Gujarat,40,Sri Lanka,Port of Colombo,LKCMB,40FT,700.0,198,158.4,290.0,1346.4,44.88,30,4.0,Direct
+6,Hazira Port,INHZA,Gujarat,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,420.0,198,158.4,200.0,976.4,34.87,28,4.0,Direct
+6,Hazira Port,INHZA,Gujarat,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,700.0,198,158.4,290.0,1346.4,44.88,30,4.0,Direct
+6,Hazira Port,INHZA,Gujarat,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,420.0,198,158.4,200.0,976.4,34.87,28,4.0,Direct
+6,Hazira Port,INHZA,Gujarat,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,700.0,198,158.4,290.0,1346.4,44.88,30,4.0,Direct
+6,Hazira Port,INHZA,Gujarat,43,Nepal,Birgunj Inland Port,NPBIR,20FT,450.0,198,158.4,200.0,1006.4,35.94,28,8.0,Multimodal
+6,Hazira Port,INHZA,Gujarat,43,Nepal,Birgunj Inland Port,NPBIR,40FT,750.0,198,158.4,290.0,1396.4,46.55,30,8.0,Multimodal
+6,Hazira Port,INHZA,Gujarat,44,Nepal,Biratnagar ICP,NPBRT,20FT,450.0,198,158.4,200.0,1006.4,35.94,28,8.0,Multimodal
+6,Hazira Port,INHZA,Gujarat,44,Nepal,Biratnagar ICP,NPBRT,40FT,750.0,198,158.4,290.0,1396.4,46.55,30,8.0,Multimodal
+6,Hazira Port,INHZA,Gujarat,49,Japan,Port of Tokyo,JPTYO,20FT,1900.0,198,158.4,200.0,2456.4,87.73,28,18.0,Direct
+6,Hazira Port,INHZA,Gujarat,49,Japan,Port of Tokyo,JPTYO,40FT,3200.0,198,158.4,290.0,3846.4,128.21,30,18.0,Direct
+6,Hazira Port,INHZA,Gujarat,50,Japan,Port of Yokohama,JPYOK,20FT,1900.0,198,158.4,200.0,2456.4,87.73,28,18.0,Direct
+6,Hazira Port,INHZA,Gujarat,50,Japan,Port of Yokohama,JPYOK,40FT,3200.0,198,158.4,290.0,3846.4,128.21,30,18.0,Direct
+6,Hazira Port,INHZA,Gujarat,51,Japan,Port of Kobe,JPUKB,20FT,1900.0,198,158.4,200.0,2456.4,87.73,28,18.0,Direct
+6,Hazira Port,INHZA,Gujarat,51,Japan,Port of Kobe,JPUKB,40FT,3200.0,198,158.4,290.0,3846.4,128.21,30,18.0,Direct
+6,Hazira Port,INHZA,Gujarat,52,Japan,Port of Nagoya,JPNGO,20FT,1900.0,198,158.4,200.0,2456.4,87.73,28,18.0,Direct
+6,Hazira Port,INHZA,Gujarat,52,Japan,Port of Nagoya,JPNGO,40FT,3200.0,198,158.4,290.0,3846.4,128.21,30,18.0,Direct
+6,Hazira Port,INHZA,Gujarat,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2700.0,198,158.4,200.0,3256.4,116.3,28,27.0,Transshipment
+6,Hazira Port,INHZA,Gujarat,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4400.0,198,158.4,290.0,5046.4,168.21,30,27.0,Transshipment
+6,Hazira Port,INHZA,Gujarat,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2700.0,198,158.4,200.0,3256.4,116.3,28,27.0,Transshipment
+6,Hazira Port,INHZA,Gujarat,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4400.0,198,158.4,290.0,5046.4,168.21,30,27.0,Transshipment
+6,Hazira Port,INHZA,Gujarat,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,198,158.4,200.0,3356.4,119.87,28,28.0,Transshipment
+6,Hazira Port,INHZA,Gujarat,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,198,158.4,290.0,5246.4,174.88,30,28.0,Transshipment
+6,Hazira Port,INHZA,Gujarat,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,198,158.4,200.0,3356.4,119.87,28,28.0,Transshipment
+6,Hazira Port,INHZA,Gujarat,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,198,158.4,290.0,5246.4,174.88,30,28.0,Transshipment
+6,Hazira Port,INHZA,Gujarat,88,Singapore,Jurong Port,SGJUR,20FT,900.0,198,158.4,200.0,1456.4,52.01,28,9.0,Direct
+6,Hazira Port,INHZA,Gujarat,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,198,158.4,290.0,2196.4,73.21,30,9.0,Direct
+6,Hazira Port,INHZA,Gujarat,89,Singapore,Tuas Port,SGTAS,20FT,900.0,198,158.4,200.0,1456.4,52.01,28,9.0,Direct
+6,Hazira Port,INHZA,Gujarat,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,198,158.4,290.0,2196.4,73.21,30,9.0,Direct
+6,Hazira Port,INHZA,Gujarat,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,198,158.4,200.0,3356.4,119.87,28,28.0,Transshipment
+6,Hazira Port,INHZA,Gujarat,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,198,158.4,290.0,5246.4,174.88,30,28.0,Transshipment
+6,Hazira Port,INHZA,Gujarat,91,Germany,Port of Rostock,DERSK,20FT,2800.0,198,158.4,200.0,3356.4,119.87,28,28.0,Transshipment
+6,Hazira Port,INHZA,Gujarat,91,Germany,Port of Rostock,DERSK,40FT,4600.0,198,158.4,290.0,5246.4,174.88,30,28.0,Transshipment
+7,Chennai Port,INMAA,Tamil Nadu,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,1092.0,212,169.6,200.0,1673.6,59.77,28,9.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1897.0,212,169.6,290.0,2568.6,85.62,30,9.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,1092.0,212,169.6,200.0,1673.6,59.77,28,9.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1897.0,212,169.6,290.0,2568.6,85.62,30,9.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,1092.0,212,169.6,200.0,1673.6,59.77,28,9.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1897.0,212,169.6,290.0,2568.6,85.62,30,9.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,1092.0,212,169.6,200.0,1673.6,59.77,28,9.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1897.0,212,169.6,290.0,2568.6,85.62,30,9.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,21,Singapore,Port of Singapore,SGSIN,20FT,810.0,212,169.6,200.0,1391.6,49.7,28,8.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,21,Singapore,Port of Singapore,SGSIN,40FT,1395.0,212,169.6,290.0,2066.6,68.89,30,8.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1058.0,212,169.6,200.0,1639.6,58.56,28,12.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1794.0,212,169.6,290.0,2465.6,82.19,30,12.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,27,Indonesia,Belawan Port,IDBLW,20FT,1058.0,212,169.6,200.0,1639.6,58.56,28,12.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,27,Indonesia,Belawan Port,IDBLW,40FT,1794.0,212,169.6,290.0,2465.6,82.19,30,12.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1058.0,212,169.6,200.0,1639.6,58.56,28,12.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1794.0,212,169.6,290.0,2465.6,82.19,30,12.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,29,Indonesia,Makassar Port,IDMKS,20FT,1058.0,212,169.6,200.0,1639.6,58.56,28,12.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,29,Indonesia,Makassar Port,IDMKS,40FT,1794.0,212,169.6,290.0,2465.6,82.19,30,12.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,33,Vietnam,Cat Lai Port,VNCAT,20FT,1140.0,212,169.6,200.0,1721.6,61.49,28,13.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,33,Vietnam,Cat Lai Port,VNCAT,40FT,1900.0,212,169.6,290.0,2571.6,85.72,30,13.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,34,Vietnam,Hai Phong Port,VNHPH,20FT,1140.0,212,169.6,200.0,1721.6,61.49,28,13.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,34,Vietnam,Hai Phong Port,VNHPH,40FT,1900.0,212,169.6,290.0,2571.6,85.72,30,13.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,35,Vietnam,Da Nang Port,VNDAD,20FT,1140.0,212,169.6,200.0,1721.6,61.49,28,13.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,35,Vietnam,Da Nang Port,VNDAD,40FT,1900.0,212,169.6,290.0,2571.6,85.72,30,13.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,36,Vietnam,Cai Mep Port,VNCMT,20FT,1140.0,212,169.6,200.0,1721.6,61.49,28,13.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,36,Vietnam,Cai Mep Port,VNCMT,40FT,1900.0,212,169.6,290.0,2571.6,85.72,30,13.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,37,Bangladesh,Chittagong Port,BDCGP,20FT,385.0,212,169.6,200.0,966.6,34.52,28,6.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,37,Bangladesh,Chittagong Port,BDCGP,40FT,660.0,212,169.6,290.0,1331.6,44.39,30,6.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,38,Bangladesh,Mongla Port,BDMON,20FT,385.0,212,169.6,200.0,966.6,34.52,28,6.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,38,Bangladesh,Mongla Port,BDMON,40FT,660.0,212,169.6,290.0,1331.6,44.39,30,6.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,39,Bangladesh,Payra Port,BDPRA,20FT,385.0,212,169.6,200.0,966.6,34.52,28,6.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,39,Bangladesh,Payra Port,BDPRA,40FT,660.0,212,169.6,290.0,1331.6,44.39,30,6.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,40,Sri Lanka,Port of Colombo,LKCMB,20FT,386.0,212,169.6,200.0,967.6,34.56,28,4.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,40,Sri Lanka,Port of Colombo,LKCMB,40FT,644.0,212,169.6,290.0,1315.6,43.85,30,4.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,386.0,212,169.6,200.0,967.6,34.56,28,4.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,644.0,212,169.6,290.0,1315.6,43.85,30,4.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,386.0,212,169.6,200.0,967.6,34.56,28,4.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,644.0,212,169.6,290.0,1315.6,43.85,30,4.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,43,Nepal,Birgunj Inland Port,NPBIR,20FT,531.0,212,169.6,200.0,1112.6,39.74,28,9.0,Multimodal
+7,Chennai Port,INMAA,Tamil Nadu,43,Nepal,Birgunj Inland Port,NPBIR,40FT,885.0,212,169.6,290.0,1556.6,51.89,30,9.0,Multimodal
+7,Chennai Port,INMAA,Tamil Nadu,44,Nepal,Biratnagar ICP,NPBRT,20FT,531.0,212,169.6,200.0,1112.6,39.74,28,9.0,Multimodal
+7,Chennai Port,INMAA,Tamil Nadu,44,Nepal,Biratnagar ICP,NPBRT,40FT,885.0,212,169.6,290.0,1556.6,51.89,30,9.0,Multimodal
+7,Chennai Port,INMAA,Tamil Nadu,49,Japan,Port of Tokyo,JPTYO,20FT,1748.0,212,169.6,200.0,2329.6,83.2,28,18.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,49,Japan,Port of Tokyo,JPTYO,40FT,2944.0,212,169.6,290.0,3615.6,120.52,30,18.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,50,Japan,Port of Yokohama,JPYOK,20FT,1748.0,212,169.6,200.0,2329.6,83.2,28,18.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,50,Japan,Port of Yokohama,JPYOK,40FT,2944.0,212,169.6,290.0,3615.6,120.52,30,18.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,51,Japan,Port of Kobe,JPUKB,20FT,1748.0,212,169.6,200.0,2329.6,83.2,28,18.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,51,Japan,Port of Kobe,JPUKB,40FT,2944.0,212,169.6,290.0,3615.6,120.52,30,18.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,52,Japan,Port of Nagoya,JPNGO,20FT,1748.0,212,169.6,200.0,2329.6,83.2,28,18.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,52,Japan,Port of Nagoya,JPNGO,40FT,2944.0,212,169.6,290.0,3615.6,120.52,30,18.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2916.0,212,169.6,200.0,3497.6,124.91,28,27.0,Transshipment
+7,Chennai Port,INMAA,Tamil Nadu,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4752.0,212,169.6,290.0,5423.6,180.79,30,27.0,Transshipment
+7,Chennai Port,INMAA,Tamil Nadu,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2916.0,212,169.6,200.0,3497.6,124.91,28,27.0,Transshipment
+7,Chennai Port,INMAA,Tamil Nadu,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4752.0,212,169.6,290.0,5423.6,180.79,30,27.0,Transshipment
+7,Chennai Port,INMAA,Tamil Nadu,59,Germany,Port of Hamburg,DEHAM,20FT,3024.0,212,169.6,200.0,3605.6,128.77,28,28.0,Transshipment
+7,Chennai Port,INMAA,Tamil Nadu,59,Germany,Port of Hamburg,DEHAM,40FT,4968.0,212,169.6,290.0,5639.6,187.99,30,28.0,Transshipment
+7,Chennai Port,INMAA,Tamil Nadu,60,Germany,Port of Bremerhaven,DEBRV,20FT,3024.0,212,169.6,200.0,3605.6,128.77,28,28.0,Transshipment
+7,Chennai Port,INMAA,Tamil Nadu,60,Germany,Port of Bremerhaven,DEBRV,40FT,4968.0,212,169.6,290.0,5639.6,187.99,30,28.0,Transshipment
+7,Chennai Port,INMAA,Tamil Nadu,88,Singapore,Jurong Port,SGJUR,20FT,810.0,212,169.6,200.0,1391.6,49.7,28,8.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,88,Singapore,Jurong Port,SGJUR,40FT,1395.0,212,169.6,290.0,2066.6,68.89,30,8.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,89,Singapore,Tuas Port,SGTAS,20FT,810.0,212,169.6,200.0,1391.6,49.7,28,8.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,89,Singapore,Tuas Port,SGTAS,40FT,1395.0,212,169.6,290.0,2066.6,68.89,30,8.0,Direct
+7,Chennai Port,INMAA,Tamil Nadu,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,3024.0,212,169.6,200.0,3605.6,128.77,28,28.0,Transshipment
+7,Chennai Port,INMAA,Tamil Nadu,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4968.0,212,169.6,290.0,5639.6,187.99,30,28.0,Transshipment
+7,Chennai Port,INMAA,Tamil Nadu,91,Germany,Port of Rostock,DERSK,20FT,3024.0,212,169.6,200.0,3605.6,128.77,28,28.0,Transshipment
+7,Chennai Port,INMAA,Tamil Nadu,91,Germany,Port of Rostock,DERSK,40FT,4968.0,212,169.6,290.0,5639.6,187.99,30,28.0,Transshipment
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,950.0,210,168.0,200.0,1528.0,54.57,28,8.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1650.0,210,168.0,290.0,2318.0,77.27,30,8.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,950.0,210,168.0,200.0,1528.0,54.57,28,8.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1650.0,210,168.0,290.0,2318.0,77.27,30,8.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,950.0,210,168.0,200.0,1528.0,54.57,28,8.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1650.0,210,168.0,290.0,2318.0,77.27,30,8.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,950.0,210,168.0,200.0,1528.0,54.57,28,8.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1650.0,210,168.0,290.0,2318.0,77.27,30,8.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,21,Singapore,Port of Singapore,SGSIN,20FT,828.0,210,168.0,200.0,1406.0,50.21,28,9.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,21,Singapore,Port of Singapore,SGSIN,40FT,1426.0,210,168.0,290.0,2094.0,69.8,30,9.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,210,168.0,200.0,1728.0,61.71,28,12.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,210,168.0,290.0,2618.0,87.27,30,12.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,210,168.0,200.0,1728.0,61.71,28,12.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,210,168.0,290.0,2618.0,87.27,30,12.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,210,168.0,200.0,1728.0,61.71,28,12.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,210,168.0,290.0,2618.0,87.27,30,12.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,210,168.0,200.0,1728.0,61.71,28,12.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,210,168.0,290.0,2618.0,87.27,30,12.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,210,168.0,200.0,1778.0,63.5,28,13.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,210,168.0,290.0,2668.0,88.93,30,13.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,210,168.0,200.0,1778.0,63.5,28,13.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,210,168.0,290.0,2668.0,88.93,30,13.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,210,168.0,200.0,1778.0,63.5,28,13.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,210,168.0,290.0,2668.0,88.93,30,13.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,210,168.0,200.0,1778.0,63.5,28,13.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,210,168.0,290.0,2668.0,88.93,30,13.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,37,Bangladesh,Chittagong Port,BDCGP,20FT,392.0,210,168.0,200.0,970.0,34.64,28,6.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,37,Bangladesh,Chittagong Port,BDCGP,40FT,672.0,210,168.0,290.0,1340.0,44.67,30,6.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,38,Bangladesh,Mongla Port,BDMON,20FT,392.0,210,168.0,200.0,970.0,34.64,28,6.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,38,Bangladesh,Mongla Port,BDMON,40FT,672.0,210,168.0,290.0,1340.0,44.67,30,6.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,39,Bangladesh,Payra Port,BDPRA,20FT,392.0,210,168.0,200.0,970.0,34.64,28,6.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,39,Bangladesh,Payra Port,BDPRA,40FT,672.0,210,168.0,290.0,1340.0,44.67,30,6.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,40,Sri Lanka,Port of Colombo,LKCMB,20FT,399.0,210,168.0,200.0,977.0,34.89,28,4.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,40,Sri Lanka,Port of Colombo,LKCMB,40FT,665.0,210,168.0,290.0,1333.0,44.43,30,4.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,399.0,210,168.0,200.0,977.0,34.89,28,4.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,665.0,210,168.0,290.0,1333.0,44.43,30,4.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,399.0,210,168.0,200.0,977.0,34.89,28,4.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,665.0,210,168.0,290.0,1333.0,44.43,30,4.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,43,Nepal,Birgunj Inland Port,NPBIR,20FT,450.0,210,168.0,200.0,1028.0,36.71,28,8.0,Multimodal
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,43,Nepal,Birgunj Inland Port,NPBIR,40FT,750.0,210,168.0,290.0,1418.0,47.27,30,8.0,Multimodal
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,44,Nepal,Biratnagar ICP,NPBRT,20FT,450.0,210,168.0,200.0,1028.0,36.71,28,8.0,Multimodal
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,44,Nepal,Biratnagar ICP,NPBRT,40FT,750.0,210,168.0,290.0,1418.0,47.27,30,8.0,Multimodal
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,49,Japan,Port of Tokyo,JPTYO,20FT,1900.0,210,168.0,200.0,2478.0,88.5,28,18.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,49,Japan,Port of Tokyo,JPTYO,40FT,3200.0,210,168.0,290.0,3868.0,128.93,30,18.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,50,Japan,Port of Yokohama,JPYOK,20FT,1900.0,210,168.0,200.0,2478.0,88.5,28,18.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,50,Japan,Port of Yokohama,JPYOK,40FT,3200.0,210,168.0,290.0,3868.0,128.93,30,18.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,51,Japan,Port of Kobe,JPUKB,20FT,1900.0,210,168.0,200.0,2478.0,88.5,28,18.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,51,Japan,Port of Kobe,JPUKB,40FT,3200.0,210,168.0,290.0,3868.0,128.93,30,18.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,52,Japan,Port of Nagoya,JPNGO,20FT,1900.0,210,168.0,200.0,2478.0,88.5,28,18.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,52,Japan,Port of Nagoya,JPNGO,40FT,3200.0,210,168.0,290.0,3868.0,128.93,30,18.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2700.0,210,168.0,200.0,3278.0,117.07,28,27.0,Transshipment
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4400.0,210,168.0,290.0,5068.0,168.93,30,27.0,Transshipment
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2700.0,210,168.0,200.0,3278.0,117.07,28,27.0,Transshipment
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4400.0,210,168.0,290.0,5068.0,168.93,30,27.0,Transshipment
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,210,168.0,200.0,3378.0,120.64,28,28.0,Transshipment
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,210,168.0,290.0,5268.0,175.6,30,28.0,Transshipment
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,210,168.0,200.0,3378.0,120.64,28,28.0,Transshipment
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,210,168.0,290.0,5268.0,175.6,30,28.0,Transshipment
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,88,Singapore,Jurong Port,SGJUR,20FT,828.0,210,168.0,200.0,1406.0,50.21,28,9.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,88,Singapore,Jurong Port,SGJUR,40FT,1426.0,210,168.0,290.0,2094.0,69.8,30,9.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,89,Singapore,Tuas Port,SGTAS,20FT,828.0,210,168.0,200.0,1406.0,50.21,28,9.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,89,Singapore,Tuas Port,SGTAS,40FT,1426.0,210,168.0,290.0,2094.0,69.8,30,9.0,Direct
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,210,168.0,200.0,3378.0,120.64,28,28.0,Transshipment
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,210,168.0,290.0,5268.0,175.6,30,28.0,Transshipment
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,91,Germany,Port of Rostock,DERSK,20FT,2800.0,210,168.0,200.0,3378.0,120.64,28,28.0,Transshipment
+8,Kamarajar Port (Ennore),INENR,Tamil Nadu,91,Germany,Port of Rostock,DERSK,40FT,4600.0,210,168.0,290.0,5268.0,175.6,30,28.0,Transshipment
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,950.0,192,153.6,200.0,1495.6,53.41,28,8.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1650.0,192,153.6,290.0,2285.6,76.19,30,8.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,950.0,192,153.6,200.0,1495.6,53.41,28,8.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1650.0,192,153.6,290.0,2285.6,76.19,30,8.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,950.0,192,153.6,200.0,1495.6,53.41,28,8.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1650.0,192,153.6,290.0,2285.6,76.19,30,8.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,950.0,192,153.6,200.0,1495.6,53.41,28,8.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1650.0,192,153.6,290.0,2285.6,76.19,30,8.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,192,153.6,200.0,1445.6,51.63,28,9.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,192,153.6,290.0,2185.6,72.85,30,9.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,192,153.6,200.0,1695.6,60.56,28,12.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,192,153.6,290.0,2585.6,86.19,30,12.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,192,153.6,200.0,1695.6,60.56,28,12.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,192,153.6,290.0,2585.6,86.19,30,12.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,192,153.6,200.0,1695.6,60.56,28,12.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,192,153.6,290.0,2585.6,86.19,30,12.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,192,153.6,200.0,1695.6,60.56,28,12.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,192,153.6,290.0,2585.6,86.19,30,12.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,192,153.6,200.0,1745.6,62.34,28,13.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,192,153.6,290.0,2635.6,87.85,30,13.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,192,153.6,200.0,1745.6,62.34,28,13.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,192,153.6,290.0,2635.6,87.85,30,13.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,192,153.6,200.0,1745.6,62.34,28,13.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,192,153.6,290.0,2635.6,87.85,30,13.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,192,153.6,200.0,1745.6,62.34,28,13.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,192,153.6,290.0,2635.6,87.85,30,13.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,37,Bangladesh,Chittagong Port,BDCGP,20FT,350.0,192,153.6,200.0,895.6,31.99,28,5.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,37,Bangladesh,Chittagong Port,BDCGP,40FT,600.0,192,153.6,290.0,1235.6,41.19,30,5.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,38,Bangladesh,Mongla Port,BDMON,20FT,350.0,192,153.6,200.0,895.6,31.99,28,5.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,38,Bangladesh,Mongla Port,BDMON,40FT,600.0,192,153.6,290.0,1235.6,41.19,30,5.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,39,Bangladesh,Payra Port,BDPRA,20FT,350.0,192,153.6,200.0,895.6,31.99,28,5.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,39,Bangladesh,Payra Port,BDPRA,40FT,600.0,192,153.6,290.0,1235.6,41.19,30,5.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,40,Sri Lanka,Port of Colombo,LKCMB,20FT,336.0,192,153.6,200.0,881.6,31.49,28,3.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,40,Sri Lanka,Port of Colombo,LKCMB,40FT,560.0,192,153.6,290.0,1195.6,39.85,30,3.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,336.0,192,153.6,200.0,881.6,31.49,28,3.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,560.0,192,153.6,290.0,1195.6,39.85,30,3.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,336.0,192,153.6,200.0,881.6,31.49,28,3.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,560.0,192,153.6,290.0,1195.6,39.85,30,3.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,43,Nepal,Birgunj Inland Port,NPBIR,20FT,450.0,192,153.6,200.0,995.6,35.56,28,8.0,Multimodal
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,43,Nepal,Birgunj Inland Port,NPBIR,40FT,750.0,192,153.6,290.0,1385.6,46.19,30,8.0,Multimodal
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,44,Nepal,Biratnagar ICP,NPBRT,20FT,450.0,192,153.6,200.0,995.6,35.56,28,8.0,Multimodal
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,44,Nepal,Biratnagar ICP,NPBRT,40FT,750.0,192,153.6,290.0,1385.6,46.19,30,8.0,Multimodal
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,49,Japan,Port of Tokyo,JPTYO,20FT,1900.0,192,153.6,200.0,2445.6,87.34,28,18.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,49,Japan,Port of Tokyo,JPTYO,40FT,3200.0,192,153.6,290.0,3835.6,127.85,30,18.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,50,Japan,Port of Yokohama,JPYOK,20FT,1900.0,192,153.6,200.0,2445.6,87.34,28,18.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,50,Japan,Port of Yokohama,JPYOK,40FT,3200.0,192,153.6,290.0,3835.6,127.85,30,18.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,51,Japan,Port of Kobe,JPUKB,20FT,1900.0,192,153.6,200.0,2445.6,87.34,28,18.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,51,Japan,Port of Kobe,JPUKB,40FT,3200.0,192,153.6,290.0,3835.6,127.85,30,18.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,52,Japan,Port of Nagoya,JPNGO,20FT,1900.0,192,153.6,200.0,2445.6,87.34,28,18.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,52,Japan,Port of Nagoya,JPNGO,40FT,3200.0,192,153.6,290.0,3835.6,127.85,30,18.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2700.0,192,153.6,200.0,3245.6,115.91,28,27.0,Transshipment
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4400.0,192,153.6,290.0,5035.6,167.85,30,27.0,Transshipment
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2700.0,192,153.6,200.0,3245.6,115.91,28,27.0,Transshipment
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4400.0,192,153.6,290.0,5035.6,167.85,30,27.0,Transshipment
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,192,153.6,200.0,3345.6,119.49,28,28.0,Transshipment
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,192,153.6,290.0,5235.6,174.52,30,28.0,Transshipment
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,192,153.6,200.0,3345.6,119.49,28,28.0,Transshipment
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,192,153.6,290.0,5235.6,174.52,30,28.0,Transshipment
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,88,Singapore,Jurong Port,SGJUR,20FT,900.0,192,153.6,200.0,1445.6,51.63,28,9.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,192,153.6,290.0,2185.6,72.85,30,9.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,89,Singapore,Tuas Port,SGTAS,20FT,900.0,192,153.6,200.0,1445.6,51.63,28,9.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,192,153.6,290.0,2185.6,72.85,30,9.0,Direct
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,192,153.6,200.0,3345.6,119.49,28,28.0,Transshipment
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,192,153.6,290.0,5235.6,174.52,30,28.0,Transshipment
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,91,Germany,Port of Rostock,DERSK,20FT,2800.0,192,153.6,200.0,3345.6,119.49,28,28.0,Transshipment
+9,V.O. Chidambaranar Port (Tuticorin),INTUT,Tamil Nadu,91,Germany,Port of Rostock,DERSK,40FT,4600.0,192,153.6,290.0,5235.6,174.52,30,28.0,Transshipment
+10,Cochin Port,INCOK,Kerala,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,950.0,196,156.8,200.0,1502.8,53.67,28,8.0,Direct
+10,Cochin Port,INCOK,Kerala,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1650.0,196,156.8,290.0,2292.8,76.43,30,8.0,Direct
+10,Cochin Port,INCOK,Kerala,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,950.0,196,156.8,200.0,1502.8,53.67,28,8.0,Direct
+10,Cochin Port,INCOK,Kerala,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1650.0,196,156.8,290.0,2292.8,76.43,30,8.0,Direct
+10,Cochin Port,INCOK,Kerala,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,950.0,196,156.8,200.0,1502.8,53.67,28,8.0,Direct
+10,Cochin Port,INCOK,Kerala,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1650.0,196,156.8,290.0,2292.8,76.43,30,8.0,Direct
+10,Cochin Port,INCOK,Kerala,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,950.0,196,156.8,200.0,1502.8,53.67,28,8.0,Direct
+10,Cochin Port,INCOK,Kerala,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1650.0,196,156.8,290.0,2292.8,76.43,30,8.0,Direct
+10,Cochin Port,INCOK,Kerala,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,196,156.8,200.0,1452.8,51.89,28,9.0,Direct
+10,Cochin Port,INCOK,Kerala,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,196,156.8,290.0,2192.8,73.09,30,9.0,Direct
+10,Cochin Port,INCOK,Kerala,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,196,156.8,200.0,1702.8,60.81,28,12.0,Direct
+10,Cochin Port,INCOK,Kerala,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,196,156.8,290.0,2592.8,86.43,30,12.0,Direct
+10,Cochin Port,INCOK,Kerala,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,196,156.8,200.0,1702.8,60.81,28,12.0,Direct
+10,Cochin Port,INCOK,Kerala,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,196,156.8,290.0,2592.8,86.43,30,12.0,Direct
+10,Cochin Port,INCOK,Kerala,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,196,156.8,200.0,1702.8,60.81,28,12.0,Direct
+10,Cochin Port,INCOK,Kerala,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,196,156.8,290.0,2592.8,86.43,30,12.0,Direct
+10,Cochin Port,INCOK,Kerala,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,196,156.8,200.0,1702.8,60.81,28,12.0,Direct
+10,Cochin Port,INCOK,Kerala,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,196,156.8,290.0,2592.8,86.43,30,12.0,Direct
+10,Cochin Port,INCOK,Kerala,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,196,156.8,200.0,1752.8,62.6,28,13.0,Direct
+10,Cochin Port,INCOK,Kerala,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,196,156.8,290.0,2642.8,88.09,30,13.0,Direct
+10,Cochin Port,INCOK,Kerala,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,196,156.8,200.0,1752.8,62.6,28,13.0,Direct
+10,Cochin Port,INCOK,Kerala,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,196,156.8,290.0,2642.8,88.09,30,13.0,Direct
+10,Cochin Port,INCOK,Kerala,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,196,156.8,200.0,1752.8,62.6,28,13.0,Direct
+10,Cochin Port,INCOK,Kerala,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,196,156.8,290.0,2642.8,88.09,30,13.0,Direct
+10,Cochin Port,INCOK,Kerala,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,196,156.8,200.0,1752.8,62.6,28,13.0,Direct
+10,Cochin Port,INCOK,Kerala,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,196,156.8,290.0,2642.8,88.09,30,13.0,Direct
+10,Cochin Port,INCOK,Kerala,37,Bangladesh,Chittagong Port,BDCGP,20FT,350.0,196,156.8,200.0,902.8,32.24,28,5.0,Direct
+10,Cochin Port,INCOK,Kerala,37,Bangladesh,Chittagong Port,BDCGP,40FT,600.0,196,156.8,290.0,1242.8,41.43,30,5.0,Direct
+10,Cochin Port,INCOK,Kerala,38,Bangladesh,Mongla Port,BDMON,20FT,350.0,196,156.8,200.0,902.8,32.24,28,5.0,Direct
+10,Cochin Port,INCOK,Kerala,38,Bangladesh,Mongla Port,BDMON,40FT,600.0,196,156.8,290.0,1242.8,41.43,30,5.0,Direct
+10,Cochin Port,INCOK,Kerala,39,Bangladesh,Payra Port,BDPRA,20FT,350.0,196,156.8,200.0,902.8,32.24,28,5.0,Direct
+10,Cochin Port,INCOK,Kerala,39,Bangladesh,Payra Port,BDPRA,40FT,600.0,196,156.8,290.0,1242.8,41.43,30,5.0,Direct
+10,Cochin Port,INCOK,Kerala,40,Sri Lanka,Port of Colombo,LKCMB,20FT,357.0,196,156.8,200.0,909.8,32.49,28,3.0,Direct
+10,Cochin Port,INCOK,Kerala,40,Sri Lanka,Port of Colombo,LKCMB,40FT,595.0,196,156.8,290.0,1237.8,41.26,30,3.0,Direct
+10,Cochin Port,INCOK,Kerala,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,357.0,196,156.8,200.0,909.8,32.49,28,3.0,Direct
+10,Cochin Port,INCOK,Kerala,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,595.0,196,156.8,290.0,1237.8,41.26,30,3.0,Direct
+10,Cochin Port,INCOK,Kerala,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,357.0,196,156.8,200.0,909.8,32.49,28,3.0,Direct
+10,Cochin Port,INCOK,Kerala,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,595.0,196,156.8,290.0,1237.8,41.26,30,3.0,Direct
+10,Cochin Port,INCOK,Kerala,43,Nepal,Birgunj Inland Port,NPBIR,20FT,450.0,196,156.8,200.0,1002.8,35.81,28,8.0,Multimodal
+10,Cochin Port,INCOK,Kerala,43,Nepal,Birgunj Inland Port,NPBIR,40FT,750.0,196,156.8,290.0,1392.8,46.43,30,8.0,Multimodal
+10,Cochin Port,INCOK,Kerala,44,Nepal,Biratnagar ICP,NPBRT,20FT,450.0,196,156.8,200.0,1002.8,35.81,28,8.0,Multimodal
+10,Cochin Port,INCOK,Kerala,44,Nepal,Biratnagar ICP,NPBRT,40FT,750.0,196,156.8,290.0,1392.8,46.43,30,8.0,Multimodal
+10,Cochin Port,INCOK,Kerala,49,Japan,Port of Tokyo,JPTYO,20FT,1900.0,196,156.8,200.0,2452.8,87.6,28,18.0,Direct
+10,Cochin Port,INCOK,Kerala,49,Japan,Port of Tokyo,JPTYO,40FT,3200.0,196,156.8,290.0,3842.8,128.09,30,18.0,Direct
+10,Cochin Port,INCOK,Kerala,50,Japan,Port of Yokohama,JPYOK,20FT,1900.0,196,156.8,200.0,2452.8,87.6,28,18.0,Direct
+10,Cochin Port,INCOK,Kerala,50,Japan,Port of Yokohama,JPYOK,40FT,3200.0,196,156.8,290.0,3842.8,128.09,30,18.0,Direct
+10,Cochin Port,INCOK,Kerala,51,Japan,Port of Kobe,JPUKB,20FT,1900.0,196,156.8,200.0,2452.8,87.6,28,18.0,Direct
+10,Cochin Port,INCOK,Kerala,51,Japan,Port of Kobe,JPUKB,40FT,3200.0,196,156.8,290.0,3842.8,128.09,30,18.0,Direct
+10,Cochin Port,INCOK,Kerala,52,Japan,Port of Nagoya,JPNGO,20FT,1900.0,196,156.8,200.0,2452.8,87.6,28,18.0,Direct
+10,Cochin Port,INCOK,Kerala,52,Japan,Port of Nagoya,JPNGO,40FT,3200.0,196,156.8,290.0,3842.8,128.09,30,18.0,Direct
+10,Cochin Port,INCOK,Kerala,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2700.0,196,156.8,200.0,3252.8,116.17,28,27.0,Transshipment
+10,Cochin Port,INCOK,Kerala,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4400.0,196,156.8,290.0,5042.8,168.09,30,27.0,Transshipment
+10,Cochin Port,INCOK,Kerala,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2700.0,196,156.8,200.0,3252.8,116.17,28,27.0,Transshipment
+10,Cochin Port,INCOK,Kerala,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4400.0,196,156.8,290.0,5042.8,168.09,30,27.0,Transshipment
+10,Cochin Port,INCOK,Kerala,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,196,156.8,200.0,3352.8,119.74,28,28.0,Transshipment
+10,Cochin Port,INCOK,Kerala,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,196,156.8,290.0,5242.8,174.76,30,28.0,Transshipment
+10,Cochin Port,INCOK,Kerala,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,196,156.8,200.0,3352.8,119.74,28,28.0,Transshipment
+10,Cochin Port,INCOK,Kerala,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,196,156.8,290.0,5242.8,174.76,30,28.0,Transshipment
+10,Cochin Port,INCOK,Kerala,88,Singapore,Jurong Port,SGJUR,20FT,900.0,196,156.8,200.0,1452.8,51.89,28,9.0,Direct
+10,Cochin Port,INCOK,Kerala,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,196,156.8,290.0,2192.8,73.09,30,9.0,Direct
+10,Cochin Port,INCOK,Kerala,89,Singapore,Tuas Port,SGTAS,20FT,900.0,196,156.8,200.0,1452.8,51.89,28,9.0,Direct
+10,Cochin Port,INCOK,Kerala,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,196,156.8,290.0,2192.8,73.09,30,9.0,Direct
+10,Cochin Port,INCOK,Kerala,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,196,156.8,200.0,3352.8,119.74,28,28.0,Transshipment
+10,Cochin Port,INCOK,Kerala,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,196,156.8,290.0,5242.8,174.76,30,28.0,Transshipment
+10,Cochin Port,INCOK,Kerala,91,Germany,Port of Rostock,DERSK,20FT,2800.0,196,156.8,200.0,3352.8,119.74,28,28.0,Transshipment
+10,Cochin Port,INCOK,Kerala,91,Germany,Port of Rostock,DERSK,40FT,4600.0,196,156.8,290.0,5242.8,174.76,30,28.0,Transshipment
+11,New Mangalore Port,INNML,Karnataka,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,950.0,194,155.2,200.0,1499.2,53.54,28,8.0,Direct
+11,New Mangalore Port,INNML,Karnataka,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1650.0,194,155.2,290.0,2289.2,76.31,30,8.0,Direct
+11,New Mangalore Port,INNML,Karnataka,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,950.0,194,155.2,200.0,1499.2,53.54,28,8.0,Direct
+11,New Mangalore Port,INNML,Karnataka,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1650.0,194,155.2,290.0,2289.2,76.31,30,8.0,Direct
+11,New Mangalore Port,INNML,Karnataka,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,950.0,194,155.2,200.0,1499.2,53.54,28,8.0,Direct
+11,New Mangalore Port,INNML,Karnataka,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1650.0,194,155.2,290.0,2289.2,76.31,30,8.0,Direct
+11,New Mangalore Port,INNML,Karnataka,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,950.0,194,155.2,200.0,1499.2,53.54,28,8.0,Direct
+11,New Mangalore Port,INNML,Karnataka,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1650.0,194,155.2,290.0,2289.2,76.31,30,8.0,Direct
+11,New Mangalore Port,INNML,Karnataka,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,194,155.2,200.0,1449.2,51.76,28,9.0,Direct
+11,New Mangalore Port,INNML,Karnataka,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,194,155.2,290.0,2189.2,72.97,30,9.0,Direct
+11,New Mangalore Port,INNML,Karnataka,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,194,155.2,200.0,1699.2,60.69,28,12.0,Direct
+11,New Mangalore Port,INNML,Karnataka,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,194,155.2,290.0,2589.2,86.31,30,12.0,Direct
+11,New Mangalore Port,INNML,Karnataka,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,194,155.2,200.0,1699.2,60.69,28,12.0,Direct
+11,New Mangalore Port,INNML,Karnataka,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,194,155.2,290.0,2589.2,86.31,30,12.0,Direct
+11,New Mangalore Port,INNML,Karnataka,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,194,155.2,200.0,1699.2,60.69,28,12.0,Direct
+11,New Mangalore Port,INNML,Karnataka,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,194,155.2,290.0,2589.2,86.31,30,12.0,Direct
+11,New Mangalore Port,INNML,Karnataka,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,194,155.2,200.0,1699.2,60.69,28,12.0,Direct
+11,New Mangalore Port,INNML,Karnataka,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,194,155.2,290.0,2589.2,86.31,30,12.0,Direct
+11,New Mangalore Port,INNML,Karnataka,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,194,155.2,200.0,1749.2,62.47,28,13.0,Direct
+11,New Mangalore Port,INNML,Karnataka,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,194,155.2,290.0,2639.2,87.97,30,13.0,Direct
+11,New Mangalore Port,INNML,Karnataka,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,194,155.2,200.0,1749.2,62.47,28,13.0,Direct
+11,New Mangalore Port,INNML,Karnataka,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,194,155.2,290.0,2639.2,87.97,30,13.0,Direct
+11,New Mangalore Port,INNML,Karnataka,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,194,155.2,200.0,1749.2,62.47,28,13.0,Direct
+11,New Mangalore Port,INNML,Karnataka,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,194,155.2,290.0,2639.2,87.97,30,13.0,Direct
+11,New Mangalore Port,INNML,Karnataka,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,194,155.2,200.0,1749.2,62.47,28,13.0,Direct
+11,New Mangalore Port,INNML,Karnataka,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,194,155.2,290.0,2639.2,87.97,30,13.0,Direct
+11,New Mangalore Port,INNML,Karnataka,37,Bangladesh,Chittagong Port,BDCGP,20FT,350.0,194,155.2,200.0,899.2,32.11,28,5.0,Direct
+11,New Mangalore Port,INNML,Karnataka,37,Bangladesh,Chittagong Port,BDCGP,40FT,600.0,194,155.2,290.0,1239.2,41.31,30,5.0,Direct
+11,New Mangalore Port,INNML,Karnataka,38,Bangladesh,Mongla Port,BDMON,20FT,350.0,194,155.2,200.0,899.2,32.11,28,5.0,Direct
+11,New Mangalore Port,INNML,Karnataka,38,Bangladesh,Mongla Port,BDMON,40FT,600.0,194,155.2,290.0,1239.2,41.31,30,5.0,Direct
+11,New Mangalore Port,INNML,Karnataka,39,Bangladesh,Payra Port,BDPRA,20FT,350.0,194,155.2,200.0,899.2,32.11,28,5.0,Direct
+11,New Mangalore Port,INNML,Karnataka,39,Bangladesh,Payra Port,BDPRA,40FT,600.0,194,155.2,290.0,1239.2,41.31,30,5.0,Direct
+11,New Mangalore Port,INNML,Karnataka,40,Sri Lanka,Port of Colombo,LKCMB,20FT,420.0,194,155.2,200.0,969.2,34.61,28,4.0,Direct
+11,New Mangalore Port,INNML,Karnataka,40,Sri Lanka,Port of Colombo,LKCMB,40FT,700.0,194,155.2,290.0,1339.2,44.64,30,4.0,Direct
+11,New Mangalore Port,INNML,Karnataka,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,420.0,194,155.2,200.0,969.2,34.61,28,4.0,Direct
+11,New Mangalore Port,INNML,Karnataka,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,700.0,194,155.2,290.0,1339.2,44.64,30,4.0,Direct
+11,New Mangalore Port,INNML,Karnataka,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,420.0,194,155.2,200.0,969.2,34.61,28,4.0,Direct
+11,New Mangalore Port,INNML,Karnataka,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,700.0,194,155.2,290.0,1339.2,44.64,30,4.0,Direct
+11,New Mangalore Port,INNML,Karnataka,43,Nepal,Birgunj Inland Port,NPBIR,20FT,450.0,194,155.2,200.0,999.2,35.69,28,8.0,Multimodal
+11,New Mangalore Port,INNML,Karnataka,43,Nepal,Birgunj Inland Port,NPBIR,40FT,750.0,194,155.2,290.0,1389.2,46.31,30,8.0,Multimodal
+11,New Mangalore Port,INNML,Karnataka,44,Nepal,Biratnagar ICP,NPBRT,20FT,450.0,194,155.2,200.0,999.2,35.69,28,8.0,Multimodal
+11,New Mangalore Port,INNML,Karnataka,44,Nepal,Biratnagar ICP,NPBRT,40FT,750.0,194,155.2,290.0,1389.2,46.31,30,8.0,Multimodal
+11,New Mangalore Port,INNML,Karnataka,49,Japan,Port of Tokyo,JPTYO,20FT,1900.0,194,155.2,200.0,2449.2,87.47,28,18.0,Direct
+11,New Mangalore Port,INNML,Karnataka,49,Japan,Port of Tokyo,JPTYO,40FT,3200.0,194,155.2,290.0,3839.2,127.97,30,18.0,Direct
+11,New Mangalore Port,INNML,Karnataka,50,Japan,Port of Yokohama,JPYOK,20FT,1900.0,194,155.2,200.0,2449.2,87.47,28,18.0,Direct
+11,New Mangalore Port,INNML,Karnataka,50,Japan,Port of Yokohama,JPYOK,40FT,3200.0,194,155.2,290.0,3839.2,127.97,30,18.0,Direct
+11,New Mangalore Port,INNML,Karnataka,51,Japan,Port of Kobe,JPUKB,20FT,1900.0,194,155.2,200.0,2449.2,87.47,28,18.0,Direct
+11,New Mangalore Port,INNML,Karnataka,51,Japan,Port of Kobe,JPUKB,40FT,3200.0,194,155.2,290.0,3839.2,127.97,30,18.0,Direct
+11,New Mangalore Port,INNML,Karnataka,52,Japan,Port of Nagoya,JPNGO,20FT,1900.0,194,155.2,200.0,2449.2,87.47,28,18.0,Direct
+11,New Mangalore Port,INNML,Karnataka,52,Japan,Port of Nagoya,JPNGO,40FT,3200.0,194,155.2,290.0,3839.2,127.97,30,18.0,Direct
+11,New Mangalore Port,INNML,Karnataka,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2700.0,194,155.2,200.0,3249.2,116.04,28,27.0,Transshipment
+11,New Mangalore Port,INNML,Karnataka,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4400.0,194,155.2,290.0,5039.2,167.97,30,27.0,Transshipment
+11,New Mangalore Port,INNML,Karnataka,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2700.0,194,155.2,200.0,3249.2,116.04,28,27.0,Transshipment
+11,New Mangalore Port,INNML,Karnataka,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4400.0,194,155.2,290.0,5039.2,167.97,30,27.0,Transshipment
+11,New Mangalore Port,INNML,Karnataka,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,194,155.2,200.0,3349.2,119.61,28,28.0,Transshipment
+11,New Mangalore Port,INNML,Karnataka,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,194,155.2,290.0,5239.2,174.64,30,28.0,Transshipment
+11,New Mangalore Port,INNML,Karnataka,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,194,155.2,200.0,3349.2,119.61,28,28.0,Transshipment
+11,New Mangalore Port,INNML,Karnataka,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,194,155.2,290.0,5239.2,174.64,30,28.0,Transshipment
+11,New Mangalore Port,INNML,Karnataka,88,Singapore,Jurong Port,SGJUR,20FT,900.0,194,155.2,200.0,1449.2,51.76,28,9.0,Direct
+11,New Mangalore Port,INNML,Karnataka,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,194,155.2,290.0,2189.2,72.97,30,9.0,Direct
+11,New Mangalore Port,INNML,Karnataka,89,Singapore,Tuas Port,SGTAS,20FT,900.0,194,155.2,200.0,1449.2,51.76,28,9.0,Direct
+11,New Mangalore Port,INNML,Karnataka,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,194,155.2,290.0,2189.2,72.97,30,9.0,Direct
+11,New Mangalore Port,INNML,Karnataka,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,194,155.2,200.0,3349.2,119.61,28,28.0,Transshipment
+11,New Mangalore Port,INNML,Karnataka,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,194,155.2,290.0,5239.2,174.64,30,28.0,Transshipment
+11,New Mangalore Port,INNML,Karnataka,91,Germany,Port of Rostock,DERSK,20FT,2800.0,194,155.2,200.0,3349.2,119.61,28,28.0,Transshipment
+11,New Mangalore Port,INNML,Karnataka,91,Germany,Port of Rostock,DERSK,40FT,4600.0,194,155.2,290.0,5239.2,174.64,30,28.0,Transshipment
+12,Mormugao Port,INMRM,Goa,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,950.0,194,155.2,200.0,1499.2,53.54,28,8.0,Direct
+12,Mormugao Port,INMRM,Goa,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1650.0,194,155.2,290.0,2289.2,76.31,30,8.0,Direct
+12,Mormugao Port,INMRM,Goa,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,950.0,194,155.2,200.0,1499.2,53.54,28,8.0,Direct
+12,Mormugao Port,INMRM,Goa,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1650.0,194,155.2,290.0,2289.2,76.31,30,8.0,Direct
+12,Mormugao Port,INMRM,Goa,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,950.0,194,155.2,200.0,1499.2,53.54,28,8.0,Direct
+12,Mormugao Port,INMRM,Goa,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1650.0,194,155.2,290.0,2289.2,76.31,30,8.0,Direct
+12,Mormugao Port,INMRM,Goa,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,950.0,194,155.2,200.0,1499.2,53.54,28,8.0,Direct
+12,Mormugao Port,INMRM,Goa,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1650.0,194,155.2,290.0,2289.2,76.31,30,8.0,Direct
+12,Mormugao Port,INMRM,Goa,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,194,155.2,200.0,1449.2,51.76,28,9.0,Direct
+12,Mormugao Port,INMRM,Goa,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,194,155.2,290.0,2189.2,72.97,30,9.0,Direct
+12,Mormugao Port,INMRM,Goa,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,194,155.2,200.0,1699.2,60.69,28,12.0,Direct
+12,Mormugao Port,INMRM,Goa,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,194,155.2,290.0,2589.2,86.31,30,12.0,Direct
+12,Mormugao Port,INMRM,Goa,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,194,155.2,200.0,1699.2,60.69,28,12.0,Direct
+12,Mormugao Port,INMRM,Goa,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,194,155.2,290.0,2589.2,86.31,30,12.0,Direct
+12,Mormugao Port,INMRM,Goa,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,194,155.2,200.0,1699.2,60.69,28,12.0,Direct
+12,Mormugao Port,INMRM,Goa,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,194,155.2,290.0,2589.2,86.31,30,12.0,Direct
+12,Mormugao Port,INMRM,Goa,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,194,155.2,200.0,1699.2,60.69,28,12.0,Direct
+12,Mormugao Port,INMRM,Goa,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,194,155.2,290.0,2589.2,86.31,30,12.0,Direct
+12,Mormugao Port,INMRM,Goa,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,194,155.2,200.0,1749.2,62.47,28,13.0,Direct
+12,Mormugao Port,INMRM,Goa,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,194,155.2,290.0,2639.2,87.97,30,13.0,Direct
+12,Mormugao Port,INMRM,Goa,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,194,155.2,200.0,1749.2,62.47,28,13.0,Direct
+12,Mormugao Port,INMRM,Goa,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,194,155.2,290.0,2639.2,87.97,30,13.0,Direct
+12,Mormugao Port,INMRM,Goa,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,194,155.2,200.0,1749.2,62.47,28,13.0,Direct
+12,Mormugao Port,INMRM,Goa,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,194,155.2,290.0,2639.2,87.97,30,13.0,Direct
+12,Mormugao Port,INMRM,Goa,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,194,155.2,200.0,1749.2,62.47,28,13.0,Direct
+12,Mormugao Port,INMRM,Goa,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,194,155.2,290.0,2639.2,87.97,30,13.0,Direct
+12,Mormugao Port,INMRM,Goa,37,Bangladesh,Chittagong Port,BDCGP,20FT,350.0,194,155.2,200.0,899.2,32.11,28,5.0,Direct
+12,Mormugao Port,INMRM,Goa,37,Bangladesh,Chittagong Port,BDCGP,40FT,600.0,194,155.2,290.0,1239.2,41.31,30,5.0,Direct
+12,Mormugao Port,INMRM,Goa,38,Bangladesh,Mongla Port,BDMON,20FT,350.0,194,155.2,200.0,899.2,32.11,28,5.0,Direct
+12,Mormugao Port,INMRM,Goa,38,Bangladesh,Mongla Port,BDMON,40FT,600.0,194,155.2,290.0,1239.2,41.31,30,5.0,Direct
+12,Mormugao Port,INMRM,Goa,39,Bangladesh,Payra Port,BDPRA,20FT,350.0,194,155.2,200.0,899.2,32.11,28,5.0,Direct
+12,Mormugao Port,INMRM,Goa,39,Bangladesh,Payra Port,BDPRA,40FT,600.0,194,155.2,290.0,1239.2,41.31,30,5.0,Direct
+12,Mormugao Port,INMRM,Goa,40,Sri Lanka,Port of Colombo,LKCMB,20FT,420.0,194,155.2,200.0,969.2,34.61,28,4.0,Direct
+12,Mormugao Port,INMRM,Goa,40,Sri Lanka,Port of Colombo,LKCMB,40FT,700.0,194,155.2,290.0,1339.2,44.64,30,4.0,Direct
+12,Mormugao Port,INMRM,Goa,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,420.0,194,155.2,200.0,969.2,34.61,28,4.0,Direct
+12,Mormugao Port,INMRM,Goa,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,700.0,194,155.2,290.0,1339.2,44.64,30,4.0,Direct
+12,Mormugao Port,INMRM,Goa,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,420.0,194,155.2,200.0,969.2,34.61,28,4.0,Direct
+12,Mormugao Port,INMRM,Goa,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,700.0,194,155.2,290.0,1339.2,44.64,30,4.0,Direct
+12,Mormugao Port,INMRM,Goa,43,Nepal,Birgunj Inland Port,NPBIR,20FT,450.0,194,155.2,200.0,999.2,35.69,28,8.0,Multimodal
+12,Mormugao Port,INMRM,Goa,43,Nepal,Birgunj Inland Port,NPBIR,40FT,750.0,194,155.2,290.0,1389.2,46.31,30,8.0,Multimodal
+12,Mormugao Port,INMRM,Goa,44,Nepal,Biratnagar ICP,NPBRT,20FT,450.0,194,155.2,200.0,999.2,35.69,28,8.0,Multimodal
+12,Mormugao Port,INMRM,Goa,44,Nepal,Biratnagar ICP,NPBRT,40FT,750.0,194,155.2,290.0,1389.2,46.31,30,8.0,Multimodal
+12,Mormugao Port,INMRM,Goa,49,Japan,Port of Tokyo,JPTYO,20FT,1900.0,194,155.2,200.0,2449.2,87.47,28,18.0,Direct
+12,Mormugao Port,INMRM,Goa,49,Japan,Port of Tokyo,JPTYO,40FT,3200.0,194,155.2,290.0,3839.2,127.97,30,18.0,Direct
+12,Mormugao Port,INMRM,Goa,50,Japan,Port of Yokohama,JPYOK,20FT,1900.0,194,155.2,200.0,2449.2,87.47,28,18.0,Direct
+12,Mormugao Port,INMRM,Goa,50,Japan,Port of Yokohama,JPYOK,40FT,3200.0,194,155.2,290.0,3839.2,127.97,30,18.0,Direct
+12,Mormugao Port,INMRM,Goa,51,Japan,Port of Kobe,JPUKB,20FT,1900.0,194,155.2,200.0,2449.2,87.47,28,18.0,Direct
+12,Mormugao Port,INMRM,Goa,51,Japan,Port of Kobe,JPUKB,40FT,3200.0,194,155.2,290.0,3839.2,127.97,30,18.0,Direct
+12,Mormugao Port,INMRM,Goa,52,Japan,Port of Nagoya,JPNGO,20FT,1900.0,194,155.2,200.0,2449.2,87.47,28,18.0,Direct
+12,Mormugao Port,INMRM,Goa,52,Japan,Port of Nagoya,JPNGO,40FT,3200.0,194,155.2,290.0,3839.2,127.97,30,18.0,Direct
+12,Mormugao Port,INMRM,Goa,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2700.0,194,155.2,200.0,3249.2,116.04,28,27.0,Transshipment
+12,Mormugao Port,INMRM,Goa,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4400.0,194,155.2,290.0,5039.2,167.97,30,27.0,Transshipment
+12,Mormugao Port,INMRM,Goa,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2700.0,194,155.2,200.0,3249.2,116.04,28,27.0,Transshipment
+12,Mormugao Port,INMRM,Goa,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4400.0,194,155.2,290.0,5039.2,167.97,30,27.0,Transshipment
+12,Mormugao Port,INMRM,Goa,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,194,155.2,200.0,3349.2,119.61,28,28.0,Transshipment
+12,Mormugao Port,INMRM,Goa,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,194,155.2,290.0,5239.2,174.64,30,28.0,Transshipment
+12,Mormugao Port,INMRM,Goa,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,194,155.2,200.0,3349.2,119.61,28,28.0,Transshipment
+12,Mormugao Port,INMRM,Goa,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,194,155.2,290.0,5239.2,174.64,30,28.0,Transshipment
+12,Mormugao Port,INMRM,Goa,88,Singapore,Jurong Port,SGJUR,20FT,900.0,194,155.2,200.0,1449.2,51.76,28,9.0,Direct
+12,Mormugao Port,INMRM,Goa,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,194,155.2,290.0,2189.2,72.97,30,9.0,Direct
+12,Mormugao Port,INMRM,Goa,89,Singapore,Tuas Port,SGTAS,20FT,900.0,194,155.2,200.0,1449.2,51.76,28,9.0,Direct
+12,Mormugao Port,INMRM,Goa,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,194,155.2,290.0,2189.2,72.97,30,9.0,Direct
+12,Mormugao Port,INMRM,Goa,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,194,155.2,200.0,3349.2,119.61,28,28.0,Transshipment
+12,Mormugao Port,INMRM,Goa,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,194,155.2,290.0,5239.2,174.64,30,28.0,Transshipment
+12,Mormugao Port,INMRM,Goa,91,Germany,Port of Rostock,DERSK,20FT,2800.0,194,155.2,200.0,3349.2,119.61,28,28.0,Transshipment
+12,Mormugao Port,INMRM,Goa,91,Germany,Port of Rostock,DERSK,40FT,4600.0,194,155.2,290.0,5239.2,174.64,30,28.0,Transshipment
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,950.0,200,160.0,200.0,1510.0,53.93,28,8.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1650.0,200,160.0,290.0,2300.0,76.67,30,8.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,950.0,200,160.0,200.0,1510.0,53.93,28,8.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1650.0,200,160.0,290.0,2300.0,76.67,30,8.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,950.0,200,160.0,200.0,1510.0,53.93,28,8.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1650.0,200,160.0,290.0,2300.0,76.67,30,8.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,950.0,200,160.0,200.0,1510.0,53.93,28,8.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1650.0,200,160.0,290.0,2300.0,76.67,30,8.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,200,160.0,200.0,1460.0,52.14,28,9.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,200,160.0,290.0,2200.0,73.33,30,9.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1092.0,200,160.0,200.0,1652.0,59.0,28,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1852.0,200,160.0,290.0,2502.0,83.4,30,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,27,Indonesia,Belawan Port,IDBLW,20FT,1092.0,200,160.0,200.0,1652.0,59.0,28,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,27,Indonesia,Belawan Port,IDBLW,40FT,1852.0,200,160.0,290.0,2502.0,83.4,30,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1092.0,200,160.0,200.0,1652.0,59.0,28,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1852.0,200,160.0,290.0,2502.0,83.4,30,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,29,Indonesia,Makassar Port,IDMKS,20FT,1092.0,200,160.0,200.0,1652.0,59.0,28,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,29,Indonesia,Makassar Port,IDMKS,40FT,1852.0,200,160.0,290.0,2502.0,83.4,30,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,33,Vietnam,Cat Lai Port,VNCAT,20FT,1080.0,200,160.0,200.0,1640.0,58.57,28,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,33,Vietnam,Cat Lai Port,VNCAT,40FT,1800.0,200,160.0,290.0,2450.0,81.67,30,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,34,Vietnam,Hai Phong Port,VNHPH,20FT,1080.0,200,160.0,200.0,1640.0,58.57,28,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,34,Vietnam,Hai Phong Port,VNHPH,40FT,1800.0,200,160.0,290.0,2450.0,81.67,30,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,35,Vietnam,Da Nang Port,VNDAD,20FT,1080.0,200,160.0,200.0,1640.0,58.57,28,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,35,Vietnam,Da Nang Port,VNDAD,40FT,1800.0,200,160.0,290.0,2450.0,81.67,30,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,36,Vietnam,Cai Mep Port,VNCMT,20FT,1080.0,200,160.0,200.0,1640.0,58.57,28,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,36,Vietnam,Cai Mep Port,VNCMT,40FT,1800.0,200,160.0,290.0,2450.0,81.67,30,12.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,37,Bangladesh,Chittagong Port,BDCGP,20FT,350.0,200,160.0,200.0,910.0,32.5,28,5.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,37,Bangladesh,Chittagong Port,BDCGP,40FT,600.0,200,160.0,290.0,1250.0,41.67,30,5.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,38,Bangladesh,Mongla Port,BDMON,20FT,350.0,200,160.0,200.0,910.0,32.5,28,5.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,38,Bangladesh,Mongla Port,BDMON,40FT,600.0,200,160.0,290.0,1250.0,41.67,30,5.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,39,Bangladesh,Payra Port,BDPRA,20FT,350.0,200,160.0,200.0,910.0,32.5,28,5.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,39,Bangladesh,Payra Port,BDPRA,40FT,600.0,200,160.0,290.0,1250.0,41.67,30,5.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,40,Sri Lanka,Port of Colombo,LKCMB,20FT,420.0,200,160.0,200.0,980.0,35.0,28,4.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,40,Sri Lanka,Port of Colombo,LKCMB,40FT,700.0,200,160.0,290.0,1350.0,45.0,30,4.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,420.0,200,160.0,200.0,980.0,35.0,28,4.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,700.0,200,160.0,290.0,1350.0,45.0,30,4.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,420.0,200,160.0,200.0,980.0,35.0,28,4.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,700.0,200,160.0,290.0,1350.0,45.0,30,4.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,43,Nepal,Birgunj Inland Port,NPBIR,20FT,450.0,200,160.0,200.0,1010.0,36.07,28,8.0,Multimodal
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,43,Nepal,Birgunj Inland Port,NPBIR,40FT,750.0,200,160.0,290.0,1400.0,46.67,30,8.0,Multimodal
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,44,Nepal,Biratnagar ICP,NPBRT,20FT,450.0,200,160.0,200.0,1010.0,36.07,28,8.0,Multimodal
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,44,Nepal,Biratnagar ICP,NPBRT,40FT,750.0,200,160.0,290.0,1400.0,46.67,30,8.0,Multimodal
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,49,Japan,Port of Tokyo,JPTYO,20FT,1672.0,200,160.0,200.0,2232.0,79.71,28,17.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,49,Japan,Port of Tokyo,JPTYO,40FT,2816.0,200,160.0,290.0,3466.0,115.53,30,17.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,50,Japan,Port of Yokohama,JPYOK,20FT,1672.0,200,160.0,200.0,2232.0,79.71,28,17.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,50,Japan,Port of Yokohama,JPYOK,40FT,2816.0,200,160.0,290.0,3466.0,115.53,30,17.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,51,Japan,Port of Kobe,JPUKB,20FT,1672.0,200,160.0,200.0,2232.0,79.71,28,17.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,51,Japan,Port of Kobe,JPUKB,40FT,2816.0,200,160.0,290.0,3466.0,115.53,30,17.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,52,Japan,Port of Nagoya,JPNGO,20FT,1672.0,200,160.0,200.0,2232.0,79.71,28,17.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,52,Japan,Port of Nagoya,JPNGO,40FT,2816.0,200,160.0,290.0,3466.0,115.53,30,17.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2700.0,200,160.0,200.0,3260.0,116.43,28,27.0,Transshipment
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4400.0,200,160.0,290.0,5050.0,168.33,30,27.0,Transshipment
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2700.0,200,160.0,200.0,3260.0,116.43,28,27.0,Transshipment
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4400.0,200,160.0,290.0,5050.0,168.33,30,27.0,Transshipment
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,200,160.0,200.0,3360.0,120.0,28,28.0,Transshipment
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,200,160.0,290.0,5250.0,175.0,30,28.0,Transshipment
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,200,160.0,200.0,3360.0,120.0,28,28.0,Transshipment
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,200,160.0,290.0,5250.0,175.0,30,28.0,Transshipment
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,88,Singapore,Jurong Port,SGJUR,20FT,900.0,200,160.0,200.0,1460.0,52.14,28,9.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,200,160.0,290.0,2200.0,73.33,30,9.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,89,Singapore,Tuas Port,SGTAS,20FT,900.0,200,160.0,200.0,1460.0,52.14,28,9.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,200,160.0,290.0,2200.0,73.33,30,9.0,Direct
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,200,160.0,200.0,3360.0,120.0,28,28.0,Transshipment
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,200,160.0,290.0,5250.0,175.0,30,28.0,Transshipment
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,91,Germany,Port of Rostock,DERSK,20FT,2800.0,200,160.0,200.0,3360.0,120.0,28,28.0,Transshipment
+13,Visakhapatnam Port,INVTZ,Andhra Pradesh,91,Germany,Port of Rostock,DERSK,40FT,4600.0,200,160.0,290.0,5250.0,175.0,30,28.0,Transshipment
+14,Gangavaram Port,INGGV,Andhra Pradesh,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,950.0,198,158.4,200.0,1506.4,53.8,28,8.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1650.0,198,158.4,290.0,2296.4,76.55,30,8.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,950.0,198,158.4,200.0,1506.4,53.8,28,8.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1650.0,198,158.4,290.0,2296.4,76.55,30,8.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,950.0,198,158.4,200.0,1506.4,53.8,28,8.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1650.0,198,158.4,290.0,2296.4,76.55,30,8.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,950.0,198,158.4,200.0,1506.4,53.8,28,8.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1650.0,198,158.4,290.0,2296.4,76.55,30,8.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,198,158.4,200.0,1456.4,52.01,28,9.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,198,158.4,290.0,2196.4,73.21,30,9.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,198,158.4,200.0,1706.4,60.94,28,12.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,198,158.4,290.0,2596.4,86.55,30,12.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,198,158.4,200.0,1706.4,60.94,28,12.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,198,158.4,290.0,2596.4,86.55,30,12.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,198,158.4,200.0,1706.4,60.94,28,12.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,198,158.4,290.0,2596.4,86.55,30,12.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,198,158.4,200.0,1706.4,60.94,28,12.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,198,158.4,290.0,2596.4,86.55,30,12.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,33,Vietnam,Cat Lai Port,VNCAT,20FT,1104.0,198,158.4,200.0,1660.4,59.3,28,13.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,33,Vietnam,Cat Lai Port,VNCAT,40FT,1840.0,198,158.4,290.0,2486.4,82.88,30,13.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,34,Vietnam,Hai Phong Port,VNHPH,20FT,1104.0,198,158.4,200.0,1660.4,59.3,28,13.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,34,Vietnam,Hai Phong Port,VNHPH,40FT,1840.0,198,158.4,290.0,2486.4,82.88,30,13.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,35,Vietnam,Da Nang Port,VNDAD,20FT,1104.0,198,158.4,200.0,1660.4,59.3,28,13.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,35,Vietnam,Da Nang Port,VNDAD,40FT,1840.0,198,158.4,290.0,2486.4,82.88,30,13.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,36,Vietnam,Cai Mep Port,VNCMT,20FT,1104.0,198,158.4,200.0,1660.4,59.3,28,13.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,36,Vietnam,Cai Mep Port,VNCMT,40FT,1840.0,198,158.4,290.0,2486.4,82.88,30,13.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,37,Bangladesh,Chittagong Port,BDCGP,20FT,350.0,198,158.4,200.0,906.4,32.37,28,5.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,37,Bangladesh,Chittagong Port,BDCGP,40FT,600.0,198,158.4,290.0,1246.4,41.55,30,5.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,38,Bangladesh,Mongla Port,BDMON,20FT,350.0,198,158.4,200.0,906.4,32.37,28,5.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,38,Bangladesh,Mongla Port,BDMON,40FT,600.0,198,158.4,290.0,1246.4,41.55,30,5.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,39,Bangladesh,Payra Port,BDPRA,20FT,350.0,198,158.4,200.0,906.4,32.37,28,5.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,39,Bangladesh,Payra Port,BDPRA,40FT,600.0,198,158.4,290.0,1246.4,41.55,30,5.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,40,Sri Lanka,Port of Colombo,LKCMB,20FT,420.0,198,158.4,200.0,976.4,34.87,28,4.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,40,Sri Lanka,Port of Colombo,LKCMB,40FT,700.0,198,158.4,290.0,1346.4,44.88,30,4.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,420.0,198,158.4,200.0,976.4,34.87,28,4.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,700.0,198,158.4,290.0,1346.4,44.88,30,4.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,420.0,198,158.4,200.0,976.4,34.87,28,4.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,700.0,198,158.4,290.0,1346.4,44.88,30,4.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,43,Nepal,Birgunj Inland Port,NPBIR,20FT,450.0,198,158.4,200.0,1006.4,35.94,28,8.0,Multimodal
+14,Gangavaram Port,INGGV,Andhra Pradesh,43,Nepal,Birgunj Inland Port,NPBIR,40FT,750.0,198,158.4,290.0,1396.4,46.55,30,8.0,Multimodal
+14,Gangavaram Port,INGGV,Andhra Pradesh,44,Nepal,Biratnagar ICP,NPBRT,20FT,450.0,198,158.4,200.0,1006.4,35.94,28,8.0,Multimodal
+14,Gangavaram Port,INGGV,Andhra Pradesh,44,Nepal,Biratnagar ICP,NPBRT,40FT,750.0,198,158.4,290.0,1396.4,46.55,30,8.0,Multimodal
+14,Gangavaram Port,INGGV,Andhra Pradesh,49,Japan,Port of Tokyo,JPTYO,20FT,1710.0,198,158.4,200.0,2266.4,80.94,28,17.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,49,Japan,Port of Tokyo,JPTYO,40FT,2880.0,198,158.4,290.0,3526.4,117.55,30,17.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,50,Japan,Port of Yokohama,JPYOK,20FT,1710.0,198,158.4,200.0,2266.4,80.94,28,17.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,50,Japan,Port of Yokohama,JPYOK,40FT,2880.0,198,158.4,290.0,3526.4,117.55,30,17.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,51,Japan,Port of Kobe,JPUKB,20FT,1710.0,198,158.4,200.0,2266.4,80.94,28,17.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,51,Japan,Port of Kobe,JPUKB,40FT,2880.0,198,158.4,290.0,3526.4,117.55,30,17.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,52,Japan,Port of Nagoya,JPNGO,20FT,1710.0,198,158.4,200.0,2266.4,80.94,28,17.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,52,Japan,Port of Nagoya,JPNGO,40FT,2880.0,198,158.4,290.0,3526.4,117.55,30,17.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2700.0,198,158.4,200.0,3256.4,116.3,28,27.0,Transshipment
+14,Gangavaram Port,INGGV,Andhra Pradesh,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4400.0,198,158.4,290.0,5046.4,168.21,30,27.0,Transshipment
+14,Gangavaram Port,INGGV,Andhra Pradesh,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2700.0,198,158.4,200.0,3256.4,116.3,28,27.0,Transshipment
+14,Gangavaram Port,INGGV,Andhra Pradesh,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4400.0,198,158.4,290.0,5046.4,168.21,30,27.0,Transshipment
+14,Gangavaram Port,INGGV,Andhra Pradesh,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,198,158.4,200.0,3356.4,119.87,28,28.0,Transshipment
+14,Gangavaram Port,INGGV,Andhra Pradesh,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,198,158.4,290.0,5246.4,174.88,30,28.0,Transshipment
+14,Gangavaram Port,INGGV,Andhra Pradesh,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,198,158.4,200.0,3356.4,119.87,28,28.0,Transshipment
+14,Gangavaram Port,INGGV,Andhra Pradesh,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,198,158.4,290.0,5246.4,174.88,30,28.0,Transshipment
+14,Gangavaram Port,INGGV,Andhra Pradesh,88,Singapore,Jurong Port,SGJUR,20FT,900.0,198,158.4,200.0,1456.4,52.01,28,9.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,198,158.4,290.0,2196.4,73.21,30,9.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,89,Singapore,Tuas Port,SGTAS,20FT,900.0,198,158.4,200.0,1456.4,52.01,28,9.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,198,158.4,290.0,2196.4,73.21,30,9.0,Direct
+14,Gangavaram Port,INGGV,Andhra Pradesh,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,198,158.4,200.0,3356.4,119.87,28,28.0,Transshipment
+14,Gangavaram Port,INGGV,Andhra Pradesh,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,198,158.4,290.0,5246.4,174.88,30,28.0,Transshipment
+14,Gangavaram Port,INGGV,Andhra Pradesh,91,Germany,Port of Rostock,DERSK,20FT,2800.0,198,158.4,200.0,3356.4,119.87,28,28.0,Transshipment
+14,Gangavaram Port,INGGV,Andhra Pradesh,91,Germany,Port of Rostock,DERSK,40FT,4600.0,198,158.4,290.0,5246.4,174.88,30,28.0,Transshipment
+15,Paradip Port,INPRT,Odisha,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,950.0,196,156.8,200.0,1502.8,53.67,28,8.0,Direct
+15,Paradip Port,INPRT,Odisha,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1650.0,196,156.8,290.0,2292.8,76.43,30,8.0,Direct
+15,Paradip Port,INPRT,Odisha,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,950.0,196,156.8,200.0,1502.8,53.67,28,8.0,Direct
+15,Paradip Port,INPRT,Odisha,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1650.0,196,156.8,290.0,2292.8,76.43,30,8.0,Direct
+15,Paradip Port,INPRT,Odisha,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,950.0,196,156.8,200.0,1502.8,53.67,28,8.0,Direct
+15,Paradip Port,INPRT,Odisha,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1650.0,196,156.8,290.0,2292.8,76.43,30,8.0,Direct
+15,Paradip Port,INPRT,Odisha,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,950.0,196,156.8,200.0,1502.8,53.67,28,8.0,Direct
+15,Paradip Port,INPRT,Odisha,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1650.0,196,156.8,290.0,2292.8,76.43,30,8.0,Direct
+15,Paradip Port,INPRT,Odisha,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,196,156.8,200.0,1452.8,51.89,28,9.0,Direct
+15,Paradip Port,INPRT,Odisha,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,196,156.8,290.0,2192.8,73.09,30,9.0,Direct
+15,Paradip Port,INPRT,Odisha,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,196,156.8,200.0,1702.8,60.81,28,12.0,Direct
+15,Paradip Port,INPRT,Odisha,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,196,156.8,290.0,2592.8,86.43,30,12.0,Direct
+15,Paradip Port,INPRT,Odisha,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,196,156.8,200.0,1702.8,60.81,28,12.0,Direct
+15,Paradip Port,INPRT,Odisha,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,196,156.8,290.0,2592.8,86.43,30,12.0,Direct
+15,Paradip Port,INPRT,Odisha,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,196,156.8,200.0,1702.8,60.81,28,12.0,Direct
+15,Paradip Port,INPRT,Odisha,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,196,156.8,290.0,2592.8,86.43,30,12.0,Direct
+15,Paradip Port,INPRT,Odisha,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,196,156.8,200.0,1702.8,60.81,28,12.0,Direct
+15,Paradip Port,INPRT,Odisha,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,196,156.8,290.0,2592.8,86.43,30,12.0,Direct
+15,Paradip Port,INPRT,Odisha,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,196,156.8,200.0,1752.8,62.6,28,13.0,Direct
+15,Paradip Port,INPRT,Odisha,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,196,156.8,290.0,2642.8,88.09,30,13.0,Direct
+15,Paradip Port,INPRT,Odisha,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,196,156.8,200.0,1752.8,62.6,28,13.0,Direct
+15,Paradip Port,INPRT,Odisha,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,196,156.8,290.0,2642.8,88.09,30,13.0,Direct
+15,Paradip Port,INPRT,Odisha,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,196,156.8,200.0,1752.8,62.6,28,13.0,Direct
+15,Paradip Port,INPRT,Odisha,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,196,156.8,290.0,2642.8,88.09,30,13.0,Direct
+15,Paradip Port,INPRT,Odisha,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,196,156.8,200.0,1752.8,62.6,28,13.0,Direct
+15,Paradip Port,INPRT,Odisha,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,196,156.8,290.0,2642.8,88.09,30,13.0,Direct
+15,Paradip Port,INPRT,Odisha,37,Bangladesh,Chittagong Port,BDCGP,20FT,315.0,196,156.8,200.0,867.8,30.99,28,4.0,Direct
+15,Paradip Port,INPRT,Odisha,37,Bangladesh,Chittagong Port,BDCGP,40FT,540.0,196,156.8,290.0,1182.8,39.43,30,4.0,Direct
+15,Paradip Port,INPRT,Odisha,38,Bangladesh,Mongla Port,BDMON,20FT,315.0,196,156.8,200.0,867.8,30.99,28,4.0,Direct
+15,Paradip Port,INPRT,Odisha,38,Bangladesh,Mongla Port,BDMON,40FT,540.0,196,156.8,290.0,1182.8,39.43,30,4.0,Direct
+15,Paradip Port,INPRT,Odisha,39,Bangladesh,Payra Port,BDPRA,20FT,315.0,196,156.8,200.0,867.8,30.99,28,4.0,Direct
+15,Paradip Port,INPRT,Odisha,39,Bangladesh,Payra Port,BDPRA,40FT,540.0,196,156.8,290.0,1182.8,39.43,30,4.0,Direct
+15,Paradip Port,INPRT,Odisha,40,Sri Lanka,Port of Colombo,LKCMB,20FT,420.0,196,156.8,200.0,972.8,34.74,28,4.0,Direct
+15,Paradip Port,INPRT,Odisha,40,Sri Lanka,Port of Colombo,LKCMB,40FT,700.0,196,156.8,290.0,1342.8,44.76,30,4.0,Direct
+15,Paradip Port,INPRT,Odisha,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,420.0,196,156.8,200.0,972.8,34.74,28,4.0,Direct
+15,Paradip Port,INPRT,Odisha,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,700.0,196,156.8,290.0,1342.8,44.76,30,4.0,Direct
+15,Paradip Port,INPRT,Odisha,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,420.0,196,156.8,200.0,972.8,34.74,28,4.0,Direct
+15,Paradip Port,INPRT,Odisha,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,700.0,196,156.8,290.0,1342.8,44.76,30,4.0,Direct
+15,Paradip Port,INPRT,Odisha,43,Nepal,Birgunj Inland Port,NPBIR,20FT,414.0,196,156.8,200.0,966.8,34.53,28,8.0,Multimodal
+15,Paradip Port,INPRT,Odisha,43,Nepal,Birgunj Inland Port,NPBIR,40FT,690.0,196,156.8,290.0,1332.8,44.43,30,8.0,Multimodal
+15,Paradip Port,INPRT,Odisha,44,Nepal,Biratnagar ICP,NPBRT,20FT,414.0,196,156.8,200.0,966.8,34.53,28,8.0,Multimodal
+15,Paradip Port,INPRT,Odisha,44,Nepal,Biratnagar ICP,NPBRT,40FT,690.0,196,156.8,290.0,1332.8,44.43,30,8.0,Multimodal
+15,Paradip Port,INPRT,Odisha,49,Japan,Port of Tokyo,JPTYO,20FT,1900.0,196,156.8,200.0,2452.8,87.6,28,18.0,Direct
+15,Paradip Port,INPRT,Odisha,49,Japan,Port of Tokyo,JPTYO,40FT,3200.0,196,156.8,290.0,3842.8,128.09,30,18.0,Direct
+15,Paradip Port,INPRT,Odisha,50,Japan,Port of Yokohama,JPYOK,20FT,1900.0,196,156.8,200.0,2452.8,87.6,28,18.0,Direct
+15,Paradip Port,INPRT,Odisha,50,Japan,Port of Yokohama,JPYOK,40FT,3200.0,196,156.8,290.0,3842.8,128.09,30,18.0,Direct
+15,Paradip Port,INPRT,Odisha,51,Japan,Port of Kobe,JPUKB,20FT,1900.0,196,156.8,200.0,2452.8,87.6,28,18.0,Direct
+15,Paradip Port,INPRT,Odisha,51,Japan,Port of Kobe,JPUKB,40FT,3200.0,196,156.8,290.0,3842.8,128.09,30,18.0,Direct
+15,Paradip Port,INPRT,Odisha,52,Japan,Port of Nagoya,JPNGO,20FT,1900.0,196,156.8,200.0,2452.8,87.6,28,18.0,Direct
+15,Paradip Port,INPRT,Odisha,52,Japan,Port of Nagoya,JPNGO,40FT,3200.0,196,156.8,290.0,3842.8,128.09,30,18.0,Direct
+15,Paradip Port,INPRT,Odisha,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2700.0,196,156.8,200.0,3252.8,116.17,28,27.0,Transshipment
+15,Paradip Port,INPRT,Odisha,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4400.0,196,156.8,290.0,5042.8,168.09,30,27.0,Transshipment
+15,Paradip Port,INPRT,Odisha,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2700.0,196,156.8,200.0,3252.8,116.17,28,27.0,Transshipment
+15,Paradip Port,INPRT,Odisha,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4400.0,196,156.8,290.0,5042.8,168.09,30,27.0,Transshipment
+15,Paradip Port,INPRT,Odisha,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,196,156.8,200.0,3352.8,119.74,28,28.0,Transshipment
+15,Paradip Port,INPRT,Odisha,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,196,156.8,290.0,5242.8,174.76,30,28.0,Transshipment
+15,Paradip Port,INPRT,Odisha,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,196,156.8,200.0,3352.8,119.74,28,28.0,Transshipment
+15,Paradip Port,INPRT,Odisha,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,196,156.8,290.0,5242.8,174.76,30,28.0,Transshipment
+15,Paradip Port,INPRT,Odisha,88,Singapore,Jurong Port,SGJUR,20FT,900.0,196,156.8,200.0,1452.8,51.89,28,9.0,Direct
+15,Paradip Port,INPRT,Odisha,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,196,156.8,290.0,2192.8,73.09,30,9.0,Direct
+15,Paradip Port,INPRT,Odisha,89,Singapore,Tuas Port,SGTAS,20FT,900.0,196,156.8,200.0,1452.8,51.89,28,9.0,Direct
+15,Paradip Port,INPRT,Odisha,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,196,156.8,290.0,2192.8,73.09,30,9.0,Direct
+15,Paradip Port,INPRT,Odisha,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,196,156.8,200.0,3352.8,119.74,28,28.0,Transshipment
+15,Paradip Port,INPRT,Odisha,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,196,156.8,290.0,5242.8,174.76,30,28.0,Transshipment
+15,Paradip Port,INPRT,Odisha,91,Germany,Port of Rostock,DERSK,20FT,2800.0,196,156.8,200.0,3352.8,119.74,28,28.0,Transshipment
+15,Paradip Port,INPRT,Odisha,91,Germany,Port of Rostock,DERSK,40FT,4600.0,196,156.8,290.0,5242.8,174.76,30,28.0,Transshipment
+16,Dhamra Port,INDHM,Odisha,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,950.0,194,155.2,200.0,1499.2,53.54,28,8.0,Direct
+16,Dhamra Port,INDHM,Odisha,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1650.0,194,155.2,290.0,2289.2,76.31,30,8.0,Direct
+16,Dhamra Port,INDHM,Odisha,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,950.0,194,155.2,200.0,1499.2,53.54,28,8.0,Direct
+16,Dhamra Port,INDHM,Odisha,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1650.0,194,155.2,290.0,2289.2,76.31,30,8.0,Direct
+16,Dhamra Port,INDHM,Odisha,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,950.0,194,155.2,200.0,1499.2,53.54,28,8.0,Direct
+16,Dhamra Port,INDHM,Odisha,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1650.0,194,155.2,290.0,2289.2,76.31,30,8.0,Direct
+16,Dhamra Port,INDHM,Odisha,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,950.0,194,155.2,200.0,1499.2,53.54,28,8.0,Direct
+16,Dhamra Port,INDHM,Odisha,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1650.0,194,155.2,290.0,2289.2,76.31,30,8.0,Direct
+16,Dhamra Port,INDHM,Odisha,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,194,155.2,200.0,1449.2,51.76,28,9.0,Direct
+16,Dhamra Port,INDHM,Odisha,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,194,155.2,290.0,2189.2,72.97,30,9.0,Direct
+16,Dhamra Port,INDHM,Odisha,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,194,155.2,200.0,1699.2,60.69,28,12.0,Direct
+16,Dhamra Port,INDHM,Odisha,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,194,155.2,290.0,2589.2,86.31,30,12.0,Direct
+16,Dhamra Port,INDHM,Odisha,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,194,155.2,200.0,1699.2,60.69,28,12.0,Direct
+16,Dhamra Port,INDHM,Odisha,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,194,155.2,290.0,2589.2,86.31,30,12.0,Direct
+16,Dhamra Port,INDHM,Odisha,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,194,155.2,200.0,1699.2,60.69,28,12.0,Direct
+16,Dhamra Port,INDHM,Odisha,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,194,155.2,290.0,2589.2,86.31,30,12.0,Direct
+16,Dhamra Port,INDHM,Odisha,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,194,155.2,200.0,1699.2,60.69,28,12.0,Direct
+16,Dhamra Port,INDHM,Odisha,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,194,155.2,290.0,2589.2,86.31,30,12.0,Direct
+16,Dhamra Port,INDHM,Odisha,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,194,155.2,200.0,1749.2,62.47,28,13.0,Direct
+16,Dhamra Port,INDHM,Odisha,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,194,155.2,290.0,2639.2,87.97,30,13.0,Direct
+16,Dhamra Port,INDHM,Odisha,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,194,155.2,200.0,1749.2,62.47,28,13.0,Direct
+16,Dhamra Port,INDHM,Odisha,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,194,155.2,290.0,2639.2,87.97,30,13.0,Direct
+16,Dhamra Port,INDHM,Odisha,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,194,155.2,200.0,1749.2,62.47,28,13.0,Direct
+16,Dhamra Port,INDHM,Odisha,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,194,155.2,290.0,2639.2,87.97,30,13.0,Direct
+16,Dhamra Port,INDHM,Odisha,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,194,155.2,200.0,1749.2,62.47,28,13.0,Direct
+16,Dhamra Port,INDHM,Odisha,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,194,155.2,290.0,2639.2,87.97,30,13.0,Direct
+16,Dhamra Port,INDHM,Odisha,37,Bangladesh,Chittagong Port,BDCGP,20FT,322.0,194,155.2,200.0,871.2,31.11,28,5.0,Direct
+16,Dhamra Port,INDHM,Odisha,37,Bangladesh,Chittagong Port,BDCGP,40FT,552.0,194,155.2,290.0,1191.2,39.71,30,5.0,Direct
+16,Dhamra Port,INDHM,Odisha,38,Bangladesh,Mongla Port,BDMON,20FT,322.0,194,155.2,200.0,871.2,31.11,28,5.0,Direct
+16,Dhamra Port,INDHM,Odisha,38,Bangladesh,Mongla Port,BDMON,40FT,552.0,194,155.2,290.0,1191.2,39.71,30,5.0,Direct
+16,Dhamra Port,INDHM,Odisha,39,Bangladesh,Payra Port,BDPRA,20FT,322.0,194,155.2,200.0,871.2,31.11,28,5.0,Direct
+16,Dhamra Port,INDHM,Odisha,39,Bangladesh,Payra Port,BDPRA,40FT,552.0,194,155.2,290.0,1191.2,39.71,30,5.0,Direct
+16,Dhamra Port,INDHM,Odisha,40,Sri Lanka,Port of Colombo,LKCMB,20FT,420.0,194,155.2,200.0,969.2,34.61,28,4.0,Direct
+16,Dhamra Port,INDHM,Odisha,40,Sri Lanka,Port of Colombo,LKCMB,40FT,700.0,194,155.2,290.0,1339.2,44.64,30,4.0,Direct
+16,Dhamra Port,INDHM,Odisha,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,420.0,194,155.2,200.0,969.2,34.61,28,4.0,Direct
+16,Dhamra Port,INDHM,Odisha,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,700.0,194,155.2,290.0,1339.2,44.64,30,4.0,Direct
+16,Dhamra Port,INDHM,Odisha,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,420.0,194,155.2,200.0,969.2,34.61,28,4.0,Direct
+16,Dhamra Port,INDHM,Odisha,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,700.0,194,155.2,290.0,1339.2,44.64,30,4.0,Direct
+16,Dhamra Port,INDHM,Odisha,43,Nepal,Birgunj Inland Port,NPBIR,20FT,450.0,194,155.2,200.0,999.2,35.69,28,8.0,Multimodal
+16,Dhamra Port,INDHM,Odisha,43,Nepal,Birgunj Inland Port,NPBIR,40FT,750.0,194,155.2,290.0,1389.2,46.31,30,8.0,Multimodal
+16,Dhamra Port,INDHM,Odisha,44,Nepal,Biratnagar ICP,NPBRT,20FT,450.0,194,155.2,200.0,999.2,35.69,28,8.0,Multimodal
+16,Dhamra Port,INDHM,Odisha,44,Nepal,Biratnagar ICP,NPBRT,40FT,750.0,194,155.2,290.0,1389.2,46.31,30,8.0,Multimodal
+16,Dhamra Port,INDHM,Odisha,49,Japan,Port of Tokyo,JPTYO,20FT,1900.0,194,155.2,200.0,2449.2,87.47,28,18.0,Direct
+16,Dhamra Port,INDHM,Odisha,49,Japan,Port of Tokyo,JPTYO,40FT,3200.0,194,155.2,290.0,3839.2,127.97,30,18.0,Direct
+16,Dhamra Port,INDHM,Odisha,50,Japan,Port of Yokohama,JPYOK,20FT,1900.0,194,155.2,200.0,2449.2,87.47,28,18.0,Direct
+16,Dhamra Port,INDHM,Odisha,50,Japan,Port of Yokohama,JPYOK,40FT,3200.0,194,155.2,290.0,3839.2,127.97,30,18.0,Direct
+16,Dhamra Port,INDHM,Odisha,51,Japan,Port of Kobe,JPUKB,20FT,1900.0,194,155.2,200.0,2449.2,87.47,28,18.0,Direct
+16,Dhamra Port,INDHM,Odisha,51,Japan,Port of Kobe,JPUKB,40FT,3200.0,194,155.2,290.0,3839.2,127.97,30,18.0,Direct
+16,Dhamra Port,INDHM,Odisha,52,Japan,Port of Nagoya,JPNGO,20FT,1900.0,194,155.2,200.0,2449.2,87.47,28,18.0,Direct
+16,Dhamra Port,INDHM,Odisha,52,Japan,Port of Nagoya,JPNGO,40FT,3200.0,194,155.2,290.0,3839.2,127.97,30,18.0,Direct
+16,Dhamra Port,INDHM,Odisha,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2700.0,194,155.2,200.0,3249.2,116.04,28,27.0,Transshipment
+16,Dhamra Port,INDHM,Odisha,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4400.0,194,155.2,290.0,5039.2,167.97,30,27.0,Transshipment
+16,Dhamra Port,INDHM,Odisha,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2700.0,194,155.2,200.0,3249.2,116.04,28,27.0,Transshipment
+16,Dhamra Port,INDHM,Odisha,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4400.0,194,155.2,290.0,5039.2,167.97,30,27.0,Transshipment
+16,Dhamra Port,INDHM,Odisha,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,194,155.2,200.0,3349.2,119.61,28,28.0,Transshipment
+16,Dhamra Port,INDHM,Odisha,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,194,155.2,290.0,5239.2,174.64,30,28.0,Transshipment
+16,Dhamra Port,INDHM,Odisha,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,194,155.2,200.0,3349.2,119.61,28,28.0,Transshipment
+16,Dhamra Port,INDHM,Odisha,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,194,155.2,290.0,5239.2,174.64,30,28.0,Transshipment
+16,Dhamra Port,INDHM,Odisha,88,Singapore,Jurong Port,SGJUR,20FT,900.0,194,155.2,200.0,1449.2,51.76,28,9.0,Direct
+16,Dhamra Port,INDHM,Odisha,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,194,155.2,290.0,2189.2,72.97,30,9.0,Direct
+16,Dhamra Port,INDHM,Odisha,89,Singapore,Tuas Port,SGTAS,20FT,900.0,194,155.2,200.0,1449.2,51.76,28,9.0,Direct
+16,Dhamra Port,INDHM,Odisha,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,194,155.2,290.0,2189.2,72.97,30,9.0,Direct
+16,Dhamra Port,INDHM,Odisha,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,194,155.2,200.0,3349.2,119.61,28,28.0,Transshipment
+16,Dhamra Port,INDHM,Odisha,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,194,155.2,290.0,5239.2,174.64,30,28.0,Transshipment
+16,Dhamra Port,INDHM,Odisha,91,Germany,Port of Rostock,DERSK,20FT,2800.0,194,155.2,200.0,3349.2,119.61,28,28.0,Transshipment
+16,Dhamra Port,INDHM,Odisha,91,Germany,Port of Rostock,DERSK,40FT,4600.0,194,155.2,290.0,5239.2,174.64,30,28.0,Transshipment
+17,Kolkata Port,INCCU,West Bengal,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,1188.0,223,178.4,200.0,1789.4,63.91,28,10.0,Direct
+17,Kolkata Port,INCCU,West Bengal,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,2062.0,223,178.4,290.0,2753.4,91.78,30,10.0,Direct
+17,Kolkata Port,INCCU,West Bengal,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,1188.0,223,178.4,200.0,1789.4,63.91,28,10.0,Direct
+17,Kolkata Port,INCCU,West Bengal,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,2062.0,223,178.4,290.0,2753.4,91.78,30,10.0,Direct
+17,Kolkata Port,INCCU,West Bengal,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,1188.0,223,178.4,200.0,1789.4,63.91,28,10.0,Direct
+17,Kolkata Port,INCCU,West Bengal,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,2062.0,223,178.4,290.0,2753.4,91.78,30,10.0,Direct
+17,Kolkata Port,INCCU,West Bengal,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,1188.0,223,178.4,200.0,1789.4,63.91,28,10.0,Direct
+17,Kolkata Port,INCCU,West Bengal,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,2062.0,223,178.4,290.0,2753.4,91.78,30,10.0,Direct
+17,Kolkata Port,INCCU,West Bengal,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,223,178.4,200.0,1501.4,53.62,28,9.0,Direct
+17,Kolkata Port,INCCU,West Bengal,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,223,178.4,290.0,2241.4,74.71,30,9.0,Direct
+17,Kolkata Port,INCCU,West Bengal,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,223,178.4,200.0,1751.4,62.55,28,12.0,Direct
+17,Kolkata Port,INCCU,West Bengal,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,223,178.4,290.0,2641.4,88.05,30,12.0,Direct
+17,Kolkata Port,INCCU,West Bengal,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,223,178.4,200.0,1751.4,62.55,28,12.0,Direct
+17,Kolkata Port,INCCU,West Bengal,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,223,178.4,290.0,2641.4,88.05,30,12.0,Direct
+17,Kolkata Port,INCCU,West Bengal,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,223,178.4,200.0,1751.4,62.55,28,12.0,Direct
+17,Kolkata Port,INCCU,West Bengal,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,223,178.4,290.0,2641.4,88.05,30,12.0,Direct
+17,Kolkata Port,INCCU,West Bengal,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,223,178.4,200.0,1751.4,62.55,28,12.0,Direct
+17,Kolkata Port,INCCU,West Bengal,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,223,178.4,290.0,2641.4,88.05,30,12.0,Direct
+17,Kolkata Port,INCCU,West Bengal,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,223,178.4,200.0,1801.4,64.34,28,13.0,Direct
+17,Kolkata Port,INCCU,West Bengal,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,223,178.4,290.0,2691.4,89.71,30,13.0,Direct
+17,Kolkata Port,INCCU,West Bengal,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,223,178.4,200.0,1801.4,64.34,28,13.0,Direct
+17,Kolkata Port,INCCU,West Bengal,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,223,178.4,290.0,2691.4,89.71,30,13.0,Direct
+17,Kolkata Port,INCCU,West Bengal,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,223,178.4,200.0,1801.4,64.34,28,13.0,Direct
+17,Kolkata Port,INCCU,West Bengal,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,223,178.4,290.0,2691.4,89.71,30,13.0,Direct
+17,Kolkata Port,INCCU,West Bengal,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,223,178.4,200.0,1801.4,64.34,28,13.0,Direct
+17,Kolkata Port,INCCU,West Bengal,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,223,178.4,290.0,2691.4,89.71,30,13.0,Direct
+17,Kolkata Port,INCCU,West Bengal,37,Bangladesh,Chittagong Port,BDCGP,20FT,280.0,223,178.4,200.0,881.4,31.48,28,3.0,Direct
+17,Kolkata Port,INCCU,West Bengal,37,Bangladesh,Chittagong Port,BDCGP,40FT,480.0,223,178.4,290.0,1171.4,39.05,30,3.0,Direct
+17,Kolkata Port,INCCU,West Bengal,38,Bangladesh,Mongla Port,BDMON,20FT,280.0,223,178.4,200.0,881.4,31.48,28,3.0,Direct
+17,Kolkata Port,INCCU,West Bengal,38,Bangladesh,Mongla Port,BDMON,40FT,480.0,223,178.4,290.0,1171.4,39.05,30,3.0,Direct
+17,Kolkata Port,INCCU,West Bengal,39,Bangladesh,Payra Port,BDPRA,20FT,280.0,223,178.4,200.0,881.4,31.48,28,3.0,Direct
+17,Kolkata Port,INCCU,West Bengal,39,Bangladesh,Payra Port,BDPRA,40FT,480.0,223,178.4,290.0,1171.4,39.05,30,3.0,Direct
+17,Kolkata Port,INCCU,West Bengal,40,Sri Lanka,Port of Colombo,LKCMB,20FT,525.0,223,178.4,200.0,1126.4,40.23,28,6.0,Direct
+17,Kolkata Port,INCCU,West Bengal,40,Sri Lanka,Port of Colombo,LKCMB,40FT,875.0,223,178.4,290.0,1566.4,52.21,30,6.0,Direct
+17,Kolkata Port,INCCU,West Bengal,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,525.0,223,178.4,200.0,1126.4,40.23,28,6.0,Direct
+17,Kolkata Port,INCCU,West Bengal,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,875.0,223,178.4,290.0,1566.4,52.21,30,6.0,Direct
+17,Kolkata Port,INCCU,West Bengal,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,525.0,223,178.4,200.0,1126.4,40.23,28,6.0,Direct
+17,Kolkata Port,INCCU,West Bengal,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,875.0,223,178.4,290.0,1566.4,52.21,30,6.0,Direct
+17,Kolkata Port,INCCU,West Bengal,43,Nepal,Birgunj Inland Port,NPBIR,20FT,360.0,223,178.4,200.0,961.4,34.34,28,6.0,Multimodal
+17,Kolkata Port,INCCU,West Bengal,43,Nepal,Birgunj Inland Port,NPBIR,40FT,600.0,223,178.4,290.0,1291.4,43.05,30,6.0,Multimodal
+17,Kolkata Port,INCCU,West Bengal,44,Nepal,Biratnagar ICP,NPBRT,20FT,360.0,223,178.4,200.0,961.4,34.34,28,6.0,Multimodal
+17,Kolkata Port,INCCU,West Bengal,44,Nepal,Biratnagar ICP,NPBRT,40FT,600.0,223,178.4,290.0,1291.4,43.05,30,6.0,Multimodal
+17,Kolkata Port,INCCU,West Bengal,49,Japan,Port of Tokyo,JPTYO,20FT,1900.0,223,178.4,200.0,2501.4,89.34,28,18.0,Direct
+17,Kolkata Port,INCCU,West Bengal,49,Japan,Port of Tokyo,JPTYO,40FT,3200.0,223,178.4,290.0,3891.4,129.71,30,18.0,Direct
+17,Kolkata Port,INCCU,West Bengal,50,Japan,Port of Yokohama,JPYOK,20FT,1900.0,223,178.4,200.0,2501.4,89.34,28,18.0,Direct
+17,Kolkata Port,INCCU,West Bengal,50,Japan,Port of Yokohama,JPYOK,40FT,3200.0,223,178.4,290.0,3891.4,129.71,30,18.0,Direct
+17,Kolkata Port,INCCU,West Bengal,51,Japan,Port of Kobe,JPUKB,20FT,1900.0,223,178.4,200.0,2501.4,89.34,28,18.0,Direct
+17,Kolkata Port,INCCU,West Bengal,51,Japan,Port of Kobe,JPUKB,40FT,3200.0,223,178.4,290.0,3891.4,129.71,30,18.0,Direct
+17,Kolkata Port,INCCU,West Bengal,52,Japan,Port of Nagoya,JPNGO,20FT,1900.0,223,178.4,200.0,2501.4,89.34,28,18.0,Direct
+17,Kolkata Port,INCCU,West Bengal,52,Japan,Port of Nagoya,JPNGO,40FT,3200.0,223,178.4,290.0,3891.4,129.71,30,18.0,Direct
+17,Kolkata Port,INCCU,West Bengal,57,Netherlands,Port of Rotterdam,NLRTM,20FT,3105.0,223,178.4,200.0,3706.4,132.37,28,28.0,Transshipment
+17,Kolkata Port,INCCU,West Bengal,57,Netherlands,Port of Rotterdam,NLRTM,40FT,5060.0,223,178.4,290.0,5751.4,191.71,30,28.0,Transshipment
+17,Kolkata Port,INCCU,West Bengal,58,Netherlands,Port of Amsterdam,NLAMS,20FT,3105.0,223,178.4,200.0,3706.4,132.37,28,28.0,Transshipment
+17,Kolkata Port,INCCU,West Bengal,58,Netherlands,Port of Amsterdam,NLAMS,40FT,5060.0,223,178.4,290.0,5751.4,191.71,30,28.0,Transshipment
+17,Kolkata Port,INCCU,West Bengal,59,Germany,Port of Hamburg,DEHAM,20FT,3220.0,223,178.4,200.0,3821.4,136.48,28,29.0,Transshipment
+17,Kolkata Port,INCCU,West Bengal,59,Germany,Port of Hamburg,DEHAM,40FT,5290.0,223,178.4,290.0,5981.4,199.38,30,29.0,Transshipment
+17,Kolkata Port,INCCU,West Bengal,60,Germany,Port of Bremerhaven,DEBRV,20FT,3220.0,223,178.4,200.0,3821.4,136.48,28,29.0,Transshipment
+17,Kolkata Port,INCCU,West Bengal,60,Germany,Port of Bremerhaven,DEBRV,40FT,5290.0,223,178.4,290.0,5981.4,199.38,30,29.0,Transshipment
+17,Kolkata Port,INCCU,West Bengal,88,Singapore,Jurong Port,SGJUR,20FT,900.0,223,178.4,200.0,1501.4,53.62,28,9.0,Direct
+17,Kolkata Port,INCCU,West Bengal,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,223,178.4,290.0,2241.4,74.71,30,9.0,Direct
+17,Kolkata Port,INCCU,West Bengal,89,Singapore,Tuas Port,SGTAS,20FT,900.0,223,178.4,200.0,1501.4,53.62,28,9.0,Direct
+17,Kolkata Port,INCCU,West Bengal,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,223,178.4,290.0,2241.4,74.71,30,9.0,Direct
+17,Kolkata Port,INCCU,West Bengal,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,3220.0,223,178.4,200.0,3821.4,136.48,28,29.0,Transshipment
+17,Kolkata Port,INCCU,West Bengal,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,5290.0,223,178.4,290.0,5981.4,199.38,30,29.0,Transshipment
+17,Kolkata Port,INCCU,West Bengal,91,Germany,Port of Rostock,DERSK,20FT,3220.0,223,178.4,200.0,3821.4,136.48,28,29.0,Transshipment
+17,Kolkata Port,INCCU,West Bengal,91,Germany,Port of Rostock,DERSK,40FT,5290.0,223,178.4,290.0,5981.4,199.38,30,29.0,Transshipment
+18,Haldia Dock Complex,INHAL,West Bengal,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,950.0,211,168.8,200.0,1529.8,54.64,28,8.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1650.0,211,168.8,290.0,2319.8,77.33,30,8.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,950.0,211,168.8,200.0,1529.8,54.64,28,8.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1650.0,211,168.8,290.0,2319.8,77.33,30,8.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,950.0,211,168.8,200.0,1529.8,54.64,28,8.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1650.0,211,168.8,290.0,2319.8,77.33,30,8.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,950.0,211,168.8,200.0,1529.8,54.64,28,8.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1650.0,211,168.8,290.0,2319.8,77.33,30,8.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,211,168.8,200.0,1479.8,52.85,28,9.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,211,168.8,290.0,2219.8,73.99,30,9.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,211,168.8,200.0,1729.8,61.78,28,12.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,211,168.8,290.0,2619.8,87.33,30,12.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,211,168.8,200.0,1729.8,61.78,28,12.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,211,168.8,290.0,2619.8,87.33,30,12.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,211,168.8,200.0,1729.8,61.78,28,12.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,211,168.8,290.0,2619.8,87.33,30,12.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,211,168.8,200.0,1729.8,61.78,28,12.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,211,168.8,290.0,2619.8,87.33,30,12.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,211,168.8,200.0,1779.8,63.56,28,13.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,211,168.8,290.0,2669.8,88.99,30,13.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,211,168.8,200.0,1779.8,63.56,28,13.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,211,168.8,290.0,2669.8,88.99,30,13.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,211,168.8,200.0,1779.8,63.56,28,13.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,211,168.8,290.0,2669.8,88.99,30,13.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,211,168.8,200.0,1779.8,63.56,28,13.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,211,168.8,290.0,2669.8,88.99,30,13.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,37,Bangladesh,Chittagong Port,BDCGP,20FT,287.0,211,168.8,200.0,866.8,30.96,28,4.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,37,Bangladesh,Chittagong Port,BDCGP,40FT,492.0,211,168.8,290.0,1161.8,38.73,30,4.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,38,Bangladesh,Mongla Port,BDMON,20FT,287.0,211,168.8,200.0,866.8,30.96,28,4.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,38,Bangladesh,Mongla Port,BDMON,40FT,492.0,211,168.8,290.0,1161.8,38.73,30,4.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,39,Bangladesh,Payra Port,BDPRA,20FT,287.0,211,168.8,200.0,866.8,30.96,28,4.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,39,Bangladesh,Payra Port,BDPRA,40FT,492.0,211,168.8,290.0,1161.8,38.73,30,4.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,40,Sri Lanka,Port of Colombo,LKCMB,20FT,420.0,211,168.8,200.0,999.8,35.71,28,4.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,40,Sri Lanka,Port of Colombo,LKCMB,40FT,700.0,211,168.8,290.0,1369.8,45.66,30,4.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,420.0,211,168.8,200.0,999.8,35.71,28,4.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,700.0,211,168.8,290.0,1369.8,45.66,30,4.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,420.0,211,168.8,200.0,999.8,35.71,28,4.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,700.0,211,168.8,290.0,1369.8,45.66,30,4.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,43,Nepal,Birgunj Inland Port,NPBIR,20FT,369.0,211,168.8,200.0,948.8,33.89,28,7.0,Multimodal
+18,Haldia Dock Complex,INHAL,West Bengal,43,Nepal,Birgunj Inland Port,NPBIR,40FT,615.0,211,168.8,290.0,1284.8,42.83,30,7.0,Multimodal
+18,Haldia Dock Complex,INHAL,West Bengal,44,Nepal,Biratnagar ICP,NPBRT,20FT,369.0,211,168.8,200.0,948.8,33.89,28,7.0,Multimodal
+18,Haldia Dock Complex,INHAL,West Bengal,44,Nepal,Biratnagar ICP,NPBRT,40FT,615.0,211,168.8,290.0,1284.8,42.83,30,7.0,Multimodal
+18,Haldia Dock Complex,INHAL,West Bengal,49,Japan,Port of Tokyo,JPTYO,20FT,1900.0,211,168.8,200.0,2479.8,88.56,28,18.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,49,Japan,Port of Tokyo,JPTYO,40FT,3200.0,211,168.8,290.0,3869.8,128.99,30,18.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,50,Japan,Port of Yokohama,JPYOK,20FT,1900.0,211,168.8,200.0,2479.8,88.56,28,18.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,50,Japan,Port of Yokohama,JPYOK,40FT,3200.0,211,168.8,290.0,3869.8,128.99,30,18.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,51,Japan,Port of Kobe,JPUKB,20FT,1900.0,211,168.8,200.0,2479.8,88.56,28,18.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,51,Japan,Port of Kobe,JPUKB,40FT,3200.0,211,168.8,290.0,3869.8,128.99,30,18.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,52,Japan,Port of Nagoya,JPNGO,20FT,1900.0,211,168.8,200.0,2479.8,88.56,28,18.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,52,Japan,Port of Nagoya,JPNGO,40FT,3200.0,211,168.8,290.0,3869.8,128.99,30,18.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2700.0,211,168.8,200.0,3279.8,117.14,28,27.0,Transshipment
+18,Haldia Dock Complex,INHAL,West Bengal,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4400.0,211,168.8,290.0,5069.8,168.99,30,27.0,Transshipment
+18,Haldia Dock Complex,INHAL,West Bengal,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2700.0,211,168.8,200.0,3279.8,117.14,28,27.0,Transshipment
+18,Haldia Dock Complex,INHAL,West Bengal,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4400.0,211,168.8,290.0,5069.8,168.99,30,27.0,Transshipment
+18,Haldia Dock Complex,INHAL,West Bengal,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,211,168.8,200.0,3379.8,120.71,28,28.0,Transshipment
+18,Haldia Dock Complex,INHAL,West Bengal,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,211,168.8,290.0,5269.8,175.66,30,28.0,Transshipment
+18,Haldia Dock Complex,INHAL,West Bengal,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,211,168.8,200.0,3379.8,120.71,28,28.0,Transshipment
+18,Haldia Dock Complex,INHAL,West Bengal,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,211,168.8,290.0,5269.8,175.66,30,28.0,Transshipment
+18,Haldia Dock Complex,INHAL,West Bengal,88,Singapore,Jurong Port,SGJUR,20FT,900.0,211,168.8,200.0,1479.8,52.85,28,9.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,211,168.8,290.0,2219.8,73.99,30,9.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,89,Singapore,Tuas Port,SGTAS,20FT,900.0,211,168.8,200.0,1479.8,52.85,28,9.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,211,168.8,290.0,2219.8,73.99,30,9.0,Direct
+18,Haldia Dock Complex,INHAL,West Bengal,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,211,168.8,200.0,3379.8,120.71,28,28.0,Transshipment
+18,Haldia Dock Complex,INHAL,West Bengal,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,211,168.8,290.0,5269.8,175.66,30,28.0,Transshipment
+18,Haldia Dock Complex,INHAL,West Bengal,91,Germany,Port of Rostock,DERSK,20FT,2800.0,211,168.8,200.0,3379.8,120.71,28,28.0,Transshipment
+18,Haldia Dock Complex,INHAL,West Bengal,91,Germany,Port of Rostock,DERSK,40FT,4600.0,211,168.8,290.0,5269.8,175.66,30,28.0,Transshipment
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,950.0,198,158.4,200.0,1506.4,53.8,28,8.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1650.0,198,158.4,290.0,2296.4,76.55,30,8.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,950.0,198,158.4,200.0,1506.4,53.8,28,8.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1650.0,198,158.4,290.0,2296.4,76.55,30,8.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,950.0,198,158.4,200.0,1506.4,53.8,28,8.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1650.0,198,158.4,290.0,2296.4,76.55,30,8.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,950.0,198,158.4,200.0,1506.4,53.8,28,8.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1650.0,198,158.4,290.0,2296.4,76.55,30,8.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,21,Singapore,Port of Singapore,SGSIN,20FT,855.0,198,158.4,200.0,1411.4,50.41,28,9.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,21,Singapore,Port of Singapore,SGSIN,40FT,1472.0,198,158.4,290.0,2118.4,70.61,30,9.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1092.0,198,158.4,200.0,1648.4,58.87,28,12.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1852.0,198,158.4,290.0,2498.4,83.28,30,12.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,27,Indonesia,Belawan Port,IDBLW,20FT,1092.0,198,158.4,200.0,1648.4,58.87,28,12.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,27,Indonesia,Belawan Port,IDBLW,40FT,1852.0,198,158.4,290.0,2498.4,83.28,30,12.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1092.0,198,158.4,200.0,1648.4,58.87,28,12.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1852.0,198,158.4,290.0,2498.4,83.28,30,12.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,29,Indonesia,Makassar Port,IDMKS,20FT,1092.0,198,158.4,200.0,1648.4,58.87,28,12.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,29,Indonesia,Makassar Port,IDMKS,40FT,1852.0,198,158.4,290.0,2498.4,83.28,30,12.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,198,158.4,200.0,1756.4,62.73,28,13.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,198,158.4,290.0,2646.4,88.21,30,13.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,198,158.4,200.0,1756.4,62.73,28,13.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,198,158.4,290.0,2646.4,88.21,30,13.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,198,158.4,200.0,1756.4,62.73,28,13.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,198,158.4,290.0,2646.4,88.21,30,13.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,198,158.4,200.0,1756.4,62.73,28,13.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,198,158.4,290.0,2646.4,88.21,30,13.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,37,Bangladesh,Chittagong Port,BDCGP,20FT,350.0,198,158.4,200.0,906.4,32.37,28,5.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,37,Bangladesh,Chittagong Port,BDCGP,40FT,600.0,198,158.4,290.0,1246.4,41.55,30,5.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,38,Bangladesh,Mongla Port,BDMON,20FT,350.0,198,158.4,200.0,906.4,32.37,28,5.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,38,Bangladesh,Mongla Port,BDMON,40FT,600.0,198,158.4,290.0,1246.4,41.55,30,5.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,39,Bangladesh,Payra Port,BDPRA,20FT,350.0,198,158.4,200.0,906.4,32.37,28,5.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,39,Bangladesh,Payra Port,BDPRA,40FT,600.0,198,158.4,290.0,1246.4,41.55,30,5.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,40,Sri Lanka,Port of Colombo,LKCMB,20FT,420.0,198,158.4,200.0,976.4,34.87,28,4.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,40,Sri Lanka,Port of Colombo,LKCMB,40FT,700.0,198,158.4,290.0,1346.4,44.88,30,4.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,420.0,198,158.4,200.0,976.4,34.87,28,4.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,700.0,198,158.4,290.0,1346.4,44.88,30,4.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,420.0,198,158.4,200.0,976.4,34.87,28,4.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,700.0,198,158.4,290.0,1346.4,44.88,30,4.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,43,Nepal,Birgunj Inland Port,NPBIR,20FT,450.0,198,158.4,200.0,1006.4,35.94,28,8.0,Multimodal
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,43,Nepal,Birgunj Inland Port,NPBIR,40FT,750.0,198,158.4,290.0,1396.4,46.55,30,8.0,Multimodal
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,44,Nepal,Biratnagar ICP,NPBRT,20FT,450.0,198,158.4,200.0,1006.4,35.94,28,8.0,Multimodal
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,44,Nepal,Biratnagar ICP,NPBRT,40FT,750.0,198,158.4,290.0,1396.4,46.55,30,8.0,Multimodal
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,49,Japan,Port of Tokyo,JPTYO,20FT,1900.0,198,158.4,200.0,2456.4,87.73,28,18.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,49,Japan,Port of Tokyo,JPTYO,40FT,3200.0,198,158.4,290.0,3846.4,128.21,30,18.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,50,Japan,Port of Yokohama,JPYOK,20FT,1900.0,198,158.4,200.0,2456.4,87.73,28,18.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,50,Japan,Port of Yokohama,JPYOK,40FT,3200.0,198,158.4,290.0,3846.4,128.21,30,18.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,51,Japan,Port of Kobe,JPUKB,20FT,1900.0,198,158.4,200.0,2456.4,87.73,28,18.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,51,Japan,Port of Kobe,JPUKB,40FT,3200.0,198,158.4,290.0,3846.4,128.21,30,18.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,52,Japan,Port of Nagoya,JPNGO,20FT,1900.0,198,158.4,200.0,2456.4,87.73,28,18.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,52,Japan,Port of Nagoya,JPNGO,40FT,3200.0,198,158.4,290.0,3846.4,128.21,30,18.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2700.0,198,158.4,200.0,3256.4,116.3,28,27.0,Transshipment
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4400.0,198,158.4,290.0,5046.4,168.21,30,27.0,Transshipment
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2700.0,198,158.4,200.0,3256.4,116.3,28,27.0,Transshipment
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4400.0,198,158.4,290.0,5046.4,168.21,30,27.0,Transshipment
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,198,158.4,200.0,3356.4,119.87,28,28.0,Transshipment
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,198,158.4,290.0,5246.4,174.88,30,28.0,Transshipment
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,198,158.4,200.0,3356.4,119.87,28,28.0,Transshipment
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,198,158.4,290.0,5246.4,174.88,30,28.0,Transshipment
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,88,Singapore,Jurong Port,SGJUR,20FT,855.0,198,158.4,200.0,1411.4,50.41,28,9.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,88,Singapore,Jurong Port,SGJUR,40FT,1472.0,198,158.4,290.0,2118.4,70.61,30,9.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,89,Singapore,Tuas Port,SGTAS,20FT,855.0,198,158.4,200.0,1411.4,50.41,28,9.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,89,Singapore,Tuas Port,SGTAS,40FT,1472.0,198,158.4,290.0,2118.4,70.61,30,9.0,Direct
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,198,158.4,200.0,3356.4,119.87,28,28.0,Transshipment
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,198,158.4,290.0,5246.4,174.88,30,28.0,Transshipment
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,91,Germany,Port of Rostock,DERSK,20FT,2800.0,198,158.4,200.0,3356.4,119.87,28,28.0,Transshipment
+19,Krishnapatnam Port,INKRI,Andhra Pradesh,91,Germany,Port of Rostock,DERSK,40FT,4600.0,198,158.4,290.0,5246.4,174.88,30,28.0,Transshipment
+20,Karaikal Port,INKRK,Puducherry,5,Saudi Arabia,Jeddah Islamic Port,SAJED,20FT,950.0,192,153.6,200.0,1495.6,53.41,28,8.0,Direct
+20,Karaikal Port,INKRK,Puducherry,5,Saudi Arabia,Jeddah Islamic Port,SAJED,40FT,1650.0,192,153.6,290.0,2285.6,76.19,30,8.0,Direct
+20,Karaikal Port,INKRK,Puducherry,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,20FT,950.0,192,153.6,200.0,1495.6,53.41,28,8.0,Direct
+20,Karaikal Port,INKRK,Puducherry,6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,40FT,1650.0,192,153.6,290.0,2285.6,76.19,30,8.0,Direct
+20,Karaikal Port,INKRK,Puducherry,7,Saudi Arabia,Jazan Port,SAJAZ,20FT,950.0,192,153.6,200.0,1495.6,53.41,28,8.0,Direct
+20,Karaikal Port,INKRK,Puducherry,7,Saudi Arabia,Jazan Port,SAJAZ,40FT,1650.0,192,153.6,290.0,2285.6,76.19,30,8.0,Direct
+20,Karaikal Port,INKRK,Puducherry,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,20FT,950.0,192,153.6,200.0,1495.6,53.41,28,8.0,Direct
+20,Karaikal Port,INKRK,Puducherry,8,Saudi Arabia,Yanbu Commercial Port,SAYNB,40FT,1650.0,192,153.6,290.0,2285.6,76.19,30,8.0,Direct
+20,Karaikal Port,INKRK,Puducherry,21,Singapore,Port of Singapore,SGSIN,20FT,900.0,192,153.6,200.0,1445.6,51.63,28,9.0,Direct
+20,Karaikal Port,INKRK,Puducherry,21,Singapore,Port of Singapore,SGSIN,40FT,1550.0,192,153.6,290.0,2185.6,72.85,30,9.0,Direct
+20,Karaikal Port,INKRK,Puducherry,26,Indonesia,Tanjung Priok Port,IDTPP,20FT,1150.0,192,153.6,200.0,1695.6,60.56,28,12.0,Direct
+20,Karaikal Port,INKRK,Puducherry,26,Indonesia,Tanjung Priok Port,IDTPP,40FT,1950.0,192,153.6,290.0,2585.6,86.19,30,12.0,Direct
+20,Karaikal Port,INKRK,Puducherry,27,Indonesia,Belawan Port,IDBLW,20FT,1150.0,192,153.6,200.0,1695.6,60.56,28,12.0,Direct
+20,Karaikal Port,INKRK,Puducherry,27,Indonesia,Belawan Port,IDBLW,40FT,1950.0,192,153.6,290.0,2585.6,86.19,30,12.0,Direct
+20,Karaikal Port,INKRK,Puducherry,28,Indonesia,Tanjung Perak Port,IDSUB,20FT,1150.0,192,153.6,200.0,1695.6,60.56,28,12.0,Direct
+20,Karaikal Port,INKRK,Puducherry,28,Indonesia,Tanjung Perak Port,IDSUB,40FT,1950.0,192,153.6,290.0,2585.6,86.19,30,12.0,Direct
+20,Karaikal Port,INKRK,Puducherry,29,Indonesia,Makassar Port,IDMKS,20FT,1150.0,192,153.6,200.0,1695.6,60.56,28,12.0,Direct
+20,Karaikal Port,INKRK,Puducherry,29,Indonesia,Makassar Port,IDMKS,40FT,1950.0,192,153.6,290.0,2585.6,86.19,30,12.0,Direct
+20,Karaikal Port,INKRK,Puducherry,33,Vietnam,Cat Lai Port,VNCAT,20FT,1200.0,192,153.6,200.0,1745.6,62.34,28,13.0,Direct
+20,Karaikal Port,INKRK,Puducherry,33,Vietnam,Cat Lai Port,VNCAT,40FT,2000.0,192,153.6,290.0,2635.6,87.85,30,13.0,Direct
+20,Karaikal Port,INKRK,Puducherry,34,Vietnam,Hai Phong Port,VNHPH,20FT,1200.0,192,153.6,200.0,1745.6,62.34,28,13.0,Direct
+20,Karaikal Port,INKRK,Puducherry,34,Vietnam,Hai Phong Port,VNHPH,40FT,2000.0,192,153.6,290.0,2635.6,87.85,30,13.0,Direct
+20,Karaikal Port,INKRK,Puducherry,35,Vietnam,Da Nang Port,VNDAD,20FT,1200.0,192,153.6,200.0,1745.6,62.34,28,13.0,Direct
+20,Karaikal Port,INKRK,Puducherry,35,Vietnam,Da Nang Port,VNDAD,40FT,2000.0,192,153.6,290.0,2635.6,87.85,30,13.0,Direct
+20,Karaikal Port,INKRK,Puducherry,36,Vietnam,Cai Mep Port,VNCMT,20FT,1200.0,192,153.6,200.0,1745.6,62.34,28,13.0,Direct
+20,Karaikal Port,INKRK,Puducherry,36,Vietnam,Cai Mep Port,VNCMT,40FT,2000.0,192,153.6,290.0,2635.6,87.85,30,13.0,Direct
+20,Karaikal Port,INKRK,Puducherry,37,Bangladesh,Chittagong Port,BDCGP,20FT,350.0,192,153.6,200.0,895.6,31.99,28,5.0,Direct
+20,Karaikal Port,INKRK,Puducherry,37,Bangladesh,Chittagong Port,BDCGP,40FT,600.0,192,153.6,290.0,1235.6,41.19,30,5.0,Direct
+20,Karaikal Port,INKRK,Puducherry,38,Bangladesh,Mongla Port,BDMON,20FT,350.0,192,153.6,200.0,895.6,31.99,28,5.0,Direct
+20,Karaikal Port,INKRK,Puducherry,38,Bangladesh,Mongla Port,BDMON,40FT,600.0,192,153.6,290.0,1235.6,41.19,30,5.0,Direct
+20,Karaikal Port,INKRK,Puducherry,39,Bangladesh,Payra Port,BDPRA,20FT,350.0,192,153.6,200.0,895.6,31.99,28,5.0,Direct
+20,Karaikal Port,INKRK,Puducherry,39,Bangladesh,Payra Port,BDPRA,40FT,600.0,192,153.6,290.0,1235.6,41.19,30,5.0,Direct
+20,Karaikal Port,INKRK,Puducherry,40,Sri Lanka,Port of Colombo,LKCMB,20FT,420.0,192,153.6,200.0,965.6,34.49,28,4.0,Direct
+20,Karaikal Port,INKRK,Puducherry,40,Sri Lanka,Port of Colombo,LKCMB,40FT,700.0,192,153.6,290.0,1335.6,44.52,30,4.0,Direct
+20,Karaikal Port,INKRK,Puducherry,41,Sri Lanka,Port of Hambantota,LKHBT,20FT,420.0,192,153.6,200.0,965.6,34.49,28,4.0,Direct
+20,Karaikal Port,INKRK,Puducherry,41,Sri Lanka,Port of Hambantota,LKHBT,40FT,700.0,192,153.6,290.0,1335.6,44.52,30,4.0,Direct
+20,Karaikal Port,INKRK,Puducherry,42,Sri Lanka,Port of Trincomalee,LKTRR,20FT,420.0,192,153.6,200.0,965.6,34.49,28,4.0,Direct
+20,Karaikal Port,INKRK,Puducherry,42,Sri Lanka,Port of Trincomalee,LKTRR,40FT,700.0,192,153.6,290.0,1335.6,44.52,30,4.0,Direct
+20,Karaikal Port,INKRK,Puducherry,43,Nepal,Birgunj Inland Port,NPBIR,20FT,450.0,192,153.6,200.0,995.6,35.56,28,8.0,Multimodal
+20,Karaikal Port,INKRK,Puducherry,43,Nepal,Birgunj Inland Port,NPBIR,40FT,750.0,192,153.6,290.0,1385.6,46.19,30,8.0,Multimodal
+20,Karaikal Port,INKRK,Puducherry,44,Nepal,Biratnagar ICP,NPBRT,20FT,450.0,192,153.6,200.0,995.6,35.56,28,8.0,Multimodal
+20,Karaikal Port,INKRK,Puducherry,44,Nepal,Biratnagar ICP,NPBRT,40FT,750.0,192,153.6,290.0,1385.6,46.19,30,8.0,Multimodal
+20,Karaikal Port,INKRK,Puducherry,49,Japan,Port of Tokyo,JPTYO,20FT,1900.0,192,153.6,200.0,2445.6,87.34,28,18.0,Direct
+20,Karaikal Port,INKRK,Puducherry,49,Japan,Port of Tokyo,JPTYO,40FT,3200.0,192,153.6,290.0,3835.6,127.85,30,18.0,Direct
+20,Karaikal Port,INKRK,Puducherry,50,Japan,Port of Yokohama,JPYOK,20FT,1900.0,192,153.6,200.0,2445.6,87.34,28,18.0,Direct
+20,Karaikal Port,INKRK,Puducherry,50,Japan,Port of Yokohama,JPYOK,40FT,3200.0,192,153.6,290.0,3835.6,127.85,30,18.0,Direct
+20,Karaikal Port,INKRK,Puducherry,51,Japan,Port of Kobe,JPUKB,20FT,1900.0,192,153.6,200.0,2445.6,87.34,28,18.0,Direct
+20,Karaikal Port,INKRK,Puducherry,51,Japan,Port of Kobe,JPUKB,40FT,3200.0,192,153.6,290.0,3835.6,127.85,30,18.0,Direct
+20,Karaikal Port,INKRK,Puducherry,52,Japan,Port of Nagoya,JPNGO,20FT,1900.0,192,153.6,200.0,2445.6,87.34,28,18.0,Direct
+20,Karaikal Port,INKRK,Puducherry,52,Japan,Port of Nagoya,JPNGO,40FT,3200.0,192,153.6,290.0,3835.6,127.85,30,18.0,Direct
+20,Karaikal Port,INKRK,Puducherry,57,Netherlands,Port of Rotterdam,NLRTM,20FT,2700.0,192,153.6,200.0,3245.6,115.91,28,27.0,Transshipment
+20,Karaikal Port,INKRK,Puducherry,57,Netherlands,Port of Rotterdam,NLRTM,40FT,4400.0,192,153.6,290.0,5035.6,167.85,30,27.0,Transshipment
+20,Karaikal Port,INKRK,Puducherry,58,Netherlands,Port of Amsterdam,NLAMS,20FT,2700.0,192,153.6,200.0,3245.6,115.91,28,27.0,Transshipment
+20,Karaikal Port,INKRK,Puducherry,58,Netherlands,Port of Amsterdam,NLAMS,40FT,4400.0,192,153.6,290.0,5035.6,167.85,30,27.0,Transshipment
+20,Karaikal Port,INKRK,Puducherry,59,Germany,Port of Hamburg,DEHAM,20FT,2800.0,192,153.6,200.0,3345.6,119.49,28,28.0,Transshipment
+20,Karaikal Port,INKRK,Puducherry,59,Germany,Port of Hamburg,DEHAM,40FT,4600.0,192,153.6,290.0,5235.6,174.52,30,28.0,Transshipment
+20,Karaikal Port,INKRK,Puducherry,60,Germany,Port of Bremerhaven,DEBRV,20FT,2800.0,192,153.6,200.0,3345.6,119.49,28,28.0,Transshipment
+20,Karaikal Port,INKRK,Puducherry,60,Germany,Port of Bremerhaven,DEBRV,40FT,4600.0,192,153.6,290.0,5235.6,174.52,30,28.0,Transshipment
+20,Karaikal Port,INKRK,Puducherry,88,Singapore,Jurong Port,SGJUR,20FT,900.0,192,153.6,200.0,1445.6,51.63,28,9.0,Direct
+20,Karaikal Port,INKRK,Puducherry,88,Singapore,Jurong Port,SGJUR,40FT,1550.0,192,153.6,290.0,2185.6,72.85,30,9.0,Direct
+20,Karaikal Port,INKRK,Puducherry,89,Singapore,Tuas Port,SGTAS,20FT,900.0,192,153.6,200.0,1445.6,51.63,28,9.0,Direct
+20,Karaikal Port,INKRK,Puducherry,89,Singapore,Tuas Port,SGTAS,40FT,1550.0,192,153.6,290.0,2185.6,72.85,30,9.0,Direct
+20,Karaikal Port,INKRK,Puducherry,90,Germany,Port of Wilhelmshaven,DEWVN,20FT,2800.0,192,153.6,200.0,3345.6,119.49,28,28.0,Transshipment
+20,Karaikal Port,INKRK,Puducherry,90,Germany,Port of Wilhelmshaven,DEWVN,40FT,4600.0,192,153.6,290.0,5235.6,174.52,30,28.0,Transshipment
+20,Karaikal Port,INKRK,Puducherry,91,Germany,Port of Rostock,DERSK,20FT,2800.0,192,153.6,200.0,3345.6,119.49,28,28.0,Transshipment
+20,Karaikal Port,INKRK,Puducherry,91,Germany,Port of Rostock,DERSK,40FT,4600.0,192,153.6,290.0,5235.6,174.52,30,28.0,Transshipment

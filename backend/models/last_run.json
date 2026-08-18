@@ -1,0 +1,713 @@
+{
+  "generated_at": "2026-07-25T16:06:29",
+  "horizon_month": "2026-08",
+  "inputs": {
+    "available_containers": 6,
+    "container_type": "20FT",
+    "top_n": 3
+  },
+  "stage1_demand": {
+    "top_opportunities": [
+      {
+        "commodity": "Onion",
+        "country": "Saudi Arabia",
+        "demand_score": 0.4062,
+        "mentions": 1,
+        "evidence": "ml_demand_model",
+        "rank": 1
+      },
+      {
+        "commodity": "Wheat",
+        "country": "Bangladesh",
+        "demand_score": 0.3506,
+        "mentions": 1,
+        "evidence": "ml_demand_model",
+        "rank": 2
+      },
+      {
+        "commodity": "Sugar",
+        "country": "Germany",
+        "demand_score": 0.2617,
+        "mentions": 1,
+        "evidence": "ml_demand_model",
+        "rank": 3
+      }
+    ],
+    "top_countries": [
+      "Saudi Arabia",
+      "Bangladesh",
+      "Germany"
+    ],
+    "commodities_involved": [
+      "Onion",
+      "Sugar",
+      "Wheat"
+    ],
+    "method": "tfidf_logistic_ridge_cv",
+    "model_metrics": {
+      "commodity_accuracy_cv": 0.6254767353165522,
+      "commodity_f1_macro_cv": 0.6303915006500065,
+      "country_accuracy_cv": 0.5484363081617086,
+      "country_f1_macro_cv": 0.5661204707221996,
+      "demand_mae_cv": 0.2111147716528155,
+      "demand_r2_cv": 0.3859362142096918,
+      "n_rows": 1311,
+      "commodities": [
+        "Coffee",
+        "Cotton",
+        "Maize",
+        "Onion",
+        "Soybean",
+        "Sugar",
+        "Turmeric",
+        "Wheat"
+      ],
+      "countries": [
+        "Bangladesh",
+        "China",
+        "Germany",
+        "Indonesia",
+        "Japan",
+        "Malaysia",
+        "Nepal",
+        "Netherlands",
+        "Saudi Arabia",
+        "Singapore",
+        "Sri Lanka",
+        "Vietnam"
+      ],
+      "commodity_train_accuracy": 0.8642257818459191,
+      "commodity_overfit_gap": 0.2387490465293669
+    },
+    "articles_parsed": 4,
+    "article_details": [
+      {
+        "article_snippet": "Bangladesh wheat imports surge as domestic stocks tighten ahead of Ramadan demand.",
+        "commodity": "Wheat",
+        "country": "Bangladesh",
+        "demand_score": 0.3506,
+        "commodity_confidence": 0.2784,
+        "country_confidence": 0.201
+      },
+      {
+        "article_snippet": "Saudi Arabia faces onion shortage after delayed shipments; traders seek Indian supply.",
+        "commodity": "Onion",
+        "country": "Saudi Arabia",
+        "demand_score": 0.4062,
+        "commodity_confidence": 0.4394,
+        "country_confidence": 0.2853
+      },
+      {
+        "article_snippet": "Germany sugar refiners report tighter stocks; import tenders expected next month.",
+        "commodity": "Sugar",
+        "country": "Germany",
+        "demand_score": 0.2617,
+        "commodity_confidence": 0.2729,
+        "country_confidence": 0.1754
+      },
+      {
+        "article_snippet": "Vietnam coffee weather risks and India turmeric enquiry appear in regional trade notes.",
+        "commodity": "Turmeric",
+        "country": "Vietnam",
+        "demand_score": 0.2279,
+        "commodity_confidence": 0.2772,
+        "country_confidence": 0.1937
+      }
+    ],
+    "note": "Top demand countries/commodities predicted from news. Import quantity is not predicted."
+  },
+  "stage2_prices": {
+    "predictions": [
+      {
+        "commodity": "Onion",
+        "current_price_inr": 1931.91,
+        "predicted_next_month_price_inr": 1942.26,
+        "predicted_return": 0.0054,
+        "predicted_change_pct": 0.54,
+        "model_version": "price_v2_return_xgb",
+        "model_metrics": {
+          "cv_price_mape_pct": 6.918452737211631,
+          "cv_return_mae": 0.06258888182526486,
+          "overfit_gap_mape": -0.1502613234353971
+        }
+      },
+      {
+        "commodity": "Sugar",
+        "current_price_inr": 4445.0,
+        "predicted_next_month_price_inr": 4470.89,
+        "predicted_return": 0.0058,
+        "predicted_change_pct": 0.58,
+        "model_version": "price_v2_return_xgb",
+        "model_metrics": {
+          "cv_price_mape_pct": 6.918452737211631,
+          "cv_return_mae": 0.06258888182526486,
+          "overfit_gap_mape": -0.1502613234353971
+        }
+      },
+      {
+        "commodity": "Wheat",
+        "current_price_inr": 2907.38,
+        "predicted_next_month_price_inr": 2924.31,
+        "predicted_return": 0.0058,
+        "predicted_change_pct": 0.58,
+        "model_version": "price_v2_return_xgb",
+        "model_metrics": {
+          "cv_price_mape_pct": 6.918452737211631,
+          "cv_return_mae": 0.06258888182526486,
+          "overfit_gap_mape": -0.1502613234353971
+        }
+      }
+    ],
+    "horizon": "next_month",
+    "currency": "INR_per_quintal_approx",
+    "note": "Generalized XGBoost predicts monthly return, then reconstructs next-month price."
+  },
+  "stage3_logistics": [
+    {
+      "commodity": "Onion",
+      "country": "Saudi Arabia",
+      "demand_score": 0.4062,
+      "predicted_india_price_inr": 1942.26,
+      "india_port": "Jawaharlal Nehru Port (JNPT)",
+      "india_unlocode": "INNSA",
+      "destination_port": "King Abdul Aziz Port (Dammam)",
+      "destination_unlocode": "SADMM",
+      "origin": "Nashik, Maharashtra",
+      "cost_per_ton_usd": 68.37,
+      "cost_per_container_usd": 1914.48,
+      "total_transit_days": 10.5,
+      "service_type": "Direct",
+      "decision_summary": "EXPORT DECISION: Export Onion from Jawaharlal Nehru Port (JNPT) (INNSA, Maharashtra) to King Abdul Aziz Port (Dammam) (SADMM, Saudi Arabia). Plan on 20FT containers. Move cargo inland by Truck from Nashik (182.6 km). Estimated logistics $68.37 (~INR 5,709)/ton (~$1,914.48 (~INR 159,859)/container), transit ~10.5 days via Direct service.",
+      "action_plan": [
+        "1. Procure Onion near Nashik, Maharashtra (volume follows allocated containers).",
+        "2. Book inland truck haul to Jawaharlal Nehru Port (JNPT) (INNSA).",
+        "3. Reserve allocated 20FT containers and complete export documentation / customs at Indian port.",
+        "4. Book ocean freight INNSA \u2192 SADMM (Direct, ~8.0 sea days).",
+        "5. Clear cargo at King Abdul Aziz Port (Dammam), Saudi Arabia."
+      ],
+      "purchase_guidance": "Buy Onion in India near Nashik, Maharashtra at predicted ~INR 1,942/quintal for 2026-08.",
+      "alternative_route": {
+        "india_port": "Jawaharlal Nehru Port (JNPT)",
+        "destination_port": "Jazan Port",
+        "total_logistics_cost_usd": 1914.48,
+        "total_transit_days": 10.5,
+        "why_second": "Next-best option if preferred port is congested or vessel space is unavailable."
+      },
+      "profit": {
+        "commodity": "Onion",
+        "country": "Saudi Arabia",
+        "buy_cost_usd_per_ton": 232.61,
+        "logistics_cost_usd_per_ton": 68.37,
+        "estimated_margin_rate": 0.1394,
+        "estimated_revenue_usd_per_ton": 333.39,
+        "estimated_total_cost_usd_per_ton": 305.63,
+        "net_profit_usd_per_ton": 27.76,
+        "net_profit_usd_per_container": 777.41,
+        "net_profit_usd_for_allocation": 0.0,
+        "currency": "USD",
+        "note": "Estimated net profit using demand-adjusted export margin proxy (no foreign contract price available)."
+      },
+      "net_profit_usd_per_ton": 27.76,
+      "ok": true,
+      "error": null
+    },
+    {
+      "commodity": "Wheat",
+      "country": "Bangladesh",
+      "demand_score": 0.3506,
+      "predicted_india_price_inr": 2924.31,
+      "india_port": "Hazira Port",
+      "india_unlocode": "INHZA",
+      "destination_port": "Mongla Port",
+      "destination_unlocode": "BDMON",
+      "origin": "Ludhiana, Punjab",
+      "cost_per_ton_usd": 96.18,
+      "cost_per_container_usd": 2692.96,
+      "total_transit_days": 8.3,
+      "service_type": "Direct",
+      "decision_summary": "EXPORT DECISION: Export Wheat from Hazira Port (INHZA, Gujarat) to Mongla Port (BDMON, Bangladesh). Plan on 20FT containers. Move cargo inland by Rail from Ludhiana (1417.9 km). Estimated logistics $96.18 (~INR 8,031)/ton (~$2,692.96 (~INR 224,862)/container), transit ~8.3 days via Direct service.",
+      "action_plan": [
+        "1. Procure Wheat near Ludhiana, Punjab (volume follows allocated containers).",
+        "2. Book inland rail haul to Hazira Port (INHZA).",
+        "3. Reserve allocated 20FT containers and complete export documentation / customs at Indian port.",
+        "4. Book ocean freight INHZA \u2192 BDMON (Direct, ~5.0 sea days).",
+        "5. Clear cargo at Mongla Port, Bangladesh."
+      ],
+      "purchase_guidance": "Buy Wheat in India near Ludhiana, Punjab at predicted ~INR 2,924/quintal for 2026-08.",
+      "alternative_route": {
+        "india_port": "Hazira Port",
+        "destination_port": "Payra Port",
+        "total_logistics_cost_usd": 2692.96,
+        "total_transit_days": 8.3,
+        "why_second": "Next-best option if preferred port is congested or vessel space is unavailable."
+      },
+      "profit": {
+        "commodity": "Wheat",
+        "country": "Bangladesh",
+        "buy_cost_usd_per_ton": 350.22,
+        "logistics_cost_usd_per_ton": 96.18,
+        "estimated_margin_rate": 0.1271,
+        "estimated_revenue_usd_per_ton": 490.92,
+        "estimated_total_cost_usd_per_ton": 454.21,
+        "net_profit_usd_per_ton": 36.71,
+        "net_profit_usd_per_container": 1027.89,
+        "net_profit_usd_for_allocation": 0.0,
+        "currency": "USD",
+        "note": "Estimated net profit using demand-adjusted export margin proxy (no foreign contract price available)."
+      },
+      "net_profit_usd_per_ton": 36.71,
+      "ok": true,
+      "error": null
+    },
+    {
+      "commodity": "Sugar",
+      "country": "Germany",
+      "demand_score": 0.2617,
+      "predicted_india_price_inr": 4470.89,
+      "india_port": "Mormugao Port",
+      "india_unlocode": "INMRM",
+      "destination_port": "Port of Rostock",
+      "destination_unlocode": "DERSK",
+      "origin": "Kolhapur, Maharashtra",
+      "cost_per_ton_usd": 135.65,
+      "cost_per_container_usd": 3798.07,
+      "total_transit_days": 30.5,
+      "service_type": "Transshipment",
+      "decision_summary": "EXPORT DECISION: Export Sugar from Mormugao Port (INMRM, Goa) to Port of Rostock (DERSK, Germany). Plan on 20FT containers. Move cargo inland by Truck from Kolhapur (188.6 km). Estimated logistics $135.65 (~INR 11,327)/ton (~$3,798.07 (~INR 317,139)/container), transit ~30.5 days via Transshipment service.",
+      "action_plan": [
+        "1. Procure Sugar near Kolhapur, Maharashtra (volume follows allocated containers).",
+        "2. Book inland truck haul to Mormugao Port (INMRM).",
+        "3. Reserve allocated 20FT containers and complete export documentation / customs at Indian port.",
+        "4. Book ocean freight INMRM \u2192 DERSK (Transshipment, ~28.0 sea days).",
+        "5. Clear cargo at Port of Rostock, Germany."
+      ],
+      "purchase_guidance": "Buy Sugar in India near Kolhapur, Maharashtra at predicted ~INR 4,471/quintal for 2026-08.",
+      "alternative_route": {
+        "india_port": "Mormugao Port",
+        "destination_port": "Port of Hamburg",
+        "total_logistics_cost_usd": 3798.07,
+        "total_transit_days": 30.5,
+        "why_second": "Next-best option if preferred port is congested or vessel space is unavailable."
+      },
+      "profit": {
+        "commodity": "Sugar",
+        "country": "Germany",
+        "buy_cost_usd_per_ton": 535.44,
+        "logistics_cost_usd_per_ton": 135.65,
+        "estimated_margin_rate": 0.1076,
+        "estimated_revenue_usd_per_ton": 728.68,
+        "estimated_total_cost_usd_per_ton": 684.58,
+        "net_profit_usd_per_ton": 44.11,
+        "net_profit_usd_per_container": 1235.02,
+        "net_profit_usd_for_allocation": 0.0,
+        "currency": "USD",
+        "note": "Estimated net profit using demand-adjusted export margin proxy (no foreign contract price available)."
+      },
+      "net_profit_usd_per_ton": 44.11,
+      "ok": true,
+      "error": null
+    }
+  ],
+  "stage4_container_priority": {
+    "available_containers": 6,
+    "container_type": "20FT",
+    "allocations": [
+      {
+        "commodity": "Onion",
+        "country": "Saudi Arabia",
+        "demand_score": 0.4062,
+        "predicted_india_price_inr": 1942.26,
+        "india_port": "Jawaharlal Nehru Port (JNPT)",
+        "india_unlocode": "INNSA",
+        "destination_port": "King Abdul Aziz Port (Dammam)",
+        "destination_unlocode": "SADMM",
+        "origin": "Nashik, Maharashtra",
+        "cost_per_ton_usd": 68.37,
+        "cost_per_container_usd": 1914.48,
+        "total_transit_days": 10.5,
+        "service_type": "Direct",
+        "decision_summary": "EXPORT DECISION: Export Onion from Jawaharlal Nehru Port (JNPT) (INNSA, Maharashtra) to King Abdul Aziz Port (Dammam) (SADMM, Saudi Arabia). Plan on 20FT containers. Move cargo inland by Truck from Nashik (182.6 km). Estimated logistics $68.37 (~INR 5,709)/ton (~$1,914.48 (~INR 159,859)/container), transit ~10.5 days via Direct service.",
+        "action_plan": [
+          "1. Procure Onion near Nashik, Maharashtra (volume follows allocated containers).",
+          "2. Book inland truck haul to Jawaharlal Nehru Port (JNPT) (INNSA).",
+          "3. Reserve allocated 20FT containers and complete export documentation / customs at Indian port.",
+          "4. Book ocean freight INNSA \u2192 SADMM (Direct, ~8.0 sea days).",
+          "5. Clear cargo at King Abdul Aziz Port (Dammam), Saudi Arabia."
+        ],
+        "purchase_guidance": "Buy Onion in India near Nashik, Maharashtra at predicted ~INR 1,942/quintal for 2026-08.",
+        "alternative_route": {
+          "india_port": "Jawaharlal Nehru Port (JNPT)",
+          "destination_port": "Jazan Port",
+          "total_logistics_cost_usd": 1914.48,
+          "total_transit_days": 10.5,
+          "why_second": "Next-best option if preferred port is congested or vessel space is unavailable."
+        },
+        "profit": {
+          "commodity": "Onion",
+          "country": "Saudi Arabia",
+          "buy_cost_usd_per_ton": 232.61,
+          "logistics_cost_usd_per_ton": 68.37,
+          "estimated_margin_rate": 0.1394,
+          "estimated_revenue_usd_per_ton": 333.39,
+          "estimated_total_cost_usd_per_ton": 305.63,
+          "net_profit_usd_per_ton": 27.76,
+          "net_profit_usd_per_container": 777.41,
+          "net_profit_usd_for_allocation": 0.0,
+          "currency": "USD",
+          "note": "Estimated net profit using demand-adjusted export margin proxy (no foreign contract price available)."
+        },
+        "net_profit_usd_per_ton": 27.76,
+        "ok": true,
+        "error": null,
+        "priority_score": 0.7421,
+        "containers_allocated": 3,
+        "export_first": true,
+        "priority_rank": 1,
+        "container_type": "20FT"
+      },
+      {
+        "commodity": "Wheat",
+        "country": "Bangladesh",
+        "demand_score": 0.3506,
+        "predicted_india_price_inr": 2924.31,
+        "india_port": "Hazira Port",
+        "india_unlocode": "INHZA",
+        "destination_port": "Mongla Port",
+        "destination_unlocode": "BDMON",
+        "origin": "Ludhiana, Punjab",
+        "cost_per_ton_usd": 96.18,
+        "cost_per_container_usd": 2692.96,
+        "total_transit_days": 8.3,
+        "service_type": "Direct",
+        "decision_summary": "EXPORT DECISION: Export Wheat from Hazira Port (INHZA, Gujarat) to Mongla Port (BDMON, Bangladesh). Plan on 20FT containers. Move cargo inland by Rail from Ludhiana (1417.9 km). Estimated logistics $96.18 (~INR 8,031)/ton (~$2,692.96 (~INR 224,862)/container), transit ~8.3 days via Direct service.",
+        "action_plan": [
+          "1. Procure Wheat near Ludhiana, Punjab (volume follows allocated containers).",
+          "2. Book inland rail haul to Hazira Port (INHZA).",
+          "3. Reserve allocated 20FT containers and complete export documentation / customs at Indian port.",
+          "4. Book ocean freight INHZA \u2192 BDMON (Direct, ~5.0 sea days).",
+          "5. Clear cargo at Mongla Port, Bangladesh."
+        ],
+        "purchase_guidance": "Buy Wheat in India near Ludhiana, Punjab at predicted ~INR 2,924/quintal for 2026-08.",
+        "alternative_route": {
+          "india_port": "Hazira Port",
+          "destination_port": "Payra Port",
+          "total_logistics_cost_usd": 2692.96,
+          "total_transit_days": 8.3,
+          "why_second": "Next-best option if preferred port is congested or vessel space is unavailable."
+        },
+        "profit": {
+          "commodity": "Wheat",
+          "country": "Bangladesh",
+          "buy_cost_usd_per_ton": 350.22,
+          "logistics_cost_usd_per_ton": 96.18,
+          "estimated_margin_rate": 0.1271,
+          "estimated_revenue_usd_per_ton": 490.92,
+          "estimated_total_cost_usd_per_ton": 454.21,
+          "net_profit_usd_per_ton": 36.71,
+          "net_profit_usd_per_container": 1027.89,
+          "net_profit_usd_for_allocation": 0.0,
+          "currency": "USD",
+          "note": "Estimated net profit using demand-adjusted export margin proxy (no foreign contract price available)."
+        },
+        "net_profit_usd_per_ton": 36.71,
+        "ok": true,
+        "error": null,
+        "priority_score": 0.6249,
+        "containers_allocated": 2,
+        "export_first": false,
+        "priority_rank": 2,
+        "container_type": "20FT"
+      },
+      {
+        "commodity": "Sugar",
+        "country": "Germany",
+        "demand_score": 0.2617,
+        "predicted_india_price_inr": 4470.89,
+        "india_port": "Mormugao Port",
+        "india_unlocode": "INMRM",
+        "destination_port": "Port of Rostock",
+        "destination_unlocode": "DERSK",
+        "origin": "Kolhapur, Maharashtra",
+        "cost_per_ton_usd": 135.65,
+        "cost_per_container_usd": 3798.07,
+        "total_transit_days": 30.5,
+        "service_type": "Transshipment",
+        "decision_summary": "EXPORT DECISION: Export Sugar from Mormugao Port (INMRM, Goa) to Port of Rostock (DERSK, Germany). Plan on 20FT containers. Move cargo inland by Truck from Kolhapur (188.6 km). Estimated logistics $135.65 (~INR 11,327)/ton (~$3,798.07 (~INR 317,139)/container), transit ~30.5 days via Transshipment service.",
+        "action_plan": [
+          "1. Procure Sugar near Kolhapur, Maharashtra (volume follows allocated containers).",
+          "2. Book inland truck haul to Mormugao Port (INMRM).",
+          "3. Reserve allocated 20FT containers and complete export documentation / customs at Indian port.",
+          "4. Book ocean freight INMRM \u2192 DERSK (Transshipment, ~28.0 sea days).",
+          "5. Clear cargo at Port of Rostock, Germany."
+        ],
+        "purchase_guidance": "Buy Sugar in India near Kolhapur, Maharashtra at predicted ~INR 4,471/quintal for 2026-08.",
+        "alternative_route": {
+          "india_port": "Mormugao Port",
+          "destination_port": "Port of Hamburg",
+          "total_logistics_cost_usd": 3798.07,
+          "total_transit_days": 30.5,
+          "why_second": "Next-best option if preferred port is congested or vessel space is unavailable."
+        },
+        "profit": {
+          "commodity": "Sugar",
+          "country": "Germany",
+          "buy_cost_usd_per_ton": 535.44,
+          "logistics_cost_usd_per_ton": 135.65,
+          "estimated_margin_rate": 0.1076,
+          "estimated_revenue_usd_per_ton": 728.68,
+          "estimated_total_cost_usd_per_ton": 684.58,
+          "net_profit_usd_per_ton": 44.11,
+          "net_profit_usd_per_container": 1235.02,
+          "net_profit_usd_for_allocation": 0.0,
+          "currency": "USD",
+          "note": "Estimated net profit using demand-adjusted export margin proxy (no foreign contract price available)."
+        },
+        "net_profit_usd_per_ton": 44.11,
+        "ok": true,
+        "error": null,
+        "priority_score": 0.25,
+        "containers_allocated": 1,
+        "export_first": false,
+        "priority_rank": 3,
+        "container_type": "20FT"
+      }
+    ],
+    "export_first": {
+      "commodity": "Onion",
+      "country": "Saudi Arabia",
+      "containers": 3,
+      "priority_score": 0.7421,
+      "india_port": "Jawaharlal Nehru Port (JNPT)",
+      "destination_port": "King Abdul Aziz Port (Dammam)",
+      "net_profit_usd_per_ton": 27.76
+    },
+    "summary": "With only 6 x 20FT containers available, PRIORITIZE Onion to Saudi Arabia first (3 containers). Highest priority score=0.7421 (demand + buy price + logistics + net profit).",
+    "unallocated_containers": 0
+  },
+  "final_decisions": {
+    "summary": "With only 6 x 20FT containers available, PRIORITIZE Onion to Saudi Arabia first (3 containers). Highest priority score=0.7421 (demand + buy price + logistics + net profit).",
+    "export_first": {
+      "commodity": "Onion",
+      "country": "Saudi Arabia",
+      "containers": 3,
+      "priority_score": 0.7421,
+      "india_port": "Jawaharlal Nehru Port (JNPT)",
+      "destination_port": "King Abdul Aziz Port (Dammam)",
+      "net_profit_usd_per_ton": 27.76
+    },
+    "lanes": [
+      {
+        "commodity": "Onion",
+        "country": "Saudi Arabia",
+        "demand_score": 0.4062,
+        "predicted_india_price_inr": 1942.26,
+        "india_port": "Jawaharlal Nehru Port (JNPT)",
+        "india_unlocode": "INNSA",
+        "destination_port": "King Abdul Aziz Port (Dammam)",
+        "destination_unlocode": "SADMM",
+        "origin": "Nashik, Maharashtra",
+        "cost_per_ton_usd": 68.37,
+        "cost_per_container_usd": 1914.48,
+        "total_transit_days": 10.5,
+        "service_type": "Direct",
+        "decision_summary": "EXPORT DECISION: Export Onion from Jawaharlal Nehru Port (JNPT) (INNSA, Maharashtra) to King Abdul Aziz Port (Dammam) (SADMM, Saudi Arabia). Plan on 20FT containers. Move cargo inland by Truck from Nashik (182.6 km). Estimated logistics $68.37 (~INR 5,709)/ton (~$1,914.48 (~INR 159,859)/container), transit ~10.5 days via Direct service.",
+        "action_plan": [
+          "1. Procure Onion near Nashik, Maharashtra (volume follows allocated containers).",
+          "2. Book inland truck haul to Jawaharlal Nehru Port (JNPT) (INNSA).",
+          "3. Reserve allocated 20FT containers and complete export documentation / customs at Indian port.",
+          "4. Book ocean freight INNSA \u2192 SADMM (Direct, ~8.0 sea days).",
+          "5. Clear cargo at King Abdul Aziz Port (Dammam), Saudi Arabia."
+        ],
+        "purchase_guidance": "Buy Onion in India near Nashik, Maharashtra at predicted ~INR 1,942/quintal for 2026-08.",
+        "alternative_route": {
+          "india_port": "Jawaharlal Nehru Port (JNPT)",
+          "destination_port": "Jazan Port",
+          "total_logistics_cost_usd": 1914.48,
+          "total_transit_days": 10.5,
+          "why_second": "Next-best option if preferred port is congested or vessel space is unavailable."
+        },
+        "profit": {
+          "commodity": "Onion",
+          "country": "Saudi Arabia",
+          "buy_cost_usd_per_ton": 232.61,
+          "logistics_cost_usd_per_ton": 68.37,
+          "estimated_margin_rate": 0.1394,
+          "estimated_revenue_usd_per_ton": 333.39,
+          "estimated_total_cost_usd_per_ton": 305.63,
+          "net_profit_usd_per_ton": 27.76,
+          "net_profit_usd_per_container": 777.41,
+          "net_profit_usd_for_allocation": 2332.24,
+          "currency": "USD",
+          "note": "Estimated net profit using demand-adjusted export margin proxy (no foreign contract price available)."
+        },
+        "net_profit_usd_per_ton": 27.76,
+        "ok": true,
+        "error": null,
+        "priority_rank": 1,
+        "priority_score": 0.7421,
+        "containers_allocated": 3,
+        "export_first": true,
+        "net_profit_usd_for_allocation": 2332.24
+      },
+      {
+        "commodity": "Wheat",
+        "country": "Bangladesh",
+        "demand_score": 0.3506,
+        "predicted_india_price_inr": 2924.31,
+        "india_port": "Hazira Port",
+        "india_unlocode": "INHZA",
+        "destination_port": "Mongla Port",
+        "destination_unlocode": "BDMON",
+        "origin": "Ludhiana, Punjab",
+        "cost_per_ton_usd": 96.18,
+        "cost_per_container_usd": 2692.96,
+        "total_transit_days": 8.3,
+        "service_type": "Direct",
+        "decision_summary": "EXPORT DECISION: Export Wheat from Hazira Port (INHZA, Gujarat) to Mongla Port (BDMON, Bangladesh). Plan on 20FT containers. Move cargo inland by Rail from Ludhiana (1417.9 km). Estimated logistics $96.18 (~INR 8,031)/ton (~$2,692.96 (~INR 224,862)/container), transit ~8.3 days via Direct service.",
+        "action_plan": [
+          "1. Procure Wheat near Ludhiana, Punjab (volume follows allocated containers).",
+          "2. Book inland rail haul to Hazira Port (INHZA).",
+          "3. Reserve allocated 20FT containers and complete export documentation / customs at Indian port.",
+          "4. Book ocean freight INHZA \u2192 BDMON (Direct, ~5.0 sea days).",
+          "5. Clear cargo at Mongla Port, Bangladesh."
+        ],
+        "purchase_guidance": "Buy Wheat in India near Ludhiana, Punjab at predicted ~INR 2,924/quintal for 2026-08.",
+        "alternative_route": {
+          "india_port": "Hazira Port",
+          "destination_port": "Payra Port",
+          "total_logistics_cost_usd": 2692.96,
+          "total_transit_days": 8.3,
+          "why_second": "Next-best option if preferred port is congested or vessel space is unavailable."
+        },
+        "profit": {
+          "commodity": "Wheat",
+          "country": "Bangladesh",
+          "buy_cost_usd_per_ton": 350.22,
+          "logistics_cost_usd_per_ton": 96.18,
+          "estimated_margin_rate": 0.1271,
+          "estimated_revenue_usd_per_ton": 490.92,
+          "estimated_total_cost_usd_per_ton": 454.21,
+          "net_profit_usd_per_ton": 36.71,
+          "net_profit_usd_per_container": 1027.89,
+          "net_profit_usd_for_allocation": 2055.78,
+          "currency": "USD",
+          "note": "Estimated net profit using demand-adjusted export margin proxy (no foreign contract price available)."
+        },
+        "net_profit_usd_per_ton": 36.71,
+        "ok": true,
+        "error": null,
+        "priority_rank": 2,
+        "priority_score": 0.6249,
+        "containers_allocated": 2,
+        "export_first": false,
+        "net_profit_usd_for_allocation": 2055.78
+      },
+      {
+        "commodity": "Sugar",
+        "country": "Germany",
+        "demand_score": 0.2617,
+        "predicted_india_price_inr": 4470.89,
+        "india_port": "Mormugao Port",
+        "india_unlocode": "INMRM",
+        "destination_port": "Port of Rostock",
+        "destination_unlocode": "DERSK",
+        "origin": "Kolhapur, Maharashtra",
+        "cost_per_ton_usd": 135.65,
+        "cost_per_container_usd": 3798.07,
+        "total_transit_days": 30.5,
+        "service_type": "Transshipment",
+        "decision_summary": "EXPORT DECISION: Export Sugar from Mormugao Port (INMRM, Goa) to Port of Rostock (DERSK, Germany). Plan on 20FT containers. Move cargo inland by Truck from Kolhapur (188.6 km). Estimated logistics $135.65 (~INR 11,327)/ton (~$3,798.07 (~INR 317,139)/container), transit ~30.5 days via Transshipment service.",
+        "action_plan": [
+          "1. Procure Sugar near Kolhapur, Maharashtra (volume follows allocated containers).",
+          "2. Book inland truck haul to Mormugao Port (INMRM).",
+          "3. Reserve allocated 20FT containers and complete export documentation / customs at Indian port.",
+          "4. Book ocean freight INMRM \u2192 DERSK (Transshipment, ~28.0 sea days).",
+          "5. Clear cargo at Port of Rostock, Germany."
+        ],
+        "purchase_guidance": "Buy Sugar in India near Kolhapur, Maharashtra at predicted ~INR 4,471/quintal for 2026-08.",
+        "alternative_route": {
+          "india_port": "Mormugao Port",
+          "destination_port": "Port of Hamburg",
+          "total_logistics_cost_usd": 3798.07,
+          "total_transit_days": 30.5,
+          "why_second": "Next-best option if preferred port is congested or vessel space is unavailable."
+        },
+        "profit": {
+          "commodity": "Sugar",
+          "country": "Germany",
+          "buy_cost_usd_per_ton": 535.44,
+          "logistics_cost_usd_per_ton": 135.65,
+          "estimated_margin_rate": 0.1076,
+          "estimated_revenue_usd_per_ton": 728.68,
+          "estimated_total_cost_usd_per_ton": 684.58,
+          "net_profit_usd_per_ton": 44.11,
+          "net_profit_usd_per_container": 1235.02,
+          "net_profit_usd_for_allocation": 1235.02,
+          "currency": "USD",
+          "note": "Estimated net profit using demand-adjusted export margin proxy (no foreign contract price available)."
+        },
+        "net_profit_usd_per_ton": 44.11,
+        "ok": true,
+        "error": null,
+        "priority_rank": 3,
+        "priority_score": 0.25,
+        "containers_allocated": 1,
+        "export_first": false,
+        "net_profit_usd_for_allocation": 1235.02
+      }
+    ],
+    "price_cards": [
+      {
+        "commodity": "Onion",
+        "current_price_inr": 1931.91,
+        "predicted_next_month_price_inr": 1942.26,
+        "predicted_return": 0.0054,
+        "predicted_change_pct": 0.54,
+        "model_version": "price_v2_return_xgb",
+        "model_metrics": {
+          "cv_price_mape_pct": 6.918452737211631,
+          "cv_return_mae": 0.06258888182526486,
+          "overfit_gap_mape": -0.1502613234353971
+        }
+      },
+      {
+        "commodity": "Sugar",
+        "current_price_inr": 4445.0,
+        "predicted_next_month_price_inr": 4470.89,
+        "predicted_return": 0.0058,
+        "predicted_change_pct": 0.58,
+        "model_version": "price_v2_return_xgb",
+        "model_metrics": {
+          "cv_price_mape_pct": 6.918452737211631,
+          "cv_return_mae": 0.06258888182526486,
+          "overfit_gap_mape": -0.1502613234353971
+        }
+      },
+      {
+        "commodity": "Wheat",
+        "current_price_inr": 2907.38,
+        "predicted_next_month_price_inr": 2924.31,
+        "predicted_return": 0.0058,
+        "predicted_change_pct": 0.58,
+        "model_version": "price_v2_return_xgb",
+        "model_metrics": {
+          "cv_price_mape_pct": 6.918452737211631,
+          "cv_return_mae": 0.06258888182526486,
+          "overfit_gap_mape": -0.1502613234353971
+        }
+      }
+    ]
+  },
+  "agent_explanations": {
+    "demand_agent": "The top demand for export is onions in Saudi Arabia with a score of 0.4062, followed by wheat in Bangladesh with a score of 0.3506, and sugar in Germany with a score of 0.2617. These countries have a high need for these products. The demand score helps us decide which products to export first. It is based on how much of the product the country needs.",
+    "price_agent": "The current price of onions in India is INR 1931.91 and is expected to increase by 0.54% next month. The price of sugar is INR 4445.0 and will increase by 0.58% next month. The price of wheat is INR 2907.38 and will also increase by 0.58% next month. These prices help us calculate the profit we can make from exporting these products.",
+    "logistics_agent": "The best route to export onions to Saudi Arabia is through the Jawaharlal Nehru Port to the King Abdul Aziz Port, which takes 10.5 days and costs $68.37 per ton. The route for wheat to Bangladesh is through the Hazira Port to the Mongla Port, taking 8.3 days and costing $96.18 per ton. The route for sugar to Germany is through the Mormugao Port to the Port of Rostock, taking 30.5 days and costing $135.65 per ton. These routes and costs help us plan the export process.",
+    "container_agent": "We have 6 x 20FT containers available for export. The top priority is to use 3 containers to export onions to Saudi Arabia, as it has the highest priority score of 0.7421. This score is based on demand, buy price, logistics, and net profit. We should use the available containers to maximize our profit and meet the demand of the importing countries.",
+    "supervisor_agent": "Based on the analysis, we should first export onions to Saudi Arabia using 3 containers through the Jawaharlal Nehru Port. This will give us a net profit of $27.76 per ton and help meet the high demand for onions in Saudi Arabia. The supervisor agent ensures that the export process is planned and executed efficiently to maximize profits and meet the needs of the importing countries. This plan will help the Indian exporter make the most of the available resources and market demand."
+  },
+  "llm": {
+    "enabled": true,
+    "model": "llama-3.3-70b-versatile",
+    "source": "groq"
+  }
+}

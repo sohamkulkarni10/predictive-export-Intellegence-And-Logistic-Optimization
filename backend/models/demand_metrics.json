@@ -1,0 +1,35 @@
+{
+  "commodity_accuracy_cv": 0.6254767353165522,
+  "commodity_f1_macro_cv": 0.6303915006500065,
+  "country_accuracy_cv": 0.5484363081617086,
+  "country_f1_macro_cv": 0.5661204707221996,
+  "demand_mae_cv": 0.2111147716528155,
+  "demand_r2_cv": 0.3859362142096918,
+  "n_rows": 1311,
+  "commodities": [
+    "Coffee",
+    "Cotton",
+    "Maize",
+    "Onion",
+    "Soybean",
+    "Sugar",
+    "Turmeric",
+    "Wheat"
+  ],
+  "countries": [
+    "Bangladesh",
+    "China",
+    "Germany",
+    "Indonesia",
+    "Japan",
+    "Malaysia",
+    "Nepal",
+    "Netherlands",
+    "Saudi Arabia",
+    "Singapore",
+    "Sri Lanka",
+    "Vietnam"
+  ],
+  "commodity_train_accuracy": 0.8642257818459191,
+  "commodity_overfit_gap": 0.2387490465293669
+}

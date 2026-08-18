@@ -1,0 +1,886 @@
+commodity,country,date,source,title_english,sentiment,sentiment_score,shortage_flag,production_drop,production_rise,price_increase,price_decrease,export_opportunity_score,confidence
+Cotton,Vietnam,20260605T164500Z,livemint.com,Trade deal may ease Cotton tariffs for shipments into Vietnam | Market Watch,Positive,0.8,0,0,0,0,0,80,0.8
+Onion,Vietnam,20260529T104500Z,baomoi.com,Quality concerns slow Onion imports into Vietnam markets,Negative,-0.5,0,0,0,0,0,20,0.5
+Cotton,Sri Lanka,20260618T140000Z,ft.lk,Rainfall deficit raises concerns for Cotton planting in Sri Lanka: officials urge caution,Negative,-0.5,0,1,0,0,0,20,0.6
+Soybean,Netherlands,20260614T030000Z,thehindubusinessline.com,Quality concerns slow Soybean imports into Netherlands markets - Agriculture Report,Negative,-0.5,0,0,0,0,0,20,0.6
+Sugar,Germany,20260405T050000Z,livemint.com,Analysts say Sugar trade flows to Germany remain stable this month - seasonal update,Neutral,0.0,0,0,0,0,0,20,0.5
+Wheat,Vietnam,20260531T011500Z,thehindubusinessline.com,Exporters eye Vietnam as a growing Wheat destination in Asia,Positive,0.8,0,0,0,0,0,80,0.9
+Cotton,Sri Lanka,20260408T174500Z,economynext.com,Latest: Sri Lanka warns of possible Cotton rationing amid supply crunch,Negative,-1.0,1,0,0,1,0,80,0.8
+Maize,Germany,20260505T114500Z,dw.com,Latest: Germany processors increase Maize crushing and refining capacity,Positive,0.8,0,0,0,0,0,60,0.8
+Soybean,Sri Lanka,20260424T181500Z,island.lk,"Drought cuts Soybean harvest in Sri Lanka; farmers report steep losses, traders say",Negative,-0.5,0,1,0,1,0,20,0.6
+Wheat,Netherlands,20260615T080000Z,dutchnews.nl,Private traders boost Wheat bookings destined for Netherlands | Market Watch,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Vietnam,20260526T013000Z,livemint.com,Government of Vietnam announces subsidy support for Coffee farmers: officials urge caution,Neutral,0.0,0,0,0,0,0,20,0.5
+Coffee,Bangladesh,20260424T223000Z,livemint.com,Latest: Logistics costs for Coffee shipments to Bangladesh rise on higher freight rates,Negative,-0.5,0,0,0,0,0,20,0.6
+Cotton,Netherlands,20260422T070000Z,foodnavigator.com,Netherlands consumers shift to cheaper substitutes as Cotton stays expensive: officials urge caution,Negative,-0.5,0,0,0,1,0,20,0.5
+Wheat,Vietnam,20260511T233000Z,hellenicshippingnews.com,Import demand for Wheat surges in Vietnam after domestic shortfall - seasonal update,Positive,0.8,1,1,0,0,0,80,0.8
+Sugar,Germany,20260402T024500Z,finance.yahoo.com,"Germany processors increase Sugar crushing and refining capacity, traders say",Positive,0.8,0,0,0,0,0,60,0.8
+Soybean,Bangladesh,20260411T194500Z,bssnews.net,Rainfall deficit raises concerns for Soybean planting in Bangladesh - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.6
+Wheat,Singapore,20260411T074500Z,finance.yahoo.com,"Singapore opens new tender for Wheat purchases from global suppliers, traders say",Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Bangladesh,20260615T141500Z,bloomberg.com,Bangladesh retailers raise Coffee prices amid rising import costs | Market Watch,Negative,-1.0,0,0,0,1,0,20,0.5
+Onion,Bangladesh,20260620T174500Z,indianexpress.com,Currency weakness makes Onion imports costlier for Bangladesh buyers,Negative,-0.5,0,0,0,1,0,20,0.7
+Coffee,Vietnam,20260613T201500Z,bloomberg.com,Policy uncertainty hangs over Coffee contracts linked to Vietnam,Neutral,0.0,0,0,0,0,0,20,0.4
+Soybean,Vietnam,20260529T211500Z,economictimes.indiatimes.com,"Shipping delays leave Vietnam Soybean importers scrambling for cargo, traders say",Negative,-0.5,1,0,0,0,0,80,0.8
+Turmeric,China,20260603T021500Z,thehindubusinessline.com,Latest: China retailers raise Turmeric prices amid rising import costs,Negative,-1.0,0,0,0,1,0,20,0.5
+Wheat,Japan,20260528T024500Z,bloomberg.com,Pest outbreak threatens Wheat output in Japan this season | Market Watch,Negative,-0.5,0,1,0,0,0,20,0.5
+Coffee,Netherlands,20260627T214500Z,dutchnews.nl,Latest: Drought cuts Coffee harvest in Netherlands; farmers report steep losses,Negative,-0.5,0,1,0,1,0,20,0.6
+Maize,Vietnam,20260413T201500Z,livemint.com,Vietnam plans to increase Maize imports to stabilize domestic supply - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Onion,Japan,20260419T113000Z,nikkei.com,Shipping delays leave Japan Onion importers scrambling for cargo | Market Watch,Negative,-0.5,1,0,0,0,0,80,0.8
+Sugar,Singapore,20260605T090000Z,finance.yahoo.com,Quality concerns slow Sugar imports into Singapore markets: officials urge caution,Negative,-0.5,0,0,0,0,0,20,0.6
+Turmeric,Vietnam,20260425T031500Z,vnexpress.net,Latest: Logistics costs for Turmeric shipments to Vietnam rise on higher freight rates,Negative,-0.5,0,0,0,0,0,20,0.6
+Coffee,Singapore,20260629T151500Z,straitstimes.com,Quality concerns slow Coffee imports into Singapore markets | Market Watch,Negative,-0.5,0,0,0,0,0,20,0.6
+Wheat,Nepal,20260629T223000Z,thehimalayantimes.com,Private traders boost Wheat bookings destined for Nepal,Positive,0.8,0,0,0,0,0,80,0.8
+Sugar,Singapore,20260401T050000Z,economictimes.indiatimes.com,Sugar prices ease in Singapore after fresh arrivals hit markets - seasonal update,Positive,0.5,0,0,0,0,1,60,0.5
+Coffee,Saudi Arabia,20260616T011500Z,bloomberg.com,Saudi Arabia processors increase Coffee crushing and refining capacity - Agriculture Report,Positive,0.8,0,0,0,0,0,60,0.8
+Cotton,Singapore,20260612T144500Z,thehindubusinessline.com,Singapore retailers raise Cotton prices amid rising import costs - Agriculture Report,Negative,-1.0,0,0,0,1,0,10,0.5
+Sugar,Japan,20260622T154500Z,asahi.com,Bilateral talks focus on expanding Sugar trade with Japan - seasonal update,Positive,0.8,0,0,0,0,0,70,0.9
+Sugar,Vietnam,20260404T203000Z,hellenicshippingnews.com,Vietnam plans to increase Sugar imports to stabilize domestic supply: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.8
+Sugar,Bangladesh,20260605T003000Z,livemint.com,"Policy uncertainty hangs over Sugar contracts linked to Bangladesh, traders say",Neutral,0.0,0,0,0,0,0,20,0.3
+Coffee,Netherlands,20260630T044500Z,indianexpress.com,Latest: Netherlands reports record Coffee harvest; output rises for second year,Positive,0.8,0,0,1,0,0,20,0.9
+Onion,Vietnam,20260413T203000Z,thehindubusinessline.com,Policy uncertainty hangs over Onion contracts linked to Vietnam,Neutral,0.0,0,0,0,0,0,20,0.2
+Onion,Nepal,20260416T073000Z,bloomberg.com,Nepal ports report normal Onion handling volumes despite weather delays - Agriculture Report,Neutral,0.0,0,0,0,0,0,0,0.0
+Maize,Sri Lanka,20260630T110000Z,finance.yahoo.com,Early forecasts point to weaker Maize sowing in Sri Lanka,Negative,-0.5,0,1,0,0,0,20,0.6
+Sugar,Nepal,20260416T020000Z,thehindubusinessline.com,Nepal opens new tender for Sugar purchases from global suppliers,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Netherlands,20260606T174500Z,finance.yahoo.com,Netherlands agriculture ministry reviews Coffee market outlook for next quarter | Market Watch,Neutral,0.0,0,0,0,0,0,0,0.0
+Maize,Japan,20260405T063000Z,japantimes.co.jp,Japan opens new tender for Maize purchases from global suppliers - seasonal update,Positive,0.8,0,0,0,0,0,80,1.0
+Coffee,Vietnam,20260512T123000Z,bloomberg.com,Vietnam opens new tender for Coffee purchases from global suppliers | Market Watch,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Vietnam,20260527T131500Z,bloomberg.com,"New high-yield Sugar varieties boost production in Vietnam, traders say",Positive,0.8,0,0,1,0,0,0,1.0
+Sugar,Vietnam,20260623T133000Z,baomoi.com,Vietnam imposes temporary restriction on Sugar exports - Agriculture Report,Negative,-0.5,0,0,0,1,0,20,0.6
+Onion,Netherlands,20260612T181500Z,foodnavigator.com,Latest: Netherlands plans to increase Onion imports to stabilize domestic supply,Positive,0.8,0,0,0,0,0,80,1.0
+Onion,Netherlands,20260403T094500Z,foodnavigator.com,Favorable monsoon lifts Onion acreage and yields in Netherlands - seasonal update,Positive,0.8,0,0,1,0,1,20,0.8
+Soybean,Germany,20260425T021500Z,reuters.com,Germany stockpiles strategic Soybean reserves ahead of festival demand - seasonal update,Positive,0.5,0,0,0,0,0,50,0.8
+Sugar,Sri Lanka,20260619T064500Z,reuters.com,Exporters eye Sri Lanka as a growing Sugar destination in Asia - seasonal update,Positive,0.8,0,0,0,0,0,80,1.0
+Coffee,Saudi Arabia,20260509T161500Z,thehindubusinessline.com,Falling Coffee prices pressure farmers in Saudi Arabia | Market Watch,Negative,-0.5,0,0,0,0,1,0,0.5
+Coffee,Vietnam,20260621T214500Z,bloomberg.com,Trade deal may ease Coffee tariffs for shipments into Vietnam - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.8
+Coffee,Vietnam,20260616T083000Z,thehindubusinessline.com,Vietnam opens new tender for Coffee purchases from global suppliers (June 2026 briefing),Positive,0.8,0,0,0,0,0,80,1.0
+Wheat,Malaysia,20260405T071500Z,livemint.com,Pest outbreak threatens Wheat output in Malaysia this season: officials urge caution,Negative,-0.5,0,1,0,0,0,20,0.5
+Wheat,Japan,20260605T023000Z,mainichi.jp,Latest: Rainfall deficit raises concerns for Wheat planting in Japan,Negative,-0.5,0,1,0,0,0,20,0.6
+Wheat,Vietnam,20260501T111500Z,finance.yahoo.com,"Vietnam agriculture ministry reviews Wheat market outlook for next quarter, traders say",Neutral,0.0,0,0,0,0,0,0,0.0
+Maize,Sri Lanka,20260510T013000Z,livemint.com,"Sri Lanka imposes temporary restriction on Maize exports, traders say",Negative,-0.5,0,0,0,1,0,20,0.6
+Coffee,Vietnam,20260627T153000Z,tuoitre.vn,Latest: Vietnam stockpiles strategic Coffee reserves ahead of festival demand,Positive,0.5,0,0,0,0,0,50,0.8
+Cotton,Germany,20260616T064500Z,hellenicshippingnews.com,Private traders boost Cotton bookings destined for Germany - seasonal update,Positive,0.8,0,0,0,0,0,80,1.0
+Cotton,Germany,20260617T013000Z,indianexpress.com,Strong retail demand for Cotton products continues in Germany: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Soybean,Bangladesh,20260410T013000Z,indianexpress.com,"Bangladesh cuts import duty on Soybean to cool retail inflation, traders say",Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Germany,20260530T081500Z,indianexpress.com,Germany retailers raise Coffee prices amid rising import costs | Market Watch,Negative,-1.0,0,0,0,1,0,20,0.4
+Sugar,Singapore,20260509T191500Z,businesstimes.com.sg,Policy uncertainty hangs over Sugar contracts linked to Singapore | Market Watch,Neutral,0.0,0,0,0,0,0,20,0.3
+Sugar,Sri Lanka,20260607T133000Z,bloomberg.com,Floods disrupt Sugar production and logistics in Sri Lanka - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.6
+Wheat,Japan,20260522T133000Z,bloomberg.com,Pest outbreak threatens Wheat output in Japan this season: officials urge caution,Negative,-0.5,0,1,0,0,0,20,0.5
+Cotton,Indonesia,20260512T101500Z,bloomberg.com,"Strong retail demand for Cotton products continues in Indonesia, traders say",Positive,0.8,0,0,0,0,0,80,0.9
+Wheat,Netherlands,20260601T214500Z,reuters.com,Shipping delays leave Netherlands Wheat importers scrambling for cargo: officials urge caution,Negative,-0.5,1,0,0,0,0,80,0.8
+Soybean,Japan,20260423T181500Z,hea.china.com,Japan plans to increase Soybean imports to stabilize domestic supply - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Nepal,20260415T200000Z,indianexpress.com,Heatwave damages Coffee crop yields across key regions of Nepal | Market Watch,Negative,-0.5,1,1,0,0,0,20,0.6
+Coffee,Singapore,20260516T053000Z,economictimes.indiatimes.com,"Singapore agriculture ministry reviews Coffee market outlook for next quarter, traders say",Neutral,0.0,0,0,0,0,0,0,0.0
+Sugar,Saudi Arabia,20260623T041500Z,indianexpress.com,Exporters eye Saudi Arabia as a growing Sugar destination in Asia - seasonal update,Positive,0.8,0,0,0,0,0,80,0.9
+Cotton,Singapore,20260621T031500Z,economictimes.indiatimes.com,Analysts say Cotton trade flows to Singapore remain stable this month - Agriculture Report,Neutral,0.0,0,0,0,0,0,20,0.5
+Cotton,Sri Lanka,20260513T073000Z,reuters.com,Falling Cotton prices pressure farmers in Sri Lanka: officials urge caution,Negative,-0.5,0,0,0,0,1,0,0.6
+Sugar,Germany,20260413T091500Z,hellenicshippingnews.com,Latest: Logistics costs for Sugar shipments to Germany rise on higher freight rates,Negative,-0.5,0,0,0,0,0,20,0.6
+Cotton,China,20260414T040000Z,reuters.com,"China consumers shift to cheaper substitutes as Cotton stays expensive, traders say",Negative,-0.5,0,0,0,1,0,30,0.5
+Sugar,Netherlands,20260625T093000Z,economictimes.indiatimes.com,Government of Netherlands announces subsidy support for Sugar farmers | Market Watch,Neutral,0.0,0,0,0,0,0,20,0.5
+Coffee,Indonesia,20260612T171500Z,bloomberg.com,Indonesia stockpiles strategic Coffee reserves ahead of festival demand - Agriculture Report,Positive,0.5,0,0,0,0,0,50,0.8
+Sugar,Indonesia,20260613T051500Z,jakartapost.com,Latest: Falling Sugar prices pressure farmers in Indonesia,Negative,-0.5,0,0,0,0,1,0,0.5
+Turmeric,Netherlands,20260604T234500Z,nos.nl,"Food security alert: Turmeric supplies tighten across Netherlands, traders say",Negative,-0.5,1,0,0,0,0,80,0.9
+Cotton,Netherlands,20260612T144500Z,livemint.com,Netherlands opens new tender for Cotton purchases from global suppliers - seasonal update,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Saudi Arabia,20260526T213000Z,finance.yahoo.com,Saudi Arabia imposes temporary restriction on Sugar exports,Negative,-0.5,0,0,0,1,0,20,0.6
+Onion,Germany,20260424T134500Z,farmer.pl,Germany retailers raise Onion prices amid rising import costs,Negative,-1.0,0,0,0,1,0,20,0.5
+Soybean,Germany,20260504T170000Z,bloomberg.com,Pest outbreak threatens Soybean output in Germany this season - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.5
+Wheat,Germany,20260619T200000Z,reuters.com,Latest: Bilateral talks focus on expanding Wheat trade with Germany,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Indonesia,20260521T154500Z,finance.yahoo.com,Latest: Indonesia processors increase Sugar crushing and refining capacity,Positive,0.8,0,0,0,0,0,60,0.8
+Coffee,Saudi Arabia,20260610T231500Z,hellenicshippingnews.com,Rainfall deficit raises concerns for Coffee planting in Saudi Arabia - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.6
+Coffee,Nepal,20260516T024500Z,finance.yahoo.com,Heatwave damages Coffee crop yields across key regions of Nepal - Agriculture Report,Negative,-0.5,1,1,0,0,0,20,0.6
+Cotton,Germany,20260421T141500Z,thehindubusinessline.com,Food security alert: Cotton supplies tighten across Germany: officials urge caution,Negative,-0.5,1,0,0,0,0,80,0.9
+Maize,Germany,20260518T101500Z,bloomberg.com,"Trade deal may ease Maize tariffs for shipments into Germany, traders say",Positive,0.8,0,0,0,0,0,90,0.7
+Soybean,Sri Lanka,20260510T061500Z,livemint.com,Currency weakness makes Soybean imports costlier for Sri Lanka buyers: officials urge caution,Negative,-0.5,0,0,0,1,0,10,0.6
+Coffee,Bangladesh,20260524T173000Z,bloomberg.com,Bangladesh ports report normal Coffee handling volumes despite weather delays: officials urge caution,Neutral,0.0,0,0,0,0,0,0,0.0
+Coffee,Malaysia,20260430T181500Z,kwongwah.com.my,Private traders boost Coffee bookings destined for Malaysia - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Sri Lanka,20260607T000000Z,island.lk,Government of Sri Lanka announces subsidy support for Coffee farmers,Neutral,0.0,0,0,0,0,0,20,0.5
+Coffee,Sri Lanka,20260528T223000Z,newsfirst.lk,Latest: Trade deal may ease Coffee tariffs for shipments into Sri Lanka,Positive,0.8,0,0,0,0,0,80,0.8
+Turmeric,Saudi Arabia,20260608T174500Z,bloomberg.com,Saudi Arabia cuts import duty on Turmeric to cool retail inflation | Market Watch,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Vietnam,20260601T221500Z,indianexpress.com,"Import demand for Sugar surges in Vietnam after domestic shortfall, traders say",Positive,0.8,1,1,0,0,0,80,0.9
+Wheat,Nepal,20260418T213000Z,ekantipur.com,Policy uncertainty hangs over Wheat contracts linked to Nepal - Agriculture Report,Neutral,0.0,0,0,0,0,0,20,0.3
+Coffee,Nepal,20260415T173000Z,myrepublica.nagariknetwork.com,Pest outbreak threatens Coffee output in Nepal this season - seasonal update,Negative,-0.5,0,1,0,0,0,10,0.6
+Maize,Indonesia,20260616T183000Z,hellenicshippingnews.com,Heatwave damages Maize crop yields across key regions of Indonesia | Market Watch,Negative,-0.5,1,1,0,0,0,20,0.7
+Coffee,Japan,20260512T150000Z,hea.china.com,Strong retail demand for Coffee products continues in Japan: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Cotton,Vietnam,20260604T024500Z,vietnamnews.vn,Floods disrupt Cotton production and logistics in Vietnam - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.6
+Sugar,Netherlands,20260516T144500Z,reuters.com,Drought cuts Sugar harvest in Netherlands; farmers report steep losses | Market Watch,Negative,-0.5,0,1,0,1,0,20,0.7
+Sugar,Germany,20260629T164500Z,reuters.com,Latest: Germany cuts import duty on Sugar to cool retail inflation,Positive,0.8,0,0,0,0,0,70,0.9
+Maize,Bangladesh,20260628T044500Z,bssnews.net,Bangladesh retailers raise Maize prices amid rising import costs: officials urge caution,Negative,-1.0,0,0,0,1,0,20,0.4
+Maize,Vietnam,20260526T061500Z,saigontimes.vn,Favorable monsoon lifts Maize acreage and yields in Vietnam - seasonal update,Positive,0.8,0,0,1,0,1,20,0.8
+Wheat,Singapore,20260523T100000Z,reuters.com,Latest: Singapore imposes temporary restriction on Wheat exports,Negative,-0.5,0,0,0,1,0,20,0.6
+Wheat,Bangladesh,20260409T204500Z,jugantor.com,Latest: Quality concerns slow Wheat imports into Bangladesh markets,Negative,-0.5,0,0,0,0,0,20,0.6
+Turmeric,Saudi Arabia,20260605T063000Z,finance.ifeng.com,"Policy uncertainty hangs over Turmeric contracts linked to Saudi Arabia, traders say",Neutral,0.0,0,0,0,0,0,20,0.3
+Cotton,Sri Lanka,20260428T000000Z,island.lk,Cotton prices jump in Sri Lanka as wholesale markets tighten: officials urge caution,Negative,-0.5,0,0,0,1,0,50,0.6
+Turmeric,Singapore,20260502T040000Z,finance.yahoo.com,Currency weakness makes Turmeric imports costlier for Singapore buyers,Negative,-0.5,0,0,0,1,0,20,0.6
+Sugar,Netherlands,20260509T210000Z,indianexpress.com,Latest: Netherlands stockpiles strategic Sugar reserves ahead of festival demand,Positive,0.5,0,0,0,0,0,50,0.8
+Cotton,Singapore,20260510T054500Z,bloomberg.com,Government of Singapore announces subsidy support for Cotton farmers - Agriculture Report,Neutral,0.0,0,0,0,0,0,20,0.5
+Maize,Vietnam,20260506T030000Z,hellenicshippingnews.com,Rainfall deficit raises concerns for Maize planting in Vietnam: officials urge caution,Negative,-0.5,0,1,0,0,0,20,0.6
+Soybean,Bangladesh,20260428T230000Z,reuters.com,Import demand for Soybean surges in Bangladesh after domestic shortfall | Market Watch,Positive,0.8,1,1,0,0,0,80,0.9
+Onion,Singapore,20260416T090000Z,todayonline.com,Latest: Food security alert: Onion supplies tighten across Singapore,Negative,-0.5,1,0,0,0,0,80,0.9
+Cotton,Japan,20260515T191500Z,nikkei.com,Heatwave damages Cotton crop yields across key regions of Japan | Market Watch,Negative,-0.5,1,1,0,0,0,20,0.6
+Cotton,Vietnam,20260517T201500Z,reuters.com,"Vietnam cuts import duty on Cotton to cool retail inflation, traders say",Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Japan,20260625T084500Z,asahi.com,Exporters eye Japan as a growing Coffee destination in Asia | Market Watch,Positive,0.8,0,0,0,0,0,80,0.9
+Maize,Germany,20260619T160000Z,merkur.de,Germany stockpiles strategic Maize reserves ahead of festival demand - Agriculture Report,Positive,0.5,0,0,0,0,0,50,0.8
+Coffee,Germany,20260415T101500Z,reuters.com,"Germany consumers shift to cheaper substitutes as Coffee stays expensive, traders say",Negative,-0.5,0,0,0,1,0,20,0.5
+Cotton,Germany,20260419T073000Z,livemint.com,Private traders boost Cotton bookings destined for Germany (June 2026 briefing),Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Germany,20260628T161500Z,indianexpress.com,Germany stockpiles strategic Coffee reserves ahead of festival demand,Positive,0.5,0,0,0,0,0,50,0.8
+Wheat,Malaysia,20260413T060000Z,bloomberg.com,New high-yield Wheat varieties boost production in Malaysia: officials urge caution,Positive,0.8,0,0,1,0,0,0,0.9
+Turmeric,Germany,20260402T114500Z,livemint.com,Floods disrupt Turmeric production and logistics in Germany - seasonal update,Negative,-0.5,0,1,0,0,0,30,0.6
+Sugar,Nepal,20260426T173000Z,economictimes.indiatimes.com,New high-yield Sugar varieties boost production in Nepal,Positive,0.8,0,0,1,0,0,0,0.9
+Cotton,Singapore,20260522T191500Z,economictimes.indiatimes.com,Heatwave damages Cotton crop yields across key regions of Singapore - seasonal update,Negative,-0.5,1,1,0,0,0,20,0.6
+Turmeric,Bangladesh,20260423T190000Z,finance.yahoo.com,Currency weakness makes Turmeric imports costlier for Bangladesh buyers - seasonal update,Negative,-0.5,0,0,0,1,0,20,0.6
+Soybean,Germany,20260613T194500Z,finance.yahoo.com,Latest: Falling Soybean prices pressure farmers in Germany,Negative,-0.5,0,0,0,0,1,0,0.5
+Soybean,Vietnam,20260617T070000Z,baomoi.com,Latest: Favorable monsoon lifts Soybean acreage and yields in Vietnam,Positive,0.8,0,0,1,0,1,30,0.8
+Coffee,Germany,20260525T223000Z,finance.yahoo.com,New high-yield Coffee varieties boost production in Germany | Market Watch,Positive,0.8,0,0,1,0,0,0,0.9
+Maize,Netherlands,20260424T090000Z,reuters.com,"Heatwave damages Maize crop yields across key regions of Netherlands, traders say",Negative,-0.5,1,1,0,0,0,20,0.6
+Onion,Vietnam,20260401T214500Z,indianexpress.com,Latest: Vietnam processors increase Onion crushing and refining capacity,Positive,0.8,0,0,0,0,0,60,0.8
+Wheat,Germany,20260430T010000Z,finance.yahoo.com,Rainfall deficit raises concerns for Wheat planting in Germany | Market Watch,Negative,-0.5,0,1,0,0,0,20,0.7
+Turmeric,Sri Lanka,20260622T201500Z,reuters.com,Sri Lanka processors increase Turmeric crushing and refining capacity - seasonal update,Positive,0.8,0,0,0,0,0,60,0.8
+Sugar,Germany,20260403T030000Z,finance.yahoo.com,"Analysts say Sugar trade flows to Germany remain stable this month, traders say",Neutral,0.0,0,0,0,0,0,20,0.5
+Wheat,Vietnam,20260627T154500Z,saigontimes.vn,"Import demand for Wheat surges in Vietnam after domestic shortfall, traders say",Positive,0.8,1,1,0,0,0,80,0.9
+Maize,Netherlands,20260605T191500Z,indianexpress.com,Analysts say Maize trade flows to Netherlands remain stable this month | Market Watch,Neutral,0.0,0,0,0,0,0,20,0.5
+Soybean,Bangladesh,20260513T190000Z,thedailystar.net,Latest: Bangladesh reports record Soybean harvest; output rises for second year,Positive,0.8,0,0,1,0,0,20,0.8
+Cotton,Sri Lanka,20260420T114500Z,island.lk,Heatwave damages Cotton crop yields across key regions of Sri Lanka - Agriculture Report,Negative,-0.5,1,1,0,0,0,20,0.6
+Maize,Nepal,20260519T171500Z,thehindubusinessline.com,"Nepal ports report normal Maize handling volumes despite weather delays, traders say",Neutral,0.0,0,0,0,0,0,0,0.0
+Maize,Netherlands,20260618T014500Z,nos.nl,Shipping delays leave Netherlands Maize importers scrambling for cargo - seasonal update,Negative,-0.5,1,0,0,0,0,80,0.8
+Wheat,Vietnam,20260605T111500Z,economictimes.indiatimes.com,Falling Wheat prices pressure farmers in Vietnam - seasonal update,Negative,-0.5,0,0,0,0,1,0,0.6
+Turmeric,Saudi Arabia,20260616T181500Z,economictimes.indiatimes.com,Saudi Arabia ports report normal Turmeric handling volumes despite weather delays,Neutral,0.0,0,0,0,0,0,0,0.0
+Sugar,Japan,20260527T180000Z,economictimes.indiatimes.com,Japan processors increase Sugar crushing and refining capacity - Agriculture Report,Positive,0.8,0,0,0,0,0,60,0.8
+Maize,Indonesia,20260628T203000Z,hellenicshippingnews.com,Latest: Floods disrupt Maize production and logistics in Indonesia,Negative,-0.5,0,1,0,0,0,30,0.6
+Coffee,Vietnam,20260414T133000Z,baomoi.com,Latest: Vietnam processors increase Coffee crushing and refining capacity,Positive,0.8,0,0,0,0,0,60,0.8
+Turmeric,Germany,20260507T003000Z,finance.yahoo.com,Currency weakness makes Turmeric imports costlier for Germany buyers,Negative,-0.5,0,0,0,1,0,20,0.5
+Turmeric,Sri Lanka,20260625T230000Z,economictimes.indiatimes.com,Rainfall deficit raises concerns for Turmeric planting in Sri Lanka: officials urge caution,Negative,-0.5,0,1,0,0,0,20,0.6
+Cotton,Saudi Arabia,20260514T040000Z,northafricapost.com,Saudi Arabia stockpiles strategic Cotton reserves ahead of festival demand - Agriculture Report,Positive,0.5,0,0,0,0,0,50,0.9
+Maize,Vietnam,20260627T130000Z,finance.yahoo.com,"Vietnam ports report normal Maize handling volumes despite weather delays, traders say",Neutral,0.0,0,0,0,0,0,0,0.0
+Coffee,Singapore,20260409T213000Z,finance.yahoo.com,Singapore retailers raise Coffee prices amid rising import costs,Negative,-1.0,0,0,0,1,0,20,0.5
+Coffee,Bangladesh,20260413T051500Z,indianexpress.com,Food security alert: Coffee supplies tighten across Bangladesh,Negative,-0.5,1,0,0,0,0,80,0.9
+Cotton,Vietnam,20260423T144500Z,thehindubusinessline.com,Private traders boost Cotton bookings destined for Vietnam | Market Watch,Positive,0.8,0,0,0,0,0,80,0.9
+Maize,Saudi Arabia,20260413T144500Z,bloomberg.com,Saudi Arabia faces Maize shortage as stocks fall to multi-year lows - Agriculture Report,Negative,-0.5,1,0,0,1,0,80,0.8
+Coffee,Netherlands,20260402T124500Z,foodnavigator.com,Food security alert: Coffee supplies tighten across Netherlands | Market Watch,Negative,-0.5,1,0,0,0,0,80,0.8
+Coffee,Vietnam,20260615T124500Z,thehindubusinessline.com,"Vietnam stockpiles strategic Coffee reserves ahead of festival demand, traders say",Positive,0.5,0,0,0,0,0,50,0.7
+Wheat,Vietnam,20260515T111500Z,finance.yahoo.com,Bilateral talks focus on expanding Wheat trade with Vietnam | Market Watch,Positive,0.8,0,0,0,0,0,90,0.9
+Turmeric,Vietnam,20260518T141500Z,livemint.com,Shipping delays leave Vietnam Turmeric importers scrambling for cargo - seasonal update,Negative,-0.5,1,0,0,0,0,80,0.8
+Onion,Vietnam,20260531T144500Z,finance.yahoo.com,Heatwave damages Onion crop yields across key regions of Vietnam - Agriculture Report,Negative,-0.5,1,1,0,0,0,30,0.6
+Cotton,Sri Lanka,20260529T183000Z,economictimes.indiatimes.com,"Exporters eye Sri Lanka as a growing Cotton destination in Asia, traders say",Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Sri Lanka,20260626T051500Z,economynext.com,Latest: Private traders boost Sugar bookings destined for Sri Lanka,Positive,0.8,0,0,0,0,0,80,0.9
+Wheat,Saudi Arabia,20260501T080000Z,finance.yahoo.com,Logistics costs for Wheat shipments to Saudi Arabia rise on higher freight rates: officials urge caution,Negative,-0.5,0,0,0,0,0,20,0.6
+Coffee,Indonesia,20260612T070000Z,livemint.com,Shipping delays leave Indonesia Coffee importers scrambling for cargo,Negative,-0.5,1,0,0,0,0,70,0.7
+Wheat,Vietnam,20260624T193000Z,finance.yahoo.com,Import demand for Wheat surges in Vietnam after domestic shortfall (June 2026 briefing),Positive,0.8,1,1,0,0,0,80,0.9
+Onion,Singapore,20260527T023000Z,bloomberg.com,Import demand for Onion surges in Singapore after domestic shortfall - Agriculture Report,Positive,0.8,1,1,0,0,0,80,0.9
+Coffee,Bangladesh,20260412T033000Z,indianexpress.com,Falling Coffee prices pressure farmers in Bangladesh - seasonal update,Negative,-0.5,0,0,0,0,1,0,0.7
+Coffee,Netherlands,20260531T083000Z,hellenicshippingnews.com,Quality concerns slow Coffee imports into Netherlands markets - seasonal update,Negative,-0.5,0,0,0,0,0,20,0.6
+Soybean,Japan,20260430T234500Z,thehindubusinessline.com,Trade deal may ease Soybean tariffs for shipments into Japan,Positive,0.8,0,0,0,0,0,80,0.8
+Coffee,Netherlands,20260407T180000Z,foodnavigator.com,"New high-yield Coffee varieties boost production in Netherlands, traders say",Positive,0.8,0,0,1,0,0,0,0.9
+Soybean,Indonesia,20260515T010000Z,thehindubusinessline.com,Latest: Heatwave damages Soybean crop yields across key regions of Indonesia,Negative,-0.5,1,1,0,0,0,20,0.6
+Sugar,Germany,20260625T181500Z,merkur.de,Government of Germany announces subsidy support for Sugar farmers - seasonal update,Neutral,0.0,0,0,0,0,0,20,0.5
+Sugar,Sri Lanka,20260518T033000Z,hellenicshippingnews.com,Latest: Import demand for Sugar surges in Sri Lanka after domestic shortfall,Positive,0.8,1,1,0,0,0,80,1.0
+Wheat,Germany,20260605T201500Z,finance.yahoo.com,Bilateral talks focus on expanding Wheat trade with Germany,Positive,0.8,0,0,0,0,0,80,0.9
+Cotton,Japan,20260406T073000Z,japantimes.co.jp,Japan imposes temporary restriction on Cotton exports,Negative,-0.5,0,0,0,1,0,20,0.6
+Coffee,Indonesia,20260401T180000Z,reuters.com,Indonesia reports record Coffee harvest; output rises for second year - seasonal update,Positive,0.8,0,0,1,0,0,20,0.9
+Soybean,Netherlands,20260620T214500Z,finance.yahoo.com,"Exporters eye Netherlands as a growing Soybean destination in Asia, traders say",Positive,0.8,0,0,0,0,0,80,0.9
+Maize,Vietnam,20260526T213000Z,economictimes.indiatimes.com,Vietnam warns of possible Maize rationing amid supply crunch: officials urge caution,Negative,-1.0,1,0,0,1,0,80,0.7
+Cotton,Sri Lanka,20260417T161500Z,indianexpress.com,Sri Lanka stockpiles strategic Cotton reserves ahead of festival demand - Agriculture Report,Positive,0.5,0,0,0,0,0,50,0.7
+Turmeric,Singapore,20260513T093000Z,straitstimes.com,Singapore ports report normal Turmeric handling volumes despite weather delays,Neutral,0.0,0,0,0,0,0,0,0.0
+Coffee,Japan,20260503T230000Z,mainichi.jp,Early forecasts point to weaker Coffee sowing in Japan,Negative,-0.5,0,1,0,0,0,20,0.6
+Coffee,Netherlands,20260504T220000Z,thehindubusinessline.com,Latest: Bilateral talks focus on expanding Coffee trade with Netherlands,Positive,0.8,0,0,0,0,0,80,0.8
+Soybean,Saudi Arabia,20260420T033000Z,saudigazette.com.sa,New high-yield Soybean varieties boost production in Saudi Arabia | Market Watch,Positive,0.8,0,0,1,0,0,0,1.0
+Cotton,Sri Lanka,20260516T010000Z,indianexpress.com,Drought cuts Cotton harvest in Sri Lanka; farmers report steep losses | Market Watch,Negative,-0.5,0,1,0,1,0,20,0.6
+Cotton,Japan,20260623T214500Z,finance.yahoo.com,Latest: Policy uncertainty hangs over Cotton contracts linked to Japan,Neutral,0.0,0,0,0,0,0,20,0.3
+Coffee,Singapore,20260528T100000Z,asiaone.com,Shipping delays leave Singapore Coffee importers scrambling for cargo: officials urge caution,Negative,-0.5,1,0,0,0,0,80,0.8
+Coffee,Vietnam,20260408T104500Z,finance.yahoo.com,Vietnam processors increase Coffee crushing and refining capacity: officials urge caution,Positive,0.8,0,0,0,0,0,60,0.9
+Maize,Nepal,20260616T210000Z,indianexpress.com,Bilateral talks focus on expanding Maize trade with Nepal: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Onion,Singapore,20260519T161500Z,channelnewsasia.com,Latest: Policy uncertainty hangs over Onion contracts linked to Singapore,Neutral,0.0,0,0,0,0,0,20,0.3
+Turmeric,Singapore,20260409T043000Z,bloomberg.com,Latest: Singapore agriculture ministry reviews Turmeric market outlook for next quarter,Neutral,0.0,0,0,0,0,0,0,0.0
+Cotton,Vietnam,20260506T074500Z,thehindubusinessline.com,Strong retail demand for Cotton products continues in Vietnam: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Onion,Singapore,20260529T010000Z,asiaone.com,Latest: Singapore agriculture ministry reviews Onion market outlook for next quarter,Neutral,0.0,0,0,0,0,0,0,0.0
+Maize,Bangladesh,20260610T061500Z,finance.yahoo.com,Drought cuts Maize harvest in Bangladesh; farmers report steep losses - Agriculture Report,Negative,-0.5,0,1,0,1,0,20,0.7
+Turmeric,Bangladesh,20260629T000000Z,thehindubusinessline.com,New high-yield Turmeric varieties boost production in Bangladesh - Agriculture Report,Positive,0.8,0,0,1,0,0,0,0.8
+Coffee,Bangladesh,20260501T011500Z,bloomberg.com,Logistics costs for Coffee shipments to Bangladesh rise on higher freight rates | Market Watch,Negative,-0.5,0,0,0,0,0,20,0.6
+Wheat,Saudi Arabia,20260606T130000Z,bloomberg.com,Latest: Saudi Arabia reports record Wheat harvest; output rises for second year,Positive,0.8,0,0,1,0,0,20,0.9
+Sugar,Bangladesh,20260421T190000Z,thehindubusinessline.com,Bilateral talks focus on expanding Sugar trade with Bangladesh - Agriculture Report,Positive,0.8,0,0,0,0,0,80,1.0
+Turmeric,Singapore,20260429T170000Z,indianexpress.com,Falling Turmeric prices pressure farmers in Singapore | Market Watch,Negative,-0.5,0,0,0,0,1,0,0.6
+Sugar,Sri Lanka,20260531T000000Z,island.lk,Early forecasts point to weaker Sugar sowing in Sri Lanka,Negative,-0.5,0,1,0,0,0,20,0.6
+Cotton,Vietnam,20260627T151500Z,tuoitre.vn,Cotton prices jump in Vietnam as wholesale markets tighten - seasonal update,Negative,-0.5,0,0,0,1,0,50,0.6
+Soybean,Vietnam,20260609T204500Z,vnexpress.net,Latest: Vietnam ports report normal Soybean handling volumes despite weather delays,Neutral,0.0,0,0,0,0,0,0,0.0
+Turmeric,Bangladesh,20260618T120000Z,indianexpress.com,Strong retail demand for Turmeric products continues in Bangladesh | Market Watch,Positive,0.8,0,0,0,0,0,80,0.9
+Wheat,Saudi Arabia,20260526T090000Z,reuters.com,Latest: Saudi Arabia ports report normal Wheat handling volumes despite weather delays,Neutral,0.0,0,0,0,0,0,0,0.0
+Wheat,Germany,20260619T071500Z,dw.com,"Exporters eye Germany as a growing Wheat destination in Asia, traders say",Positive,0.8,0,0,0,0,0,80,0.9
+Maize,Vietnam,20260524T200000Z,vietnamnews.vn,Vietnam opens new tender for Maize purchases from global suppliers,Positive,0.8,0,0,0,0,0,80,0.9
+Soybean,Japan,20260627T213000Z,bloomberg.com,Pest outbreak threatens Soybean output in Japan this season - Agriculture Report,Negative,-0.5,0,1,0,0,0,20,0.4
+Sugar,Singapore,20260504T223000Z,asiaone.com,Falling Sugar prices pressure farmers in Singapore - seasonal update,Negative,-0.5,0,0,0,0,1,0,0.6
+Wheat,Singapore,20260508T114500Z,straitstimes.com,Singapore ports report normal Wheat handling volumes despite weather delays | Market Watch,Neutral,0.0,0,0,0,0,0,0,0.0
+Wheat,Vietnam,20260415T041500Z,tuoitre.vn,Floods disrupt Wheat production and logistics in Vietnam - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.6
+Sugar,China,20260516T130000Z,reuters.com,Latest: Shipping delays leave China Sugar importers scrambling for cargo,Negative,-0.5,1,0,0,0,0,80,0.8
+Cotton,China,20260610T143000Z,hellenicshippingnews.com,Food security alert: Cotton supplies tighten across China - Agriculture Report,Negative,-0.5,1,0,0,0,0,80,0.9
+Wheat,Vietnam,20260602T004500Z,indianexpress.com,Vietnam cuts import duty on Wheat to cool retail inflation | Market Watch,Positive,0.8,0,0,0,0,0,90,0.9
+Cotton,Vietnam,20260526T194500Z,vnexpress.net,"Currency weakness makes Cotton imports costlier for Vietnam buyers, traders say",Negative,-0.5,0,0,0,1,0,20,0.6
+Soybean,Germany,20260419T041500Z,finance.yahoo.com,"Germany faces Soybean shortage as stocks fall to multi-year lows, traders say",Negative,-0.5,1,0,0,1,0,80,0.8
+Soybean,Japan,20260522T014500Z,bloomberg.com,Japan ports report normal Soybean handling volumes despite weather delays,Neutral,0.0,0,0,0,0,0,0,0.0
+Wheat,Malaysia,20260601T170000Z,economictimes.indiatimes.com,Private traders boost Wheat bookings destined for Malaysia,Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,Netherlands,20260611T034500Z,finance.yahoo.com,Food security alert: Turmeric supplies tighten across Netherlands - Agriculture Report,Negative,-0.5,1,0,0,0,0,80,0.9
+Cotton,Sri Lanka,20260405T071500Z,thehindubusinessline.com,Sri Lanka agriculture ministry reviews Cotton market outlook for next quarter | Market Watch,Neutral,0.0,0,0,0,0,0,0,0.0
+Cotton,Saudi Arabia,20260607T121500Z,reuters.com,Cotton prices jump in Saudi Arabia as wholesale markets tighten - seasonal update,Negative,-0.5,0,0,0,1,0,50,0.6
+Cotton,Saudi Arabia,20260429T114500Z,northafricapost.com,Latest: Drought cuts Cotton harvest in Saudi Arabia; farmers report steep losses,Negative,-0.5,0,1,0,1,0,20,0.6
+Sugar,Netherlands,20260619T040000Z,bloomberg.com,Netherlands warns of possible Sugar rationing amid supply crunch - Agriculture Report,Negative,-1.0,1,0,0,1,0,80,0.8
+Wheat,Vietnam,20260624T011500Z,finance.yahoo.com,Vietnam retailers raise Wheat prices amid rising import costs - Agriculture Report,Negative,-1.0,0,0,0,1,0,20,0.5
+Coffee,Vietnam,20260626T083000Z,economictimes.indiatimes.com,Vietnam ports report normal Coffee handling volumes despite weather delays: officials urge caution,Neutral,0.0,0,0,0,0,0,0,0.0
+Soybean,Nepal,20260519T071500Z,economictimes.indiatimes.com,Exporters eye Nepal as a growing Soybean destination in Asia - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Onion,Japan,20260619T200000Z,asahi.com,Latest: Heatwave damages Onion crop yields across key regions of Japan,Negative,-0.5,1,1,0,0,0,20,0.6
+Cotton,Germany,20260529T120000Z,livemint.com,Heatwave damages Cotton crop yields across key regions of Germany - Agriculture Report,Negative,-0.5,1,1,0,0,0,20,0.6
+Wheat,Sri Lanka,20260513T051500Z,newsfirst.lk,Analysts say Wheat trade flows to Sri Lanka remain stable this month: officials urge caution,Neutral,0.0,0,0,0,0,0,20,0.6
+Cotton,Saudi Arabia,20260520T193000Z,indianexpress.com,Import demand for Cotton surges in Saudi Arabia after domestic shortfall,Positive,0.8,1,1,0,0,0,80,0.9
+Soybean,Netherlands,20260513T130000Z,dutchnews.nl,Food security alert: Soybean supplies tighten across Netherlands | Market Watch,Negative,-0.5,1,0,0,0,0,80,0.9
+Sugar,Netherlands,20260508T040000Z,hellenicshippingnews.com,Netherlands ports report normal Sugar handling volumes despite weather delays - Agriculture Report,Neutral,0.0,0,0,0,0,0,0,0.0
+Sugar,Vietnam,20260526T171500Z,tuoitre.vn,Strong retail demand for Sugar products continues in Vietnam - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Wheat,Singapore,20260519T104500Z,bloomberg.com,Trade deal may ease Wheat tariffs for shipments into Singapore | Market Watch,Positive,0.8,0,0,0,0,0,70,0.8
+Wheat,Japan,20260530T094500Z,hea.china.com,Japan opens new tender for Wheat purchases from global suppliers - seasonal update,Positive,0.8,0,0,0,0,0,80,0.9
+Soybean,Malaysia,20260627T060000Z,livemint.com,Malaysia retailers raise Soybean prices amid rising import costs,Negative,-1.0,0,0,0,1,0,10,0.5
+Wheat,Vietnam,20260626T124500Z,saigontimes.vn,Latest: Government of Vietnam announces subsidy support for Wheat farmers,Neutral,0.0,0,0,0,0,0,30,0.5
+Maize,Sri Lanka,20260420T121500Z,indianexpress.com,Maize prices jump in Sri Lanka as wholesale markets tighten - seasonal update,Negative,-0.5,0,0,0,1,0,50,0.6
+Sugar,Saudi Arabia,20260618T003000Z,bloomberg.com,Food security alert: Sugar supplies tighten across Saudi Arabia - Agriculture Report,Negative,-0.5,1,0,0,0,0,80,0.9
+Sugar,Nepal,20260517T111500Z,hellenicshippingnews.com,Drought cuts Sugar harvest in Nepal; farmers report steep losses - Agriculture Report,Negative,-0.5,0,1,0,1,0,20,0.6
+Wheat,Singapore,20260408T044500Z,reuters.com,Policy uncertainty hangs over Wheat contracts linked to Singapore,Neutral,0.0,0,0,0,0,0,20,0.3
+Wheat,Japan,20260418T160000Z,indianexpress.com,Japan reports record Wheat harvest; output rises for second year - seasonal update,Positive,0.8,0,0,1,0,0,20,0.9
+Turmeric,Singapore,20260416T233000Z,channelnewsasia.com,Import demand for Turmeric surges in Singapore after domestic shortfall - seasonal update,Positive,0.8,1,1,0,0,0,80,0.9
+Coffee,Sri Lanka,20260425T074500Z,economynext.com,"Analysts say Coffee trade flows to Sri Lanka remain stable this month, traders say",Neutral,0.0,0,0,0,0,0,20,0.5
+Cotton,Japan,20260519T190000Z,finance.yahoo.com,Latest: Japan reports record Cotton harvest; output rises for second year,Positive,0.8,0,0,1,0,0,20,0.9
+Sugar,Indonesia,20260609T230000Z,hellenicshippingnews.com,New high-yield Sugar varieties boost production in Indonesia | Market Watch,Positive,0.8,0,0,1,0,0,0,0.9
+Coffee,China,20260603T050000Z,yicai.com,China warns of possible Coffee rationing amid supply crunch - seasonal update,Negative,-1.0,1,0,0,1,0,90,0.8
+Soybean,Singapore,20260602T074500Z,todayonline.com,Food security alert: Soybean supplies tighten across Singapore: officials urge caution,Negative,-0.5,1,0,0,0,0,80,0.9
+Wheat,Saudi Arabia,20260416T081500Z,reuters.com,Logistics costs for Wheat shipments to Saudi Arabia rise on higher freight rates - Agriculture Report,Negative,-0.5,0,0,0,0,0,20,0.6
+Wheat,Singapore,20260414T224500Z,thehindubusinessline.com,"Singapore agriculture ministry reviews Wheat market outlook for next quarter, traders say",Neutral,0.0,0,0,0,0,0,0,0.0
+Maize,Germany,20260525T123000Z,farmer.pl,Analysts say Maize trade flows to Germany remain stable this month: officials urge caution,Neutral,0.0,0,0,0,0,0,20,0.5
+Coffee,Singapore,20260508T070000Z,hellenicshippingnews.com,Trade deal may ease Coffee tariffs for shipments into Singapore: officials urge caution,Positive,0.8,0,0,0,0,0,90,0.8
+Wheat,Indonesia,20260501T083000Z,antaranews.com,Favorable monsoon lifts Wheat acreage and yields in Indonesia - seasonal update,Positive,0.8,0,0,1,0,1,20,0.8
+Soybean,Japan,20260403T060000Z,nikkei.com,Bilateral talks focus on expanding Soybean trade with Japan: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,Japan,20260519T010000Z,hellenicshippingnews.com,Japan plans to increase Turmeric imports to stabilize domestic supply | Market Watch,Positive,0.8,0,0,0,0,0,90,0.9
+Onion,Bangladesh,20260512T200000Z,dailyinqilab.com,Shipping delays leave Bangladesh Onion importers scrambling for cargo - Agriculture Report,Negative,-0.5,1,0,0,0,0,80,0.8
+Onion,Sri Lanka,20260419T213000Z,thehindubusinessline.com,Logistics costs for Onion shipments to Sri Lanka rise on higher freight rates - Agriculture Report,Negative,-0.5,0,0,0,0,0,20,0.5
+Cotton,Vietnam,20260531T121500Z,finance.yahoo.com,Bilateral talks focus on expanding Cotton trade with Vietnam: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Cotton,Vietnam,20260525T034500Z,thehindubusinessline.com,Floods disrupt Cotton production and logistics in Vietnam: officials urge caution,Negative,-0.5,0,1,0,0,0,20,0.6
+Soybean,Netherlands,20260609T064500Z,thehindubusinessline.com,Bilateral talks focus on expanding Soybean trade with Netherlands: officials urge caution,Positive,0.8,0,0,0,0,0,70,0.9
+Maize,Japan,20260414T133000Z,thehindubusinessline.com,"New high-yield Maize varieties boost production in Japan, traders say",Positive,0.8,0,0,1,0,0,0,0.9
+Onion,Germany,20260503T154500Z,bloomberg.com,"Logistics costs for Onion shipments to Germany rise on higher freight rates, traders say",Negative,-0.5,0,0,0,0,0,20,0.6
+Maize,Japan,20260605T100000Z,nikkei.com,Policy uncertainty hangs over Maize contracts linked to Japan - Agriculture Report,Neutral,0.0,0,0,0,0,0,30,0.3
+Turmeric,Japan,20260616T001500Z,indianexpress.com,"Food security alert: Turmeric supplies tighten across Japan, traders say",Negative,-0.5,1,0,0,0,0,80,0.9
+Cotton,Netherlands,20260610T001500Z,hellenicshippingnews.com,"Import demand for Cotton surges in Netherlands after domestic shortfall, traders say",Positive,0.8,1,1,0,0,0,80,0.9
+Maize,Germany,20260419T123000Z,merkur.de,Germany plans to increase Maize imports to stabilize domestic supply,Positive,0.8,0,0,0,0,0,80,0.9
+Wheat,Singapore,20260530T084500Z,reuters.com,Latest: Singapore stockpiles strategic Wheat reserves ahead of festival demand,Positive,0.5,0,0,0,0,0,50,0.8
+Onion,Sri Lanka,20260502T131500Z,finance.yahoo.com,Latest: Import demand for Onion surges in Sri Lanka after domestic shortfall,Positive,0.8,1,1,0,0,0,80,0.9
+Wheat,Germany,20260505T093000Z,finance.yahoo.com,Wheat prices jump in Germany as wholesale markets tighten: officials urge caution,Negative,-0.5,0,0,0,1,0,50,0.6
+Soybean,Sri Lanka,20260428T020000Z,bloomberg.com,"Sri Lanka opens new tender for Soybean purchases from global suppliers, traders say",Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Indonesia,20260608T103000Z,reuters.com,Indonesia imposes temporary restriction on Coffee exports - seasonal update,Negative,-0.5,0,0,0,1,0,20,0.6
+Coffee,Germany,20260507T204500Z,economictimes.indiatimes.com,Trade deal may ease Coffee tariffs for shipments into Germany - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.8
+Maize,Indonesia,20260504T150000Z,reuters.com,New high-yield Maize varieties boost production in Indonesia - Agriculture Report,Positive,0.8,0,0,1,0,0,0,0.8
+Cotton,Sri Lanka,20260525T133000Z,livemint.com,Cotton prices ease in Sri Lanka after fresh arrivals hit markets | Market Watch,Positive,0.5,0,0,0,0,1,50,0.5
+Coffee,Vietnam,20260522T131500Z,vnexpress.net,Vietnam consumers shift to cheaper substitutes as Coffee stays expensive | Market Watch,Negative,-0.5,0,0,0,1,0,20,0.5
+Cotton,Vietnam,20260614T200000Z,tuoitre.vn,Vietnam stockpiles strategic Cotton reserves ahead of festival demand - Agriculture Report,Positive,0.5,0,0,0,0,0,50,0.8
+Sugar,Japan,20260517T041500Z,reuters.com,Favorable monsoon lifts Sugar acreage and yields in Japan: officials urge caution,Positive,0.8,0,0,1,0,1,20,0.8
+Cotton,Sri Lanka,20260603T074500Z,hellenicshippingnews.com,Sri Lanka cuts import duty on Cotton to cool retail inflation - Agriculture Report,Positive,0.8,0,0,0,0,0,70,0.9
+Coffee,Sri Lanka,20260630T160000Z,ft.lk,Sri Lanka warns of possible Coffee rationing amid supply crunch | Market Watch,Negative,-1.0,1,0,0,1,0,80,0.8
+Turmeric,Singapore,20260629T214500Z,todayonline.com,Currency weakness makes Turmeric imports costlier for Singapore buyers | Market Watch,Negative,-0.5,0,0,0,1,0,20,0.6
+Onion,Vietnam,20260602T061500Z,bloomberg.com,"Policy uncertainty hangs over Onion contracts linked to Vietnam, traders say",Neutral,0.0,0,0,0,0,0,20,0.4
+Wheat,Nepal,20260618T123000Z,kathmandupost.com,Nepal reports record Wheat harvest; output rises for second year - seasonal update,Positive,0.8,0,0,1,0,0,20,0.9
+Coffee,Sri Lanka,20260616T183000Z,newsfirst.lk,Latest: Sri Lanka opens new tender for Coffee purchases from global suppliers,Positive,0.8,0,0,0,0,0,80,0.9
+Cotton,Sri Lanka,20260620T070000Z,economictimes.indiatimes.com,"Cotton prices jump in Sri Lanka as wholesale markets tighten, traders say",Negative,-0.5,0,0,0,1,0,50,0.6
+Wheat,Vietnam,20260630T203000Z,vnexpress.net,Floods disrupt Wheat production and logistics in Vietnam | Market Watch,Negative,-0.5,0,1,0,0,0,20,0.6
+Sugar,Singapore,20260527T130000Z,livemint.com,Strong retail demand for Sugar products continues in Singapore - seasonal update,Positive,0.8,0,0,0,0,0,80,0.9
+Cotton,Netherlands,20260423T223000Z,dutchnews.nl,Latest: Netherlands ports report normal Cotton handling volumes despite weather delays,Neutral,0.0,0,0,0,0,0,0,0.0
+Soybean,Singapore,20260626T043000Z,livemint.com,Favorable monsoon lifts Soybean acreage and yields in Singapore: officials urge caution,Positive,0.8,0,0,1,0,1,20,0.8
+Soybean,Sri Lanka,20260413T230000Z,reuters.com,Sri Lanka cuts import duty on Soybean to cool retail inflation - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Sri Lanka,20260608T033000Z,bloomberg.com,Sri Lanka ports report normal Sugar handling volumes despite weather delays: officials urge caution,Neutral,0.0,0,0,0,0,0,0,0.0
+Onion,Sri Lanka,20260624T183000Z,indianexpress.com,Onion prices ease in Sri Lanka after fresh arrivals hit markets - seasonal update,Positive,0.5,0,0,0,0,1,50,0.5
+Sugar,Singapore,20260629T011500Z,hellenicshippingnews.com,Singapore ports report normal Sugar handling volumes despite weather delays,Neutral,0.0,0,0,0,0,0,0,0.0
+Sugar,Saudi Arabia,20260502T203000Z,bloomberg.com,Bilateral talks focus on expanding Sugar trade with Saudi Arabia | Market Watch,Positive,0.8,0,0,0,0,0,80,0.9
+Wheat,Bangladesh,20260515T003000Z,dailyinqilab.com,Bangladesh consumers shift to cheaper substitutes as Wheat stays expensive: officials urge caution,Negative,-0.5,0,0,0,1,0,20,0.6
+Wheat,Singapore,20260610T051500Z,asiaone.com,"Import demand for Wheat surges in Singapore after domestic shortfall, traders say",Positive,0.8,1,1,0,0,0,80,0.9
+Wheat,Saudi Arabia,20260407T043000Z,bloomberg.com,"Wheat prices ease in Saudi Arabia after fresh arrivals hit markets, traders say",Positive,0.5,0,0,0,0,1,50,0.6
+Turmeric,China,20260414T033000Z,indianexpress.com,Drought cuts Turmeric harvest in China; farmers report steep losses: officials urge caution,Negative,-0.5,0,1,0,1,0,20,0.7
+Cotton,Sri Lanka,20260507T111500Z,dailynews.lk,Sri Lanka stockpiles strategic Cotton reserves ahead of festival demand (May 2026 briefing),Positive,0.5,0,0,0,0,0,50,0.8
+Soybean,Bangladesh,20260418T074500Z,bloomberg.com,Rainfall deficit raises concerns for Soybean planting in Bangladesh | Market Watch,Negative,-0.5,0,1,0,0,0,20,0.6
+Wheat,Vietnam,20260515T224500Z,finance.yahoo.com,Falling Wheat prices pressure farmers in Vietnam (April 2025 briefing),Negative,-0.5,0,0,0,0,1,0,0.6
+Soybean,Singapore,20260416T011500Z,todayonline.com,Exporters eye Singapore as a growing Soybean destination in Asia - seasonal update,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Nepal,20260614T090000Z,ekantipur.com,Pest outbreak threatens Coffee output in Nepal this season,Negative,-0.5,0,1,0,0,0,20,0.5
+Coffee,Vietnam,20260405T171500Z,vnexpress.net,Vietnam warns of possible Coffee rationing amid supply crunch: officials urge caution,Negative,-1.0,1,0,0,1,0,80,0.8
+Soybean,Singapore,20260623T203000Z,indianexpress.com,"Falling Soybean prices pressure farmers in Singapore, traders say",Negative,-0.5,0,0,0,0,1,0,0.6
+Sugar,Japan,20260501T230000Z,hellenicshippingnews.com,Japan cuts import duty on Sugar to cool retail inflation | Market Watch,Positive,0.8,0,0,0,0,0,80,0.9
+Cotton,Bangladesh,20260604T021500Z,bloomberg.com,Government of Bangladesh announces subsidy support for Cotton farmers | Market Watch,Neutral,0.0,0,0,0,0,0,20,0.5
+Coffee,Germany,20260628T120000Z,handelsblatt.com,"Import demand for Coffee surges in Germany after domestic shortfall, traders say",Positive,0.8,1,1,0,0,0,80,0.9
+Cotton,Singapore,20260605T041500Z,economictimes.indiatimes.com,Currency weakness makes Cotton imports costlier for Singapore buyers,Negative,-0.5,0,0,0,1,0,20,0.6
+Maize,Germany,20260613T054500Z,bloomberg.com,Germany stockpiles strategic Maize reserves ahead of festival demand: officials urge caution,Positive,0.5,0,0,0,0,0,50,0.8
+Wheat,Saudi Arabia,20260628T193000Z,albayan.ae,Saudi Arabia imposes temporary restriction on Wheat exports - seasonal update,Negative,-0.5,0,0,0,1,0,20,0.6
+Cotton,Indonesia,20260420T174500Z,thehindubusinessline.com,"Private traders boost Cotton bookings destined for Indonesia, traders say",Positive,0.8,0,0,0,0,0,80,0.9
+Cotton,China,20260523T000000Z,livemint.com,China ports report normal Cotton handling volumes despite weather delays,Neutral,0.0,0,0,0,0,0,0,0.0
+Maize,Vietnam,20260419T061500Z,indianexpress.com,Latest: Exporters eye Vietnam as a growing Maize destination in Asia,Positive,0.8,0,0,0,0,0,70,0.9
+Soybean,Sri Lanka,20260503T074500Z,newsfirst.lk,Private traders boost Soybean bookings destined for Sri Lanka | Market Watch,Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,Vietnam,20260607T124500Z,hellenicshippingnews.com,Latest: Vietnam retailers raise Turmeric prices amid rising import costs,Negative,-1.0,0,0,0,1,0,20,0.6
+Soybean,Singapore,20260516T061500Z,bloomberg.com,"Singapore plans to increase Soybean imports to stabilize domestic supply, traders say",Positive,0.8,0,0,0,0,0,80,0.9
+Cotton,Germany,20260625T170000Z,reuters.com,"Germany ports report normal Cotton handling volumes despite weather delays, traders say",Neutral,0.0,0,0,0,0,0,0,0.0
+Wheat,Saudi Arabia,20260506T234500Z,thehindubusinessline.com,Shipping delays leave Saudi Arabia Wheat importers scrambling for cargo - seasonal update,Negative,-0.5,1,0,0,0,0,80,0.8
+Wheat,Japan,20260426T073000Z,bloomberg.com,Latest: Falling Wheat prices pressure farmers in Japan,Negative,-0.5,0,0,0,0,1,0,0.6
+Onion,Japan,20260507T210000Z,hellenicshippingnews.com,Japan stockpiles strategic Onion reserves ahead of festival demand - Agriculture Report,Positive,0.5,0,0,0,0,0,50,0.8
+Maize,Japan,20260614T024500Z,reuters.com,Japan agriculture ministry reviews Maize market outlook for next quarter - Agriculture Report,Neutral,0.0,0,0,0,0,0,0,0.0
+Turmeric,Bangladesh,20260417T101500Z,dailyinqilab.com,Currency weakness makes Turmeric imports costlier for Bangladesh buyers: officials urge caution,Negative,-0.5,0,0,0,1,0,20,0.6
+Soybean,Singapore,20260621T110000Z,straitstimes.com,Latest: Rainfall deficit raises concerns for Soybean planting in Singapore,Negative,-0.5,0,1,0,0,0,20,0.6
+Turmeric,Bangladesh,20260407T141500Z,livemint.com,Bangladesh faces Turmeric shortage as stocks fall to multi-year lows: officials urge caution,Negative,-0.5,1,0,0,1,0,80,0.8
+Sugar,Netherlands,20260402T123000Z,dutchnews.nl,Netherlands processors increase Sugar crushing and refining capacity - Agriculture Report,Positive,0.8,0,0,0,0,0,60,0.9
+Cotton,Singapore,20260428T200000Z,asiaone.com,"Food security alert: Cotton supplies tighten across Singapore, traders say",Negative,-0.5,1,0,0,0,0,80,0.9
+Wheat,Sri Lanka,20260629T030000Z,dailynews.lk,Quality concerns slow Wheat imports into Sri Lanka markets - seasonal update,Negative,-0.5,0,0,0,0,0,20,0.6
+Wheat,Netherlands,20260509T124500Z,nos.nl,Early forecasts point to weaker Wheat sowing in Netherlands - Agriculture Report,Negative,-0.5,0,1,0,0,0,20,0.6
+Wheat,Singapore,20260606T094500Z,straitstimes.com,Policy uncertainty hangs over Wheat contracts linked to Singapore | Market Watch,Neutral,0.0,0,0,0,0,0,20,0.3
+Cotton,Nepal,20260517T050000Z,ekantipur.com,Nepal warns of possible Cotton rationing amid supply crunch,Negative,-1.0,1,0,0,1,0,80,0.8
+Cotton,Sri Lanka,20260503T034500Z,hellenicshippingnews.com,Heatwave damages Cotton crop yields across key regions of Sri Lanka: officials urge caution,Negative,-0.5,1,1,0,0,0,20,0.6
+Turmeric,Indonesia,20260607T050000Z,hellenicshippingnews.com,Early forecasts point to weaker Turmeric sowing in Indonesia,Negative,-0.5,0,1,0,0,0,20,0.6
+Wheat,Vietnam,20260525T170000Z,finance.yahoo.com,Latest: Drought cuts Wheat harvest in Vietnam; farmers report steep losses,Negative,-0.5,0,1,0,1,0,20,0.6
+Sugar,China,20260613T004500Z,livemint.com,Government of China announces subsidy support for Sugar farmers,Neutral,0.0,0,0,0,0,0,20,0.5
+Maize,China,20260622T111500Z,economictimes.indiatimes.com,China imposes temporary restriction on Maize exports | Market Watch,Negative,-0.5,0,0,0,1,0,20,0.6
+Soybean,Japan,20260606T220000Z,livemint.com,Exporters eye Japan as a growing Soybean destination in Asia - seasonal update,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Sri Lanka,20260504T013000Z,hellenicshippingnews.com,Analysts say Sugar trade flows to Sri Lanka remain stable this month,Neutral,0.0,0,0,0,0,0,20,0.4
+Soybean,Indonesia,20260616T014500Z,reuters.com,Logistics costs for Soybean shipments to Indonesia rise on higher freight rates - seasonal update,Negative,-0.5,0,0,0,0,0,20,0.6
+Wheat,Germany,20260507T213000Z,farmer.pl,Exporters eye Germany as a growing Wheat destination in Asia: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Soybean,Germany,20260609T021500Z,indianexpress.com,Latest: Germany plans to increase Soybean imports to stabilize domestic supply,Positive,0.8,0,0,0,0,0,80,1.0
+Cotton,Sri Lanka,20260514T041500Z,thehindubusinessline.com,Government of Sri Lanka announces subsidy support for Cotton farmers - Agriculture Report,Neutral,0.0,0,0,0,0,0,20,0.4
+Soybean,Vietnam,20260520T180000Z,economictimes.indiatimes.com,Heatwave damages Soybean crop yields across key regions of Vietnam | Market Watch,Negative,-0.5,1,1,0,0,0,20,0.6
+Sugar,Vietnam,20260623T203000Z,economictimes.indiatimes.com,Private traders boost Sugar bookings destined for Vietnam,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Singapore,20260424T133000Z,hellenicshippingnews.com,Latest: Heatwave damages Sugar crop yields across key regions of Singapore,Negative,-0.5,1,1,0,0,0,20,0.6
+Wheat,Bangladesh,20260415T040000Z,bd-pratidin.com,Favorable monsoon lifts Wheat acreage and yields in Bangladesh | Market Watch,Positive,0.8,0,0,1,0,1,20,0.8
+Sugar,Germany,20260424T223000Z,livemint.com,Germany imposes temporary restriction on Sugar exports: officials urge caution,Negative,-0.5,0,0,0,1,0,20,0.6
+Cotton,Japan,20260503T060000Z,hellenicshippingnews.com,Japan retailers raise Cotton prices amid rising import costs: officials urge caution,Negative,-1.0,0,0,0,1,0,30,0.6
+Wheat,Nepal,20260603T050000Z,finance.yahoo.com,Strong retail demand for Wheat products continues in Nepal - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Germany,20260501T233000Z,reuters.com,Germany retailers raise Sugar prices amid rising import costs: officials urge caution,Negative,-1.0,0,0,0,1,0,20,0.5
+Soybean,Bangladesh,20260619T063000Z,indianexpress.com,Policy uncertainty hangs over Soybean contracts linked to Bangladesh - seasonal update,Neutral,0.0,0,0,0,0,0,20,0.3
+Wheat,Vietnam,20260606T043000Z,indianexpress.com,Policy uncertainty hangs over Wheat contracts linked to Vietnam | Market Watch,Neutral,0.0,0,0,0,0,0,20,0.3
+Cotton,Indonesia,20260620T170000Z,livemint.com,Latest: Indonesia processors increase Cotton crushing and refining capacity,Positive,0.8,0,0,0,0,0,60,0.8
+Sugar,Saudi Arabia,20260424T114500Z,finance.ifeng.com,Latest: Saudi Arabia stockpiles strategic Sugar reserves ahead of festival demand,Positive,0.5,0,0,0,0,0,50,0.8
+Cotton,Sri Lanka,20260527T123000Z,economictimes.indiatimes.com,Exporters eye Sri Lanka as a growing Cotton destination in Asia,Positive,0.8,0,0,0,0,0,80,0.9
+Cotton,China,20260618T204500Z,bloomberg.com,"China stockpiles strategic Cotton reserves ahead of festival demand, traders say",Positive,0.5,0,0,0,0,0,50,0.9
+Cotton,China,20260417T033000Z,finance.yahoo.com,Floods disrupt Cotton production and logistics in China - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.6
+Cotton,Japan,20260411T064500Z,japantimes.co.jp,Logistics costs for Cotton shipments to Japan rise on higher freight rates - seasonal update,Negative,-0.5,0,0,0,0,0,20,0.6
+Sugar,Netherlands,20260514T063000Z,thehindubusinessline.com,"Early forecasts point to weaker Sugar sowing in Netherlands, traders say",Negative,-0.5,0,1,0,0,0,20,0.6
+Wheat,Sri Lanka,20260403T090000Z,reuters.com,Latest: Sri Lanka consumers shift to cheaper substitutes as Wheat stays expensive,Negative,-0.5,0,0,0,1,0,20,0.5
+Sugar,Singapore,20260504T193000Z,todayonline.com,Heatwave damages Sugar crop yields across key regions of Singapore,Negative,-0.5,1,1,0,0,0,20,0.6
+Coffee,Saudi Arabia,20260501T230000Z,arabnews.com,Early forecasts point to weaker Coffee sowing in Saudi Arabia: officials urge caution,Negative,-0.5,0,1,0,0,0,30,0.6
+Coffee,Saudi Arabia,20260605T174500Z,indianexpress.com,Pest outbreak threatens Coffee output in Saudi Arabia this season,Negative,-0.5,0,1,0,0,0,20,0.5
+Sugar,Malaysia,20260525T083000Z,economictimes.indiatimes.com,"Malaysia plans to increase Sugar imports to stabilize domestic supply, traders say",Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,Netherlands,20260512T224500Z,economictimes.indiatimes.com,Latest: Logistics costs for Turmeric shipments to Netherlands rise on higher freight rates,Negative,-0.5,0,0,0,0,0,20,0.6
+Sugar,Bangladesh,20260608T100000Z,jugantor.com,Bangladesh retailers raise Sugar prices amid rising import costs: officials urge caution,Negative,-1.0,0,0,0,1,0,20,0.5
+Coffee,Sri Lanka,20260420T030000Z,reuters.com,"Drought cuts Coffee harvest in Sri Lanka; farmers report steep losses, traders say",Negative,-0.5,0,1,0,1,0,20,0.5
+Sugar,Bangladesh,20260508T173000Z,hellenicshippingnews.com,"Currency weakness makes Sugar imports costlier for Bangladesh buyers, traders say",Negative,-0.5,0,0,0,1,0,20,0.6
+Wheat,Vietnam,20260605T093000Z,livemint.com,Analysts say Wheat trade flows to Vietnam remain stable this month - seasonal update,Neutral,0.0,0,0,0,0,0,20,0.5
+Maize,China,20260424T034500Z,baijiahao.baidu.com,China consumers shift to cheaper substitutes as Maize stays expensive,Negative,-0.5,0,0,0,1,0,20,0.5
+Sugar,Germany,20260528T214500Z,handelsblatt.com,"New high-yield Sugar varieties boost production in Germany, traders say",Positive,0.8,0,0,1,0,0,0,0.9
+Cotton,Singapore,20260630T083000Z,channelnewsasia.com,Latest: Currency weakness makes Cotton imports costlier for Singapore buyers,Negative,-0.5,0,0,0,1,0,20,0.6
+Cotton,Singapore,20260406T044500Z,thehindubusinessline.com,Singapore reports record Cotton harvest; output rises for second year | Market Watch,Positive,0.8,0,0,1,0,0,20,0.9
+Turmeric,Singapore,20260603T094500Z,reuters.com,Singapore retailers raise Turmeric prices amid rising import costs - seasonal update,Negative,-1.0,0,0,0,1,0,20,0.5
+Wheat,Japan,20260617T063000Z,indianexpress.com,Strong retail demand for Wheat products continues in Japan: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Vietnam,20260615T191500Z,reuters.com,"Falling Coffee prices pressure farmers in Vietnam, traders say",Negative,-0.5,0,0,0,0,1,0,0.6
+Cotton,Sri Lanka,20260427T000000Z,indianexpress.com,"Currency weakness makes Cotton imports costlier for Sri Lanka buyers, traders say",Negative,-0.5,0,0,0,1,0,20,0.6
+Cotton,Malaysia,20260513T201500Z,bloomberg.com,Rainfall deficit raises concerns for Cotton planting in Malaysia - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.6
+Coffee,Singapore,20260504T200000Z,straitstimes.com,Singapore plans to increase Coffee imports to stabilize domestic supply - Agriculture Report,Positive,0.8,0,0,0,0,0,90,0.9
+Wheat,Malaysia,20260505T010000Z,livemint.com,Malaysia plans to increase Wheat imports to stabilize domestic supply | Market Watch,Positive,0.8,0,0,0,0,0,80,0.9
+Cotton,Singapore,20260406T181500Z,hellenicshippingnews.com,Singapore reports record Cotton harvest; output rises for second year - seasonal update,Positive,0.8,0,0,1,0,0,20,0.9
+Coffee,Germany,20260429T020000Z,hellenicshippingnews.com,Rainfall deficit raises concerns for Coffee planting in Germany | Market Watch,Negative,-0.5,0,1,0,0,0,20,0.6
+Coffee,Nepal,20260629T044500Z,ekantipur.com,Floods disrupt Coffee production and logistics in Nepal | Market Watch,Negative,-0.5,0,1,0,0,0,20,0.6
+Turmeric,Nepal,20260609T013000Z,economictimes.indiatimes.com,Latest: Nepal reports record Turmeric harvest; output rises for second year,Positive,0.8,0,0,1,0,0,20,0.9
+Maize,Sri Lanka,20260531T224500Z,economictimes.indiatimes.com,Logistics costs for Maize shipments to Sri Lanka rise on higher freight rates: officials urge caution,Negative,-0.5,0,0,0,0,0,20,0.6
+Wheat,Vietnam,20260630T214500Z,thehindubusinessline.com,Heatwave damages Wheat crop yields across key regions of Vietnam: officials urge caution,Negative,-0.5,1,1,0,0,0,20,0.6
+Wheat,Singapore,20260410T010000Z,livemint.com,Singapore consumers shift to cheaper substitutes as Wheat stays expensive,Negative,-0.5,0,0,0,1,0,20,0.5
+Turmeric,Bangladesh,20260512T170000Z,jugantor.com,Analysts say Turmeric trade flows to Bangladesh remain stable this month - seasonal update,Neutral,0.0,0,0,0,0,0,20,0.6
+Wheat,Germany,20260622T181500Z,reuters.com,Germany cuts import duty on Wheat to cool retail inflation - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Maize,Nepal,20260513T201500Z,bloomberg.com,Import demand for Maize surges in Nepal after domestic shortfall,Positive,0.8,1,1,0,0,0,70,1.0
+Sugar,Indonesia,20260430T071500Z,tempo.co,Latest: Indonesia retailers raise Sugar prices amid rising import costs,Negative,-1.0,0,0,0,1,0,20,0.5
+Onion,Nepal,20260406T003000Z,reuters.com,Latest: Heatwave damages Onion crop yields across key regions of Nepal,Negative,-0.5,1,1,0,0,0,10,0.6
+Cotton,Sri Lanka,20260401T023000Z,economynext.com,Falling Cotton prices pressure farmers in Sri Lanka (June 2025 briefing),Negative,-0.5,0,0,0,0,1,0,0.6
+Wheat,Vietnam,20260401T213000Z,baomoi.com,"Falling Wheat prices pressure farmers in Vietnam, traders say",Negative,-0.5,0,0,0,0,1,0,0.6
+Soybean,Saudi Arabia,20260409T160000Z,livemint.com,Latest: Quality concerns slow Soybean imports into Saudi Arabia markets,Negative,-0.5,0,0,0,0,0,30,0.6
+Maize,Vietnam,20260414T073000Z,economictimes.indiatimes.com,Vietnam ports report normal Maize handling volumes despite weather delays - Agriculture Report,Neutral,0.0,0,0,0,0,0,0,0.0
+Maize,Sri Lanka,20260522T120000Z,hellenicshippingnews.com,Latest: Sri Lanka reports record Maize harvest; output rises for second year,Positive,0.8,0,0,1,0,0,20,0.9
+Sugar,Bangladesh,20260415T163000Z,economictimes.indiatimes.com,Strong retail demand for Sugar products continues in Bangladesh - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Cotton,Singapore,20260412T224500Z,hellenicshippingnews.com,Cotton prices ease in Singapore after fresh arrivals hit markets,Positive,0.5,0,0,0,0,1,50,0.5
+Soybean,Germany,20260602T140000Z,farmer.pl,Quality concerns slow Soybean imports into Germany markets - Agriculture Report,Negative,-0.5,0,0,0,0,0,20,0.6
+Coffee,Bangladesh,20260420T223000Z,bloomberg.com,Bangladesh cuts import duty on Coffee to cool retail inflation - seasonal update,Positive,0.8,0,0,0,0,0,90,0.9
+Cotton,Netherlands,20260617T013000Z,agroberichtenbuitenland.nl,Logistics costs for Cotton shipments to Netherlands rise on higher freight rates - Agriculture Report,Negative,-0.5,0,0,0,0,0,20,0.6
+Wheat,Vietnam,20260402T040000Z,thehindubusinessline.com,Latest: Currency weakness makes Wheat imports costlier for Vietnam buyers,Negative,-0.5,0,0,0,1,0,20,0.6
+Onion,Vietnam,20260614T011500Z,reuters.com,Policy uncertainty hangs over Onion contracts linked to Vietnam: officials urge caution,Neutral,0.0,0,0,0,0,0,20,0.3
+Turmeric,Sri Lanka,20260629T134500Z,ft.lk,"Food security alert: Turmeric supplies tighten across Sri Lanka, traders say",Negative,-0.5,1,0,0,0,0,80,1.0
+Turmeric,Singapore,20260512T030000Z,livemint.com,Latest: Singapore cuts import duty on Turmeric to cool retail inflation,Positive,0.8,0,0,0,0,0,80,0.9
+Wheat,Bangladesh,20260520T151500Z,jugantor.com,"Rainfall deficit raises concerns for Wheat planting in Bangladesh, traders say",Negative,-0.5,0,1,0,0,0,10,0.6
+Turmeric,Netherlands,20260603T020000Z,finance.yahoo.com,Government of Netherlands announces subsidy support for Turmeric farmers: officials urge caution,Neutral,0.0,0,0,0,0,0,20,0.5
+Cotton,Germany,20260424T173000Z,farmer.pl,Latest: Quality concerns slow Cotton imports into Germany markets,Negative,-0.5,0,0,0,0,0,20,0.6
+Onion,Vietnam,20260418T011500Z,vietnamnews.vn,Import demand for Onion surges in Vietnam after domestic shortfall - Agriculture Report,Positive,0.8,1,1,0,0,0,80,0.9
+Sugar,Vietnam,20260521T050000Z,indianexpress.com,Vietnam faces Sugar shortage as stocks fall to multi-year lows | Market Watch,Negative,-0.5,1,0,0,1,0,80,0.8
+Maize,Netherlands,20260612T190000Z,indianexpress.com,Netherlands ports report normal Maize handling volumes despite weather delays | Market Watch,Neutral,0.0,0,0,0,0,0,0,0.0
+Onion,Sri Lanka,20260512T161500Z,newsfirst.lk,Pest outbreak threatens Onion output in Sri Lanka this season - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.5
+Wheat,Netherlands,20260406T090000Z,reuters.com,Latest: Policy uncertainty hangs over Wheat contracts linked to Netherlands,Neutral,0.0,0,0,0,0,0,20,0.4
+Maize,Netherlands,20260605T104500Z,livemint.com,Favorable monsoon lifts Maize acreage and yields in Netherlands - Agriculture Report,Positive,0.8,0,0,1,0,1,20,0.8
+Sugar,Sri Lanka,20260516T191500Z,thehindubusinessline.com,Sri Lanka faces Sugar shortage as stocks fall to multi-year lows,Negative,-0.5,1,0,0,1,0,70,0.8
+Wheat,Vietnam,20260603T154500Z,economictimes.indiatimes.com,"Vietnam warns of possible Wheat rationing amid supply crunch, traders say",Negative,-1.0,1,0,0,1,0,80,0.8
+Coffee,Netherlands,20260412T140000Z,bloomberg.com,Government of Netherlands announces subsidy support for Coffee farmers - Agriculture Report,Neutral,0.0,0,0,0,0,0,20,0.5
+Soybean,Vietnam,20260405T110000Z,economictimes.indiatimes.com,Falling Soybean prices pressure farmers in Vietnam - seasonal update,Negative,-0.5,0,0,0,0,1,0,0.6
+Sugar,Singapore,20260524T164500Z,reuters.com,Singapore cuts import duty on Sugar to cool retail inflation - seasonal update,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Netherlands,20260516T010000Z,thehindubusinessline.com,Policy uncertainty hangs over Sugar contracts linked to Netherlands - seasonal update,Neutral,0.0,0,0,0,0,0,20,0.3
+Cotton,Japan,20260424T190000Z,asahi.com,Latest: Japan retailers raise Cotton prices amid rising import costs,Negative,-1.0,0,0,0,1,0,20,0.5
+Sugar,Singapore,20260621T121500Z,livemint.com,"Falling Sugar prices pressure farmers in Singapore, traders say",Negative,-0.5,0,0,0,0,1,0,0.6
+Onion,Indonesia,20260610T143000Z,bisnis.com,Indonesia faces Onion shortage as stocks fall to multi-year lows - seasonal update,Negative,-0.5,1,0,0,1,0,80,0.8
+Sugar,Japan,20260609T021500Z,hea.china.com,Japan plans to increase Sugar imports to stabilize domestic supply: officials urge caution,Positive,0.8,0,0,0,0,0,70,0.9
+Sugar,China,20260612T143000Z,finance.sina.com.cn,Early forecasts point to weaker Sugar sowing in China: officials urge caution,Negative,-0.5,0,1,0,0,0,20,0.6
+Cotton,Japan,20260423T233000Z,hea.china.com,Logistics costs for Cotton shipments to Japan rise on higher freight rates,Negative,-0.5,0,0,0,0,0,10,0.6
+Coffee,Germany,20260514T230000Z,reuters.com,Latest: Logistics costs for Coffee shipments to Germany rise on higher freight rates,Negative,-0.5,0,0,0,0,0,20,0.6
+Coffee,Indonesia,20260516T054500Z,thehindubusinessline.com,Indonesia reports record Coffee harvest; output rises for second year (June 2025 briefing),Positive,0.8,0,0,1,0,0,20,0.9
+Wheat,Japan,20260412T151500Z,nikkei.com,Wheat prices ease in Japan after fresh arrivals hit markets: officials urge caution,Positive,0.5,0,0,0,0,1,50,0.5
+Sugar,Bangladesh,20260409T203000Z,livemint.com,Bangladesh warns of possible Sugar rationing amid supply crunch | Market Watch,Negative,-1.0,1,0,0,1,0,80,0.8
+Coffee,Germany,20260417T210000Z,merkur.de,Bilateral talks focus on expanding Coffee trade with Germany,Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,Nepal,20260618T010000Z,myrepublica.nagariknetwork.com,Latest: Private traders boost Turmeric bookings destined for Nepal,Positive,0.8,0,0,0,0,0,70,0.9
+Sugar,Vietnam,20260509T211500Z,thehindubusinessline.com,Falling Sugar prices pressure farmers in Vietnam | Market Watch,Negative,-0.5,0,0,0,0,1,0,0.6
+Soybean,China,20260408T063000Z,finance.eastmoney.com,"Heatwave damages Soybean crop yields across key regions of China, traders say",Negative,-0.5,1,1,0,0,0,20,0.6
+Turmeric,Netherlands,20260620T123000Z,indianexpress.com,Strong retail demand for Turmeric products continues in Netherlands - seasonal update,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Vietnam,20260619T183000Z,livemint.com,Vietnam processors increase Coffee crushing and refining capacity,Positive,0.8,0,0,0,0,0,60,0.8
+Wheat,Vietnam,20260427T164500Z,saigontimes.vn,Quality concerns slow Wheat imports into Vietnam markets | Market Watch,Negative,-0.5,0,0,0,0,0,20,0.6
+Wheat,Vietnam,20260524T110000Z,reuters.com,Latest: Vietnam plans to increase Wheat imports to stabilize domestic supply,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Germany,20260522T010000Z,dw.com,Germany reports record Sugar harvest; output rises for second year: officials urge caution,Positive,0.8,0,0,1,0,0,20,0.9
+Cotton,Saudi Arabia,20260523T204500Z,indianexpress.com,Food security alert: Cotton supplies tighten across Saudi Arabia: officials urge caution,Negative,-0.5,1,0,0,0,0,80,0.9
+Wheat,China,20260501T230000Z,hellenicshippingnews.com,Bilateral talks focus on expanding Wheat trade with China - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Nepal,20260505T164500Z,finance.yahoo.com,Trade deal may ease Coffee tariffs for shipments into Nepal,Positive,0.8,0,0,0,0,0,80,0.8
+Turmeric,Indonesia,20260619T060000Z,indianexpress.com,Floods disrupt Turmeric production and logistics in Indonesia | Market Watch,Negative,-0.5,0,1,0,0,0,20,0.6
+Onion,Vietnam,20260617T100000Z,economictimes.indiatimes.com,"Falling Onion prices pressure farmers in Vietnam, traders say",Negative,-0.5,0,0,0,0,1,0,0.6
+Coffee,Saudi Arabia,20260611T154500Z,livemint.com,Coffee prices jump in Saudi Arabia as wholesale markets tighten | Market Watch,Negative,-0.5,0,0,0,1,0,50,0.6
+Coffee,Japan,20260419T063000Z,indianexpress.com,"Analysts say Coffee trade flows to Japan remain stable this month, traders say",Neutral,0.0,0,0,0,0,0,20,0.5
+Onion,Japan,20260529T094500Z,mainichi.jp,Japan imposes temporary restriction on Onion exports | Market Watch,Negative,-0.5,0,0,0,1,0,10,0.6
+Sugar,Singapore,20260420T131500Z,indianexpress.com,"Singapore agriculture ministry reviews Sugar market outlook for next quarter, traders say",Neutral,0.0,0,0,0,0,0,0,0.0
+Sugar,Sri Lanka,20260622T041500Z,bloomberg.com,Government of Sri Lanka announces subsidy support for Sugar farmers,Neutral,0.0,0,0,0,0,0,20,0.4
+Maize,Indonesia,20260604T064500Z,economictimes.indiatimes.com,Latest: Indonesia ports report normal Maize handling volumes despite weather delays,Neutral,0.0,0,0,0,0,0,0,0.0
+Cotton,Germany,20260513T094500Z,indianexpress.com,Government of Germany announces subsidy support for Cotton farmers | Market Watch,Neutral,0.0,0,0,0,0,0,20,0.5
+Cotton,Singapore,20260626T084500Z,hellenicshippingnews.com,Government of Singapore announces subsidy support for Cotton farmers | Market Watch,Neutral,0.0,0,0,0,0,0,20,0.5
+Maize,Netherlands,20260606T201500Z,reuters.com,Netherlands consumers shift to cheaper substitutes as Maize stays expensive - seasonal update,Negative,-0.5,0,0,0,1,0,20,0.5
+Sugar,Sri Lanka,20260526T021500Z,ft.lk,Policy uncertainty hangs over Sugar contracts linked to Sri Lanka: officials urge caution,Neutral,0.0,0,0,0,0,0,20,0.3
+Sugar,Germany,20260630T223000Z,reuters.com,Latest: Falling Sugar prices pressure farmers in Germany,Negative,-0.5,0,0,0,0,1,0,0.6
+Sugar,Sri Lanka,20260625T224500Z,dailynews.lk,Sri Lanka plans to increase Sugar imports to stabilize domestic supply - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Maize,Bangladesh,20260402T023000Z,bssnews.net,Bangladesh agriculture ministry reviews Maize market outlook for next quarter: officials urge caution,Neutral,0.0,0,0,0,0,0,0,0.0
+Coffee,Sri Lanka,20260405T160000Z,economictimes.indiatimes.com,Analysts say Coffee trade flows to Sri Lanka remain stable this month - Agriculture Report,Neutral,0.0,0,0,0,0,0,20,0.5
+Wheat,Singapore,20260524T001500Z,economictimes.indiatimes.com,Favorable monsoon lifts Wheat acreage and yields in Singapore: officials urge caution,Positive,0.8,0,0,1,0,1,20,0.8
+Sugar,Singapore,20260514T193000Z,straitstimes.com,Latest: Policy uncertainty hangs over Sugar contracts linked to Singapore,Neutral,0.0,0,0,0,0,0,20,0.3
+Maize,Vietnam,20260504T041500Z,tuoitre.vn,Food security alert: Maize supplies tighten across Vietnam - Agriculture Report,Negative,-0.5,1,0,0,0,0,80,0.9
+Onion,Netherlands,20260503T191500Z,hellenicshippingnews.com,"Drought cuts Onion harvest in Netherlands; farmers report steep losses, traders say",Negative,-0.5,0,1,0,1,0,20,0.6
+Turmeric,Nepal,20260626T091500Z,reuters.com,Food security alert: Turmeric supplies tighten across Nepal: officials urge caution,Negative,-0.5,1,0,0,0,0,80,0.9
+Sugar,Vietnam,20260629T203000Z,livemint.com,Sugar prices ease in Vietnam after fresh arrivals hit markets | Market Watch,Positive,0.5,0,0,0,0,1,50,0.5
+Cotton,Bangladesh,20260621T130000Z,reuters.com,Bangladesh imposes temporary restriction on Cotton exports | Market Watch,Negative,-0.5,0,0,0,1,0,20,0.7
+Sugar,Germany,20260529T063000Z,reuters.com,Quality concerns slow Sugar imports into Germany markets,Negative,-0.5,0,0,0,0,0,20,0.6
+Coffee,Vietnam,20260430T223000Z,indianexpress.com,Latest: Favorable monsoon lifts Coffee acreage and yields in Vietnam,Positive,0.8,0,0,1,0,1,10,0.8
+Wheat,Singapore,20260507T003000Z,economictimes.indiatimes.com,Singapore opens new tender for Wheat purchases from global suppliers,Positive,0.8,0,0,0,0,0,80,0.9
+Wheat,Singapore,20260427T014500Z,hellenicshippingnews.com,Singapore opens new tender for Wheat purchases from global suppliers: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Sri Lanka,20260511T043000Z,indianexpress.com,Floods disrupt Sugar production and logistics in Sri Lanka,Negative,-0.5,0,1,0,0,0,20,0.6
+Cotton,Japan,20260606T164500Z,reuters.com,Exporters eye Japan as a growing Cotton destination in Asia - seasonal update,Positive,0.8,0,0,0,0,0,80,0.9
+Cotton,Netherlands,20260404T084500Z,bloomberg.com,Netherlands imposes temporary restriction on Cotton exports,Negative,-0.5,0,0,0,1,0,20,0.6
+Cotton,Japan,20260417T184500Z,asahi.com,Policy uncertainty hangs over Cotton contracts linked to Japan (June 2025 briefing),Neutral,0.0,0,0,0,0,0,20,0.3
+Turmeric,Saudi Arabia,20260513T063000Z,northafricapost.com,Saudi Arabia reports record Turmeric harvest; output rises for second year,Positive,0.8,0,0,1,0,0,20,0.9
+Turmeric,Bangladesh,20260407T120000Z,bd-pratidin.com,Bangladesh opens new tender for Turmeric purchases from global suppliers - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Wheat,Singapore,20260624T191500Z,asiaone.com,Government of Singapore announces subsidy support for Wheat farmers - seasonal update,Neutral,0.0,0,0,0,0,0,20,0.5
+Maize,Bangladesh,20260415T091500Z,hellenicshippingnews.com,Early forecasts point to weaker Maize sowing in Bangladesh - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.6
+Cotton,Sri Lanka,20260428T183000Z,bloomberg.com,Floods disrupt Cotton production and logistics in Sri Lanka,Negative,-0.5,0,1,0,0,0,20,0.6
+Onion,Nepal,20260516T221500Z,ekantipur.com,Nepal opens new tender for Onion purchases from global suppliers: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Singapore,20260607T010000Z,businesstimes.com.sg,Logistics costs for Sugar shipments to Singapore rise on higher freight rates,Negative,-0.5,0,0,0,0,0,20,0.6
+Sugar,Singapore,20260621T194500Z,reuters.com,Trade deal may ease Sugar tariffs for shipments into Singapore - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Maize,Bangladesh,20260612T050000Z,reuters.com,Falling Maize prices pressure farmers in Bangladesh | Market Watch,Negative,-0.5,0,0,0,0,1,0,0.6
+Maize,Germany,20260421T123000Z,economictimes.indiatimes.com,"Germany stockpiles strategic Maize reserves ahead of festival demand, traders say",Positive,0.5,0,0,0,0,0,50,0.8
+Soybean,Sri Lanka,20260406T104500Z,bloomberg.com,Sri Lanka ports report normal Soybean handling volumes despite weather delays - seasonal update,Neutral,0.0,0,0,0,0,0,0,0.0
+Maize,Vietnam,20260625T084500Z,hellenicshippingnews.com,Bilateral talks focus on expanding Maize trade with Vietnam: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Netherlands,20260629T030000Z,thehindubusinessline.com,Netherlands retailers raise Sugar prices amid rising import costs - seasonal update,Negative,-1.0,0,0,0,1,0,20,0.4
+Soybean,Germany,20260606T031500Z,merkur.de,"Germany processors increase Soybean crushing and refining capacity, traders say",Positive,0.8,0,0,0,0,0,60,0.8
+Coffee,Singapore,20260524T123000Z,thehindubusinessline.com,Strong retail demand for Coffee products continues in Singapore | Market Watch,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Saudi Arabia,20260508T124500Z,albayan.ae,Latest: Saudi Arabia opens new tender for Coffee purchases from global suppliers,Positive,0.8,0,0,0,0,0,70,0.9
+Sugar,Japan,20260421T013000Z,hea.china.com,Sugar prices ease in Japan after fresh arrivals hit markets - seasonal update,Positive,0.5,0,0,0,0,1,50,0.5
+Cotton,Japan,20260529T084500Z,indianexpress.com,Japan faces Cotton shortage as stocks fall to multi-year lows: officials urge caution,Negative,-0.5,1,0,0,1,0,80,0.8
+Sugar,Netherlands,20260512T033000Z,economictimes.indiatimes.com,Latest: Netherlands imposes temporary restriction on Sugar exports,Negative,-0.5,0,0,0,1,0,20,0.6
+Maize,Singapore,20260531T130000Z,economictimes.indiatimes.com,Maize prices ease in Singapore after fresh arrivals hit markets: officials urge caution,Positive,0.5,0,0,0,0,1,50,0.5
+Cotton,Vietnam,20260602T201500Z,hellenicshippingnews.com,"Vietnam ports report normal Cotton handling volumes despite weather delays, traders say",Neutral,0.0,0,0,0,0,0,0,0.0
+Cotton,Germany,20260623T151500Z,reuters.com,Floods disrupt Cotton production and logistics in Germany: officials urge caution,Negative,-0.5,0,1,0,0,0,20,0.7
+Coffee,Sri Lanka,20260627T081500Z,ft.lk,Sri Lanka imposes temporary restriction on Coffee exports | Market Watch,Negative,-0.5,0,0,0,1,0,20,0.6
+Maize,Saudi Arabia,20260403T111500Z,finance.yahoo.com,Latest: Logistics costs for Maize shipments to Saudi Arabia rise on higher freight rates,Negative,-0.5,0,0,0,0,0,20,0.6
+Wheat,Germany,20260504T073000Z,livemint.com,Germany stockpiles strategic Wheat reserves ahead of festival demand: officials urge caution,Positive,0.5,0,0,0,0,0,40,0.8
+Soybean,Bangladesh,20260417T120000Z,finance.yahoo.com,Latest: Shipping delays leave Bangladesh Soybean importers scrambling for cargo,Negative,-0.5,1,0,0,0,0,80,0.8
+Onion,Netherlands,20260618T113000Z,bloomberg.com,Floods disrupt Onion production and logistics in Netherlands: officials urge caution,Negative,-0.5,0,1,0,0,0,20,0.6
+Soybean,Netherlands,20260409T160000Z,agroberichtenbuitenland.nl,Latest: Netherlands agriculture ministry reviews Soybean market outlook for next quarter,Neutral,0.0,0,0,0,0,0,0,0.0
+Coffee,Sri Lanka,20260426T070000Z,hellenicshippingnews.com,Sri Lanka imposes temporary restriction on Coffee exports: officials urge caution,Negative,-0.5,0,0,0,1,0,20,0.6
+Coffee,Nepal,20260531T060000Z,kathmandupost.com,Shipping delays leave Nepal Coffee importers scrambling for cargo,Negative,-0.5,1,0,0,0,0,80,0.8
+Wheat,Netherlands,20260511T023000Z,dutchnews.nl,Pest outbreak threatens Wheat output in Netherlands this season - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.5
+Onion,Vietnam,20260628T003000Z,reuters.com,Vietnam retailers raise Onion prices amid rising import costs - Agriculture Report,Negative,-1.0,0,0,0,1,0,20,0.5
+Sugar,Nepal,20260418T040000Z,economictimes.indiatimes.com,Sugar prices jump in Nepal as wholesale markets tighten - seasonal update,Negative,-0.5,0,0,0,1,0,50,0.7
+Cotton,Vietnam,20260409T130000Z,tuoitre.vn,Trade deal may ease Cotton tariffs for shipments into Vietnam (April 2025 briefing),Positive,0.8,0,0,0,0,0,80,0.8
+Cotton,Bangladesh,20260404T154500Z,bloomberg.com,Logistics costs for Cotton shipments to Bangladesh rise on higher freight rates: officials urge caution,Negative,-0.5,0,0,0,0,0,20,0.6
+Coffee,Germany,20260402T173000Z,finance.yahoo.com,Germany faces Coffee shortage as stocks fall to multi-year lows - Agriculture Report,Negative,-0.5,1,0,0,1,0,80,0.8
+Sugar,Sri Lanka,20260501T070000Z,island.lk,Latest: Falling Sugar prices pressure farmers in Sri Lanka,Negative,-0.5,0,0,0,0,1,0,0.6
+Sugar,Japan,20260429T053000Z,reuters.com,Japan imposes temporary restriction on Sugar exports | Market Watch,Negative,-0.5,0,0,0,1,0,20,0.5
+Soybean,Japan,20260626T050000Z,finance.yahoo.com,Japan agriculture ministry reviews Soybean market outlook for next quarter: officials urge caution,Neutral,0.0,0,0,0,0,0,0,0.0
+Turmeric,Germany,20260628T010000Z,indianexpress.com,Currency weakness makes Turmeric imports costlier for Germany buyers - Agriculture Report,Negative,-0.5,0,0,0,1,0,20,0.6
+Wheat,Netherlands,20260417T094500Z,nos.nl,Netherlands reports record Wheat harvest; output rises for second year | Market Watch,Positive,0.8,0,0,1,0,0,20,0.9
+Wheat,Bangladesh,20260522T220000Z,hellenicshippingnews.com,Bangladesh warns of possible Wheat rationing amid supply crunch: officials urge caution,Negative,-1.0,1,0,0,1,0,80,0.8
+Sugar,Malaysia,20260511T110000Z,reuters.com,Latest: Floods disrupt Sugar production and logistics in Malaysia,Negative,-0.5,0,1,0,0,0,10,0.6
+Wheat,Japan,20260601T043000Z,japantimes.co.jp,Latest: Shipping delays leave Japan Wheat importers scrambling for cargo,Negative,-0.5,1,0,0,0,0,80,0.8
+Coffee,Bangladesh,20260511T154500Z,bd-pratidin.com,Early forecasts point to weaker Coffee sowing in Bangladesh - Agriculture Report,Negative,-0.5,0,1,0,0,0,20,0.6
+Wheat,Bangladesh,20260530T030000Z,jugantor.com,Bangladesh cuts import duty on Wheat to cool retail inflation,Positive,0.8,0,0,0,0,0,80,0.9
+Maize,Saudi Arabia,20260404T194500Z,bloomberg.com,Saudi Arabia retailers raise Maize prices amid rising import costs - Agriculture Report,Negative,-1.0,0,0,0,1,0,20,0.5
+Wheat,Netherlands,20260628T010000Z,nos.nl,Shipping delays leave Netherlands Wheat importers scrambling for cargo - Agriculture Report,Negative,-0.5,1,0,0,0,0,70,0.8
+Maize,Bangladesh,20260408T064500Z,livemint.com,New high-yield Maize varieties boost production in Bangladesh,Positive,0.8,0,0,1,0,0,0,0.9
+Soybean,China,20260429T174500Z,baijiahao.baidu.com,Falling Soybean prices pressure farmers in China: officials urge caution,Negative,-0.5,0,0,0,0,1,0,0.6
+Wheat,Vietnam,20260605T164500Z,thehindubusinessline.com,Wheat prices jump in Vietnam as wholesale markets tighten - seasonal update,Negative,-0.5,0,0,0,1,0,50,0.7
+Wheat,Vietnam,20260417T131500Z,thehindubusinessline.com,Vietnam warns of possible Wheat rationing amid supply crunch,Negative,-1.0,1,0,0,1,0,80,0.8
+Coffee,Singapore,20260509T214500Z,economictimes.indiatimes.com,Latest: Trade deal may ease Coffee tariffs for shipments into Singapore,Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,Germany,20260602T234500Z,indianexpress.com,Latest: Exporters eye Germany as a growing Turmeric destination in Asia,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Vietnam,20260528T083000Z,reuters.com,Import demand for Sugar surges in Vietnam after domestic shortfall - seasonal update,Positive,0.8,1,1,0,0,0,80,0.9
+Maize,Bangladesh,20260403T190000Z,finance.yahoo.com,"Maize prices jump in Bangladesh as wholesale markets tighten, traders say",Negative,-0.5,0,0,0,1,0,50,0.6
+Onion,Sri Lanka,20260510T221500Z,reuters.com,Sri Lanka reports record Onion harvest; output rises for second year: officials urge caution,Positive,0.8,0,0,1,0,0,20,0.9
+Sugar,Netherlands,20260614T121500Z,livemint.com,Government of Netherlands announces subsidy support for Sugar farmers,Neutral,0.0,0,0,0,0,0,20,0.5
+Cotton,Japan,20260521T184500Z,livemint.com,"Japan agriculture ministry reviews Cotton market outlook for next quarter, traders say",Neutral,0.0,0,0,0,0,0,0,0.0
+Soybean,Vietnam,20260508T084500Z,tuoitre.vn,Vietnam plans to increase Soybean imports to stabilize domestic supply: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Maize,Japan,20260622T094500Z,reuters.com,Import demand for Maize surges in Japan after domestic shortfall,Positive,0.8,1,1,0,0,0,80,0.9
+Maize,Nepal,20260428T000000Z,ekantipur.com,Drought cuts Maize harvest in Nepal; farmers report steep losses - seasonal update,Negative,-0.5,0,1,0,1,0,20,0.6
+Wheat,Japan,20260617T190000Z,hellenicshippingnews.com,Exporters eye Japan as a growing Wheat destination in Asia: officials urge caution,Positive,0.8,0,0,0,0,0,90,0.9
+Wheat,Nepal,20260511T004500Z,ekantipur.com,Strong retail demand for Wheat products continues in Nepal (April 2026 briefing),Positive,0.8,0,0,0,0,0,90,0.9
+Cotton,Vietnam,20260430T134500Z,bloomberg.com,Heatwave damages Cotton crop yields across key regions of Vietnam - seasonal update,Negative,-0.5,1,1,0,0,0,20,0.6
+Cotton,Bangladesh,20260621T231500Z,reuters.com,Bangladesh processors increase Cotton crushing and refining capacity - Agriculture Report,Positive,0.8,0,0,0,0,0,50,0.8
+Coffee,Sri Lanka,20260412T013000Z,dailynews.lk,Latest: Shipping delays leave Sri Lanka Coffee importers scrambling for cargo,Negative,-0.5,1,0,0,0,0,80,0.8
+Soybean,Netherlands,20260620T134500Z,finance.yahoo.com,Netherlands agriculture ministry reviews Soybean market outlook for next quarter - Agriculture Report,Neutral,0.0,0,0,0,0,0,0,0.0
+Turmeric,Germany,20260518T191500Z,handelsblatt.com,Early forecasts point to weaker Turmeric sowing in Germany - Agriculture Report,Negative,-0.5,0,1,0,0,0,10,0.6
+Maize,Sri Lanka,20260412T171500Z,economictimes.indiatimes.com,Sri Lanka stockpiles strategic Maize reserves ahead of festival demand,Positive,0.5,0,0,0,0,0,50,0.8
+Coffee,Saudi Arabia,20260405T121500Z,finance.yahoo.com,Latest: Saudi Arabia retailers raise Coffee prices amid rising import costs,Negative,-1.0,0,0,0,1,0,20,0.5
+Maize,Japan,20260414T013000Z,reuters.com,Strong retail demand for Maize products continues in Japan: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Sri Lanka,20260520T083000Z,indianexpress.com,Private traders boost Sugar bookings destined for Sri Lanka: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Onion,Netherlands,20260508T143000Z,finance.yahoo.com,Netherlands consumers shift to cheaper substitutes as Onion stays expensive | Market Watch,Negative,-0.5,0,0,0,1,0,20,0.5
+Cotton,Nepal,20260607T053000Z,thehimalayantimes.com,Bilateral talks focus on expanding Cotton trade with Nepal: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Indonesia,20260529T114500Z,livemint.com,Indonesia cuts import duty on Coffee to cool retail inflation: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Onion,Japan,20260524T174500Z,finance.yahoo.com,Private traders boost Onion bookings destined for Japan - seasonal update,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Netherlands,20260608T231500Z,finance.yahoo.com,Latest: Netherlands cuts import duty on Coffee to cool retail inflation,Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,Netherlands,20260613T203000Z,thehindubusinessline.com,Latest: Rainfall deficit raises concerns for Turmeric planting in Netherlands,Negative,-0.5,0,1,0,0,0,20,0.6
+Cotton,Japan,20260428T181500Z,economictimes.indiatimes.com,Latest: Japan stockpiles strategic Cotton reserves ahead of festival demand,Positive,0.5,0,0,0,0,0,50,0.8
+Maize,Japan,20260420T094500Z,hea.china.com,Food security alert: Maize supplies tighten across Japan: officials urge caution,Negative,-0.5,1,0,0,0,0,80,0.9
+Soybean,Netherlands,20260607T010000Z,indianexpress.com,Latest: Netherlands cuts import duty on Soybean to cool retail inflation,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Sri Lanka,20260624T063000Z,finance.yahoo.com,Sri Lanka warns of possible Coffee rationing amid supply crunch - Agriculture Report,Negative,-1.0,1,0,0,1,0,80,0.8
+Soybean,Nepal,20260617T131500Z,indianexpress.com,Private traders boost Soybean bookings destined for Nepal: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Bangladesh,20260606T123000Z,thehindubusinessline.com,Exporters eye Bangladesh as a growing Coffee destination in Asia: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,Vietnam,20260624T113000Z,reuters.com,Vietnam opens new tender for Turmeric purchases from global suppliers | Market Watch,Positive,0.8,0,0,0,0,0,80,0.9
+Maize,China,20260528T030000Z,bloomberg.com,China ports report normal Maize handling volumes despite weather delays - seasonal update,Neutral,0.0,0,0,0,0,0,0,0.0
+Soybean,Netherlands,20260408T053000Z,foodnavigator.com,Netherlands retailers raise Soybean prices amid rising import costs - Agriculture Report,Negative,-1.0,0,0,0,1,0,20,0.5
+Turmeric,Sri Lanka,20260413T150000Z,island.lk,Pest outbreak threatens Turmeric output in Sri Lanka this season: officials urge caution,Negative,-0.5,0,1,0,0,0,20,0.6
+Cotton,Netherlands,20260608T213000Z,foodnavigator.com,Netherlands agriculture ministry reviews Cotton market outlook for next quarter: officials urge caution,Neutral,0.0,0,0,0,0,0,0,0.0
+Sugar,China,20260604T061500Z,baijiahao.baidu.com,Import demand for Sugar surges in China after domestic shortfall - seasonal update,Positive,0.8,1,1,0,0,0,80,0.9
+Wheat,Japan,20260422T083000Z,asahi.com,Analysts say Wheat trade flows to Japan remain stable this month,Neutral,0.0,0,0,0,0,0,20,0.5
+Wheat,Saudi Arabia,20260504T220000Z,northafricapost.com,Favorable monsoon lifts Wheat acreage and yields in Saudi Arabia: officials urge caution,Positive,0.8,0,0,1,0,1,20,0.8
+Onion,Bangladesh,20260429T120000Z,jugantor.com,Bangladesh agriculture ministry reviews Onion market outlook for next quarter - Agriculture Report,Neutral,0.0,0,0,0,0,0,0,0.0
+Turmeric,Bangladesh,20260401T203000Z,bd-pratidin.com,"Shipping delays leave Bangladesh Turmeric importers scrambling for cargo, traders say",Negative,-0.5,1,0,0,0,0,80,0.8
+Soybean,Singapore,20260628T221500Z,indianexpress.com,Singapore plans to increase Soybean imports to stabilize domestic supply,Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,Singapore,20260619T193000Z,indianexpress.com,Latest: Rainfall deficit raises concerns for Turmeric planting in Singapore,Negative,-0.5,0,1,0,0,0,20,0.6
+Wheat,Saudi Arabia,20260408T234500Z,arabnews.com,Strong retail demand for Wheat products continues in Saudi Arabia: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.8
+Sugar,Indonesia,20260601T024500Z,indianexpress.com,"Rainfall deficit raises concerns for Sugar planting in Indonesia, traders say",Negative,-0.5,0,1,0,0,0,20,0.5
+Coffee,Bangladesh,20260611T233000Z,indianexpress.com,Floods disrupt Coffee production and logistics in Bangladesh | Market Watch,Negative,-0.5,0,1,0,0,0,20,0.6
+Wheat,Saudi Arabia,20260404T161500Z,arabnews.com,Latest: Drought cuts Wheat harvest in Saudi Arabia; farmers report steep losses,Negative,-0.5,0,1,0,1,0,30,0.6
+Sugar,Netherlands,20260510T134500Z,economictimes.indiatimes.com,"Netherlands opens new tender for Sugar purchases from global suppliers, traders say",Positive,0.8,0,0,0,0,0,80,0.8
+Wheat,Singapore,20260401T133000Z,finance.yahoo.com,Government of Singapore announces subsidy support for Wheat farmers,Neutral,0.0,0,0,0,0,0,20,0.5
+Soybean,Vietnam,20260429T031500Z,indianexpress.com,Vietnam consumers shift to cheaper substitutes as Soybean stays expensive,Negative,-0.5,0,0,0,1,0,10,0.5
+Soybean,Bangladesh,20260619T193000Z,finance.yahoo.com,Bangladesh cuts import duty on Soybean to cool retail inflation - seasonal update,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Netherlands,20260617T083000Z,indianexpress.com,Falling Sugar prices pressure farmers in Netherlands | Market Watch,Negative,-0.5,0,0,0,0,1,0,0.6
+Maize,Germany,20260628T180000Z,indianexpress.com,New high-yield Maize varieties boost production in Germany - Agriculture Report,Positive,0.8,0,0,1,0,0,0,0.9
+Maize,Bangladesh,20260405T011500Z,thedailystar.net,"Bangladesh faces Maize shortage as stocks fall to multi-year lows, traders say",Negative,-0.5,1,0,0,1,0,80,0.8
+Cotton,Singapore,20260627T171500Z,livemint.com,Private traders boost Cotton bookings destined for Singapore,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Singapore,20260621T010000Z,todayonline.com,Bilateral talks focus on expanding Coffee trade with Singapore | Market Watch,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Netherlands,20260408T021500Z,reuters.com,Policy uncertainty hangs over Coffee contracts linked to Netherlands - seasonal update,Neutral,0.0,0,0,0,0,0,20,0.4
+Soybean,Netherlands,20260505T160000Z,foodnavigator.com,Latest: Netherlands retailers raise Soybean prices amid rising import costs,Negative,-1.0,0,0,0,1,0,20,0.5
+Soybean,Netherlands,20260514T180000Z,thehindubusinessline.com,"Netherlands cuts import duty on Soybean to cool retail inflation, traders say",Positive,0.8,0,0,0,0,0,80,0.8
+Cotton,Germany,20260501T170000Z,economictimes.indiatimes.com,Germany consumers shift to cheaper substitutes as Cotton stays expensive | Market Watch,Negative,-0.5,0,0,0,1,0,20,0.5
+Sugar,Germany,20260505T213000Z,handelsblatt.com,Falling Sugar prices pressure farmers in Germany (June 2026 briefing),Negative,-0.5,0,0,0,0,1,0,0.6
+Soybean,Germany,20260518T063000Z,bloomberg.com,Shipping delays leave Germany Soybean importers scrambling for cargo: officials urge caution,Negative,-0.5,1,0,0,0,0,80,0.8
+Sugar,Bangladesh,20260626T124500Z,bloomberg.com,Heatwave damages Sugar crop yields across key regions of Bangladesh - seasonal update,Negative,-0.5,1,1,0,0,0,20,0.6
+Coffee,Sri Lanka,20260601T074500Z,ft.lk,Latest: Drought cuts Coffee harvest in Sri Lanka; farmers report steep losses,Negative,-0.5,0,1,0,1,0,20,0.5
+Maize,Japan,20260523T181500Z,bloomberg.com,Japan consumers shift to cheaper substitutes as Maize stays expensive | Market Watch,Negative,-0.5,0,0,0,1,0,20,0.5
+Wheat,Saudi Arabia,20260422T161500Z,indianexpress.com,Saudi Arabia ports report normal Wheat handling volumes despite weather delays: officials urge caution,Neutral,0.0,0,0,0,0,0,0,0.0
+Cotton,Nepal,20260519T180000Z,ekantipur.com,Nepal reports record Cotton harvest; output rises for second year: officials urge caution,Positive,0.8,0,0,1,0,0,30,0.9
+Soybean,Saudi Arabia,20260418T091500Z,hellenicshippingnews.com,Favorable monsoon lifts Soybean acreage and yields in Saudi Arabia - seasonal update,Positive,0.8,0,0,1,0,1,20,0.8
+Turmeric,Bangladesh,20260505T200000Z,thedailystar.net,Latest: New high-yield Turmeric varieties boost production in Bangladesh,Positive,0.8,0,0,1,0,0,0,0.9
+Coffee,Singapore,20260521T064500Z,indianexpress.com,Drought cuts Coffee harvest in Singapore; farmers report steep losses - Agriculture Report,Negative,-0.5,0,1,0,1,0,10,0.6
+Coffee,Singapore,20260521T144500Z,finance.yahoo.com,Singapore processors increase Coffee crushing and refining capacity,Positive,0.8,0,0,0,0,0,60,0.9
+Maize,Saudi Arabia,20260603T110000Z,economictimes.indiatimes.com,"Saudi Arabia opens new tender for Maize purchases from global suppliers, traders say",Positive,0.8,0,0,0,0,0,80,0.9
+Wheat,Bangladesh,20260422T151500Z,bloomberg.com,"Drought cuts Wheat harvest in Bangladesh; farmers report steep losses, traders say",Negative,-0.5,0,1,0,1,0,20,0.6
+Wheat,Saudi Arabia,20260401T151500Z,bloomberg.com,Analysts say Wheat trade flows to Saudi Arabia remain stable this month: officials urge caution,Neutral,0.0,0,0,0,0,0,20,0.5
+Onion,Singapore,20260428T061500Z,businesstimes.com.sg,Falling Onion prices pressure farmers in Singapore,Negative,-0.5,0,0,0,0,1,0,0.6
+Sugar,Netherlands,20260609T221500Z,nos.nl,Latest: Pest outbreak threatens Sugar output in Netherlands this season,Negative,-0.5,0,1,0,0,0,20,0.5
+Wheat,Singapore,20260403T041500Z,businesstimes.com.sg,"Wheat prices ease in Singapore after fresh arrivals hit markets, traders say",Positive,0.5,0,0,0,0,1,50,0.5
+Sugar,Japan,20260406T101500Z,asahi.com,Favorable monsoon lifts Sugar acreage and yields in Japan | Market Watch,Positive,0.8,0,0,1,0,1,10,0.8
+Coffee,Netherlands,20260625T070000Z,livemint.com,"Logistics costs for Coffee shipments to Netherlands rise on higher freight rates, traders say",Negative,-0.5,0,0,0,0,0,20,0.6
+Soybean,Saudi Arabia,20260624T044500Z,reuters.com,Heatwave damages Soybean crop yields across key regions of Saudi Arabia | Market Watch,Negative,-0.5,1,1,0,0,0,20,0.6
+Sugar,Saudi Arabia,20260614T121500Z,saudigazette.com.sa,New high-yield Sugar varieties boost production in Saudi Arabia - seasonal update,Positive,0.8,0,0,1,0,0,0,0.9
+Cotton,Japan,20260528T220000Z,hellenicshippingnews.com,Latest: Favorable monsoon lifts Cotton acreage and yields in Japan,Positive,0.8,0,0,1,0,1,20,0.8
+Sugar,Germany,20260529T184500Z,farmer.pl,Germany reports record Sugar harvest; output rises for second year,Positive,0.8,0,0,1,0,0,20,1.0
+Sugar,China,20260410T010000Z,reuters.com,China warns of possible Sugar rationing amid supply crunch - seasonal update,Negative,-1.0,1,0,0,1,0,80,0.8
+Cotton,China,20260506T230000Z,finance.eastmoney.com,Rainfall deficit raises concerns for Cotton planting in China - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.7
+Soybean,Singapore,20260618T024500Z,livemint.com,Shipping delays leave Singapore Soybean importers scrambling for cargo - seasonal update,Negative,-0.5,1,0,0,0,0,80,0.8
+Onion,Saudi Arabia,20260614T083000Z,northafricapost.com,Policy uncertainty hangs over Onion contracts linked to Saudi Arabia,Neutral,0.0,0,0,0,0,0,20,0.3
+Onion,Vietnam,20260527T024500Z,bloomberg.com,Rainfall deficit raises concerns for Onion planting in Vietnam: officials urge caution,Negative,-0.5,0,1,0,0,0,10,0.6
+Sugar,Vietnam,20260411T081500Z,tuoitre.vn,Latest: Sugar prices ease in Vietnam after fresh arrivals hit markets,Positive,0.5,0,0,0,0,1,50,0.5
+Wheat,Japan,20260606T014500Z,economictimes.indiatimes.com,Japan opens new tender for Wheat purchases from global suppliers (June 2026 briefing),Positive,0.8,0,0,0,0,0,80,0.9
+Soybean,Singapore,20260517T230000Z,todayonline.com,Private traders boost Soybean bookings destined for Singapore: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,Japan,20260412T131500Z,livemint.com,Latest: Logistics costs for Turmeric shipments to Japan rise on higher freight rates,Negative,-0.5,0,0,0,0,0,20,0.6
+Coffee,Saudi Arabia,20260503T203000Z,indianexpress.com,Favorable monsoon lifts Coffee acreage and yields in Saudi Arabia,Positive,0.8,0,0,1,0,1,20,0.8
+Cotton,Sri Lanka,20260618T021500Z,dailynews.lk,Import demand for Cotton surges in Sri Lanka after domestic shortfall | Market Watch,Positive,0.8,1,1,0,0,0,80,0.9
+Maize,Singapore,20260530T030000Z,asiaone.com,Quality concerns slow Maize imports into Singapore markets,Negative,-0.5,0,0,0,0,0,20,0.5
+Soybean,China,20260529T000000Z,finance.eastmoney.com,"Logistics costs for Soybean shipments to China rise on higher freight rates, traders say",Negative,-0.5,0,0,0,0,0,20,0.6
+Turmeric,Saudi Arabia,20260616T024500Z,hellenicshippingnews.com,Currency weakness makes Turmeric imports costlier for Saudi Arabia buyers: officials urge caution,Negative,-0.5,0,0,0,1,0,20,0.7
+Wheat,Sri Lanka,20260416T064500Z,dailynews.lk,Latest: Favorable monsoon lifts Wheat acreage and yields in Sri Lanka,Positive,0.8,0,0,1,0,1,20,0.7
+Turmeric,Saudi Arabia,20260521T061500Z,albayan.ae,Latest: Analysts say Turmeric trade flows to Saudi Arabia remain stable this month,Neutral,0.0,0,0,0,0,0,20,0.5
+Soybean,Vietnam,20260628T200000Z,hellenicshippingnews.com,"Heatwave damages Soybean crop yields across key regions of Vietnam, traders say",Negative,-0.5,1,1,0,0,0,20,0.6
+Coffee,Indonesia,20260630T061500Z,economictimes.indiatimes.com,Trade deal may ease Coffee tariffs for shipments into Indonesia | Market Watch,Positive,0.8,0,0,0,0,0,80,0.8
+Cotton,Netherlands,20260504T000000Z,nos.nl,"Netherlands stockpiles strategic Cotton reserves ahead of festival demand, traders say",Positive,0.5,0,0,0,0,0,50,0.7
+Maize,Indonesia,20260513T233000Z,economictimes.indiatimes.com,Rainfall deficit raises concerns for Maize planting in Indonesia - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.6
+Cotton,Sri Lanka,20260515T130000Z,finance.yahoo.com,Sri Lanka agriculture ministry reviews Cotton market outlook for next quarter - seasonal update,Neutral,0.0,0,0,0,0,0,0,0.0
+Wheat,Japan,20260616T133000Z,mainichi.jp,Food security alert: Wheat supplies tighten across Japan: officials urge caution,Negative,-0.5,1,0,0,0,0,80,0.8
+Soybean,Netherlands,20260401T223000Z,livemint.com,Government of Netherlands announces subsidy support for Soybean farmers: officials urge caution,Neutral,0.0,0,0,0,0,0,20,0.5
+Maize,Netherlands,20260408T090000Z,bloomberg.com,Heatwave damages Maize crop yields across key regions of Netherlands: officials urge caution,Negative,-0.5,1,1,0,0,0,20,0.6
+Onion,Singapore,20260612T103000Z,finance.yahoo.com,Analysts say Onion trade flows to Singapore remain stable this month | Market Watch,Neutral,0.0,0,0,0,0,0,20,0.5
+Onion,Netherlands,20260421T014500Z,agroberichtenbuitenland.nl,Netherlands retailers raise Onion prices amid rising import costs | Market Watch,Negative,-1.0,0,0,0,1,0,20,0.5
+Coffee,Netherlands,20260408T144500Z,finance.yahoo.com,Analysts say Coffee trade flows to Netherlands remain stable this month | Market Watch,Neutral,0.0,0,0,0,0,0,20,0.5
+Turmeric,Japan,20260622T080000Z,reuters.com,Japan faces Turmeric shortage as stocks fall to multi-year lows - seasonal update,Negative,-0.5,1,0,0,1,0,80,0.8
+Wheat,Germany,20260614T044500Z,bloomberg.com,Policy uncertainty hangs over Wheat contracts linked to Germany - seasonal update,Neutral,0.0,0,0,0,0,0,20,0.3
+Coffee,Netherlands,20260523T120000Z,dutchnews.nl,Policy uncertainty hangs over Coffee contracts linked to Netherlands | Market Watch,Neutral,0.0,0,0,0,0,0,20,0.4
+Wheat,Singapore,20260515T160000Z,thehindubusinessline.com,Wheat prices jump in Singapore as wholesale markets tighten: officials urge caution,Negative,-0.5,0,0,0,1,0,50,0.6
+Soybean,Vietnam,20260530T114500Z,saigontimes.vn,Soybean prices ease in Vietnam after fresh arrivals hit markets: officials urge caution,Positive,0.5,0,0,0,0,1,50,0.5
+Coffee,Netherlands,20260418T203000Z,reuters.com,Trade deal may ease Coffee tariffs for shipments into Netherlands: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.8
+Wheat,Singapore,20260622T223000Z,economictimes.indiatimes.com,Singapore ports report normal Wheat handling volumes despite weather delays - Agriculture Report,Neutral,0.0,0,0,0,0,0,0,0.0
+Coffee,Netherlands,20260609T233000Z,reuters.com,"Netherlands reports record Coffee harvest; output rises for second year, traders say",Positive,0.8,0,0,1,0,0,20,0.9
+Maize,Japan,20260415T121500Z,reuters.com,Exporters eye Japan as a growing Maize destination in Asia | Market Watch,Positive,0.8,0,0,0,0,0,80,0.9
+Maize,Netherlands,20260521T043000Z,bloomberg.com,Currency weakness makes Maize imports costlier for Netherlands buyers | Market Watch,Negative,-0.5,0,0,0,1,0,20,0.6
+Soybean,Saudi Arabia,20260509T161500Z,arabnews.com,Saudi Arabia imposes temporary restriction on Soybean exports - Agriculture Report,Negative,-0.5,0,0,0,1,0,20,0.6
+Soybean,Vietnam,20260426T051500Z,thehindubusinessline.com,Vietnam opens new tender for Soybean purchases from global suppliers: officials urge caution,Positive,0.8,0,0,0,0,0,90,0.9
+Coffee,Japan,20260605T233000Z,hellenicshippingnews.com,Japan opens new tender for Coffee purchases from global suppliers - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.8
+Coffee,Japan,20260502T133000Z,finance.yahoo.com,Rainfall deficit raises concerns for Coffee planting in Japan | Market Watch,Negative,-0.5,0,1,0,0,0,20,0.6
+Wheat,Saudi Arabia,20260601T074500Z,saudigazette.com.sa,Strong retail demand for Wheat products continues in Saudi Arabia,Positive,0.8,0,0,0,0,0,80,0.9
+Onion,Bangladesh,20260601T064500Z,hellenicshippingnews.com,Bangladesh agriculture ministry reviews Onion market outlook for next quarter: officials urge caution,Neutral,0.0,0,0,0,0,0,0,0.0
+Cotton,Saudi Arabia,20260501T181500Z,finance.yahoo.com,Drought cuts Cotton harvest in Saudi Arabia; farmers report steep losses,Negative,-0.5,0,1,0,1,0,20,0.6
+Coffee,Netherlands,20260506T060000Z,livemint.com,Logistics costs for Coffee shipments to Netherlands rise on higher freight rates - Agriculture Report,Negative,-0.5,0,0,0,0,0,20,0.6
+Cotton,Indonesia,20260604T063000Z,bisnis.com,Indonesia stockpiles strategic Cotton reserves ahead of festival demand | Market Watch,Positive,0.5,0,0,0,0,0,40,0.8
+Onion,Sri Lanka,20260407T043000Z,reuters.com,Heatwave damages Onion crop yields across key regions of Sri Lanka | Market Watch,Negative,-0.5,1,1,0,0,0,20,0.6
+Cotton,Vietnam,20260531T001500Z,tuoitre.vn,"Logistics costs for Cotton shipments to Vietnam rise on higher freight rates, traders say",Negative,-0.5,0,0,0,0,0,30,0.6
+Sugar,China,20260514T003000Z,finance.yahoo.com,Exporters eye China as a growing Sugar destination in Asia - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Japan,20260502T134500Z,reuters.com,Favorable monsoon lifts Sugar acreage and yields in Japan,Positive,0.8,0,0,1,0,1,20,0.9
+Wheat,Nepal,20260607T173000Z,hellenicshippingnews.com,"Trade deal may ease Wheat tariffs for shipments into Nepal, traders say",Positive,0.8,0,0,0,0,0,80,0.8
+Sugar,Bangladesh,20260501T013000Z,thehindubusinessline.com,Policy uncertainty hangs over Sugar contracts linked to Bangladesh: officials urge caution,Neutral,0.0,0,0,0,0,0,20,0.3
+Wheat,Netherlands,20260416T024500Z,reuters.com,Heatwave damages Wheat crop yields across key regions of Netherlands: officials urge caution,Negative,-0.5,1,1,0,0,0,20,0.6
+Sugar,Japan,20260606T183000Z,reuters.com,Japan reports record Sugar harvest; output rises for second year - Agriculture Report,Positive,0.8,0,0,1,0,0,20,0.9
+Turmeric,Singapore,20260423T104500Z,indianexpress.com,Singapore faces Turmeric shortage as stocks fall to multi-year lows - seasonal update,Negative,-0.5,1,0,0,1,0,80,0.8
+Sugar,Germany,20260609T094500Z,livemint.com,"Germany stockpiles strategic Sugar reserves ahead of festival demand, traders say",Positive,0.5,0,0,0,0,0,50,0.8
+Cotton,Saudi Arabia,20260521T034500Z,indianexpress.com,Falling Cotton prices pressure farmers in Saudi Arabia - Agriculture Report,Negative,-0.5,0,0,0,0,1,0,0.5
+Maize,Bangladesh,20260427T021500Z,economictimes.indiatimes.com,Trade deal may ease Maize tariffs for shipments into Bangladesh - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.8
+Coffee,Vietnam,20260427T100000Z,livemint.com,Vietnam reports record Coffee harvest; output rises for second year - Agriculture Report,Positive,0.8,0,0,1,0,0,20,1.0
+Cotton,Netherlands,20260410T221500Z,reuters.com,Food security alert: Cotton supplies tighten across Netherlands | Market Watch,Negative,-0.5,1,0,0,0,0,80,0.8
+Coffee,Sri Lanka,20260504T043000Z,economictimes.indiatimes.com,Sri Lanka faces Coffee shortage as stocks fall to multi-year lows | Market Watch,Negative,-0.5,1,0,0,1,0,80,0.7
+Coffee,Saudi Arabia,20260607T154500Z,indianexpress.com,Saudi Arabia ports report normal Coffee handling volumes despite weather delays: officials urge caution,Neutral,0.0,0,0,0,0,0,0,0.0
+Sugar,Vietnam,20260509T021500Z,vietnamnews.vn,New high-yield Sugar varieties boost production in Vietnam,Positive,0.8,0,0,1,0,0,0,0.9
+Cotton,Netherlands,20260425T040000Z,economictimes.indiatimes.com,Netherlands opens new tender for Cotton purchases from global suppliers (May 2025 briefing),Positive,0.8,0,0,0,0,0,80,0.9
+Soybean,Singapore,20260521T141500Z,finance.yahoo.com,Singapore warns of possible Soybean rationing amid supply crunch | Market Watch,Negative,-1.0,1,0,0,1,0,80,0.8
+Turmeric,Singapore,20260612T071500Z,bloomberg.com,Singapore imposes temporary restriction on Turmeric exports - Agriculture Report,Negative,-0.5,0,0,0,1,0,20,0.6
+Wheat,Netherlands,20260411T230000Z,agroberichtenbuitenland.nl,Netherlands imposes temporary restriction on Wheat exports | Market Watch,Negative,-0.5,0,0,0,1,0,10,0.6
+Cotton,Germany,20260616T144500Z,dw.com,Favorable monsoon lifts Cotton acreage and yields in Germany - seasonal update,Positive,0.8,0,0,1,0,1,20,0.8
+Sugar,Vietnam,20260409T163000Z,vnexpress.net,Latest: Shipping delays leave Vietnam Sugar importers scrambling for cargo,Negative,-0.5,1,0,0,0,0,80,0.8
+Sugar,Vietnam,20260531T163000Z,baomoi.com,Vietnam agriculture ministry reviews Sugar market outlook for next quarter - seasonal update,Neutral,0.0,0,0,0,0,0,0,0.0
+Sugar,Bangladesh,20260525T050000Z,indianexpress.com,Rainfall deficit raises concerns for Sugar planting in Bangladesh - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.7
+Cotton,Germany,20260505T183000Z,livemint.com,Latest: Strong retail demand for Cotton products continues in Germany,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Nepal,20260607T160000Z,bloomberg.com,Latest: Currency weakness makes Sugar imports costlier for Nepal buyers,Negative,-0.5,0,0,0,1,0,20,0.6
+Coffee,Netherlands,20260620T170000Z,hellenicshippingnews.com,Analysts say Coffee trade flows to Netherlands remain stable this month - Agriculture Report,Neutral,0.0,0,0,0,0,0,20,0.5
+Onion,Japan,20260426T133000Z,bloomberg.com,"Drought cuts Onion harvest in Japan; farmers report steep losses, traders say",Negative,-0.5,0,1,0,1,0,20,0.6
+Wheat,Vietnam,20260531T040000Z,thehindubusinessline.com,Bilateral talks focus on expanding Wheat trade with Vietnam: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Maize,Netherlands,20260419T101500Z,bloomberg.com,Latest: Drought cuts Maize harvest in Netherlands; farmers report steep losses,Negative,-0.5,0,1,0,1,0,20,0.6
+Soybean,Sri Lanka,20260510T184500Z,finance.yahoo.com,"New high-yield Soybean varieties boost production in Sri Lanka, traders say",Positive,0.8,0,0,1,0,0,0,0.9
+Coffee,Vietnam,20260624T191500Z,baomoi.com,Drought cuts Coffee harvest in Vietnam; farmers report steep losses,Negative,-0.5,0,1,0,1,0,20,0.6
+Coffee,Singapore,20260603T210000Z,reuters.com,Floods disrupt Coffee production and logistics in Singapore,Negative,-0.5,0,1,0,0,0,20,0.6
+Wheat,Sri Lanka,20260407T210000Z,ft.lk,Sri Lanka opens new tender for Wheat purchases from global suppliers,Positive,0.8,0,0,0,0,0,80,0.9
+Onion,Netherlands,20260612T041500Z,economictimes.indiatimes.com,Currency weakness makes Onion imports costlier for Netherlands buyers - seasonal update,Negative,-0.5,0,0,0,1,0,20,0.5
+Maize,Saudi Arabia,20260611T070000Z,arabnews.com,Import demand for Maize surges in Saudi Arabia after domestic shortfall - seasonal update,Positive,0.8,1,1,0,0,0,80,0.9
+Maize,Vietnam,20260419T091500Z,vnexpress.net,"Maize prices ease in Vietnam after fresh arrivals hit markets, traders say",Positive,0.5,0,0,0,0,1,50,0.4
+Wheat,Netherlands,20260411T054500Z,indianexpress.com,"Wheat prices jump in Netherlands as wholesale markets tighten, traders say",Negative,-0.5,0,0,0,1,0,50,0.6
+Cotton,Germany,20260417T043000Z,indianexpress.com,Latest: Germany processors increase Cotton crushing and refining capacity,Positive,0.8,0,0,0,0,0,60,0.8
+Sugar,Singapore,20260416T083000Z,bloomberg.com,Latest: Singapore agriculture ministry reviews Sugar market outlook for next quarter,Neutral,0.0,0,0,0,0,0,0,0.0
+Turmeric,Singapore,20260622T003000Z,thehindubusinessline.com,Analysts say Turmeric trade flows to Singapore remain stable this month - Agriculture Report,Neutral,0.0,0,0,0,0,0,20,0.5
+Wheat,Bangladesh,20260507T094500Z,indianexpress.com,"Government of Bangladesh announces subsidy support for Wheat farmers, traders say",Neutral,0.0,0,0,0,0,0,20,0.5
+Cotton,Sri Lanka,20260514T104500Z,economictimes.indiatimes.com,Sri Lanka ports report normal Cotton handling volumes despite weather delays: officials urge caution,Neutral,0.0,0,0,0,0,0,0,0.0
+Sugar,Vietnam,20260430T071500Z,baomoi.com,"Vietnam cuts import duty on Sugar to cool retail inflation, traders say",Positive,0.8,0,0,0,0,0,80,0.8
+Coffee,Netherlands,20260619T200000Z,reuters.com,Government of Netherlands announces subsidy support for Coffee farmers,Neutral,0.0,0,0,0,0,0,20,0.5
+Onion,Japan,20260416T034500Z,asahi.com,"Policy uncertainty hangs over Onion contracts linked to Japan, traders say",Neutral,0.0,0,0,0,0,0,30,0.3
+Coffee,Nepal,20260526T091500Z,reuters.com,Nepal plans to increase Coffee imports to stabilize domestic supply | Market Watch,Positive,0.8,0,0,0,0,0,80,0.9
+Cotton,Netherlands,20260518T094500Z,livemint.com,Latest: Drought cuts Cotton harvest in Netherlands; farmers report steep losses,Negative,-0.5,0,1,0,1,0,20,0.6
+Soybean,Saudi Arabia,20260408T144500Z,indianexpress.com,"Floods disrupt Soybean production and logistics in Saudi Arabia, traders say",Negative,-0.5,0,1,0,0,0,30,0.6
+Sugar,Sri Lanka,20260412T164500Z,indianexpress.com,Analysts say Sugar trade flows to Sri Lanka remain stable this month - seasonal update,Neutral,0.0,0,0,0,0,0,20,0.5
+Coffee,Bangladesh,20260430T140000Z,bloomberg.com,Latest: Bangladesh faces Coffee shortage as stocks fall to multi-year lows,Negative,-0.5,1,0,0,1,0,80,0.8
+Sugar,Japan,20260422T101500Z,asahi.com,New high-yield Sugar varieties boost production in Japan - Agriculture Report,Positive,0.8,0,0,1,0,0,0,0.9
+Sugar,Sri Lanka,20260409T174500Z,economynext.com,Logistics costs for Sugar shipments to Sri Lanka rise on higher freight rates: officials urge caution,Negative,-0.5,0,0,0,0,0,20,0.6
+Wheat,Saudi Arabia,20260517T044500Z,hellenicshippingnews.com,New high-yield Wheat varieties boost production in Saudi Arabia | Market Watch,Positive,0.8,0,0,1,0,0,0,0.9
+Soybean,Japan,20260607T180000Z,asahi.com,Japan opens new tender for Soybean purchases from global suppliers,Positive,0.8,0,0,0,0,0,80,0.9
+Soybean,Singapore,20260525T113000Z,hellenicshippingnews.com,Singapore retailers raise Soybean prices amid rising import costs: officials urge caution,Negative,-1.0,0,0,0,1,0,20,0.5
+Turmeric,Japan,20260606T113000Z,hellenicshippingnews.com,Japan plans to increase Turmeric imports to stabilize domestic supply,Positive,0.8,0,0,0,0,0,80,0.9
+Sugar,Bangladesh,20260528T154500Z,finance.yahoo.com,Quality concerns slow Sugar imports into Bangladesh markets - Agriculture Report,Negative,-0.5,0,0,0,0,0,20,0.6
+Sugar,Germany,20260423T160000Z,dw.com,Analysts say Sugar trade flows to Germany remain stable this month (May 2025 briefing),Neutral,0.0,0,0,0,0,0,20,0.5
+Soybean,Netherlands,20260531T070000Z,foodnavigator.com,Heatwave damages Soybean crop yields across key regions of Netherlands,Negative,-0.5,1,1,0,0,0,20,0.6
+Onion,Saudi Arabia,20260514T163000Z,reuters.com,Saudi Arabia faces Onion shortage as stocks fall to multi-year lows - Agriculture Report,Negative,-0.5,1,0,0,1,0,80,0.8
+Sugar,Netherlands,20260426T023000Z,bloomberg.com,Rainfall deficit raises concerns for Sugar planting in Netherlands | Market Watch,Negative,-0.5,0,1,0,0,0,20,0.6
+Wheat,Sri Lanka,20260402T184500Z,economictimes.indiatimes.com,Latest: New high-yield Wheat varieties boost production in Sri Lanka,Positive,0.8,0,0,1,0,0,0,0.9
+Cotton,Bangladesh,20260616T144500Z,livemint.com,Bangladesh warns of possible Cotton rationing amid supply crunch - Agriculture Report,Negative,-1.0,1,0,0,1,0,80,0.8
+Cotton,Vietnam,20260622T171500Z,finance.yahoo.com,Vietnam faces Cotton shortage as stocks fall to multi-year lows,Negative,-0.5,1,0,0,1,0,80,0.8
+Coffee,Vietnam,20260507T230000Z,bloomberg.com,Vietnam cuts import duty on Coffee to cool retail inflation - seasonal update,Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,Vietnam,20260419T021500Z,vnexpress.net,Government of Vietnam announces subsidy support for Turmeric farmers: officials urge caution,Neutral,0.0,0,0,0,0,0,20,0.5
+Wheat,Singapore,20260503T091500Z,reuters.com,Food security alert: Wheat supplies tighten across Singapore,Negative,-0.5,1,0,0,0,0,80,0.9
+Wheat,Netherlands,20260423T221500Z,bloomberg.com,Latest: Analysts say Wheat trade flows to Netherlands remain stable this month,Neutral,0.0,0,0,0,0,0,20,0.5
+Coffee,Vietnam,20260403T203000Z,bloomberg.com,Vietnam opens new tender for Coffee purchases from global suppliers: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,Netherlands,20260603T184500Z,foodnavigator.com,Netherlands agriculture ministry reviews Turmeric market outlook for next quarter: officials urge caution,Neutral,0.0,0,0,0,0,0,0,0.0
+Sugar,Germany,20260415T194500Z,economictimes.indiatimes.com,Falling Sugar prices pressure farmers in Germany: officials urge caution,Negative,-0.5,0,0,0,0,1,0,0.6
+Turmeric,China,20260523T151500Z,163.com,China agriculture ministry reviews Turmeric market outlook for next quarter: officials urge caution,Neutral,0.0,0,0,0,0,0,0,0.0
+Coffee,Vietnam,20260501T000000Z,livemint.com,Latest: Rainfall deficit raises concerns for Coffee planting in Vietnam,Negative,-0.5,0,1,0,0,0,20,0.6
+Soybean,Japan,20260415T020000Z,finance.yahoo.com,Japan reports record Soybean harvest; output rises for second year: officials urge caution,Positive,0.8,0,0,1,0,0,20,0.9
+Onion,China,20260412T114500Z,163.com,Government of China announces subsidy support for Onion farmers,Neutral,0.0,0,0,0,0,0,20,0.5
+Coffee,Nepal,20260510T221500Z,thehindubusinessline.com,Food security alert: Coffee supplies tighten across Nepal - seasonal update,Negative,-0.5,1,0,0,0,0,80,0.9
+Wheat,China,20260418T221500Z,finance.eastmoney.com,Trade deal may ease Wheat tariffs for shipments into China | Market Watch,Positive,0.8,0,0,0,0,0,80,0.8
+Soybean,Bangladesh,20260423T130000Z,jugantor.com,"Trade deal may ease Soybean tariffs for shipments into Bangladesh, traders say",Positive,0.8,0,0,0,0,0,80,0.8
+Soybean,Germany,20260609T030000Z,finance.yahoo.com,Shipping delays leave Germany Soybean importers scrambling for cargo | Market Watch,Negative,-0.5,1,0,0,0,0,80,0.8
+Wheat,Nepal,20260404T030000Z,reuters.com,Currency weakness makes Wheat imports costlier for Nepal buyers: officials urge caution,Negative,-0.5,0,0,0,1,0,20,0.6
+Soybean,Vietnam,20260420T163000Z,indianexpress.com,Trade deal may ease Soybean tariffs for shipments into Vietnam: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.8
+Coffee,Netherlands,20260624T033000Z,reuters.com,Strong retail demand for Coffee products continues in Netherlands - seasonal update,Positive,0.8,0,0,0,0,0,80,0.9
+Onion,Singapore,20260501T090000Z,economictimes.indiatimes.com,"Singapore warns of possible Onion rationing amid supply crunch, traders say",Negative,-1.0,1,0,0,1,0,80,0.8
+Cotton,Sri Lanka,20260404T173000Z,bloomberg.com,"Rainfall deficit raises concerns for Cotton planting in Sri Lanka, traders say",Negative,-0.5,0,1,0,0,0,20,0.6
+Sugar,Singapore,20260611T090000Z,asiaone.com,Singapore warns of possible Sugar rationing amid supply crunch | Market Watch,Negative,-1.0,1,0,0,1,0,80,0.8
+Cotton,Japan,20260430T133000Z,indianexpress.com,Import demand for Cotton surges in Japan after domestic shortfall | Market Watch,Positive,0.8,1,1,0,0,0,80,0.9
+Maize,Singapore,20260516T000000Z,finance.yahoo.com,Quality concerns slow Maize imports into Singapore markets - Agriculture Report,Negative,-0.5,0,0,0,0,0,10,0.6
+Wheat,Sri Lanka,20260607T140000Z,bloomberg.com,Pest outbreak threatens Wheat output in Sri Lanka this season | Market Watch,Negative,-0.5,0,1,0,0,0,20,0.5
+Sugar,Singapore,20260609T043000Z,businesstimes.com.sg,Strong retail demand for Sugar products continues in Singapore,Positive,0.8,0,0,0,0,0,80,0.9
+Onion,Vietnam,20260416T220000Z,livemint.com,Latest: Government of Vietnam announces subsidy support for Onion farmers,Neutral,0.0,0,0,0,0,0,20,0.5
+Soybean,Vietnam,20260508T064500Z,livemint.com,Latest: Strong retail demand for Soybean products continues in Vietnam,Positive,0.8,0,0,0,0,0,80,0.9
+Maize,Japan,20260628T133000Z,thehindubusinessline.com,Favorable monsoon lifts Maize acreage and yields in Japan: officials urge caution,Positive,0.8,0,0,1,0,1,10,0.8
+Cotton,Bangladesh,20260418T084500Z,indianexpress.com,New high-yield Cotton varieties boost production in Bangladesh | Market Watch,Positive,0.8,0,0,1,0,0,0,0.9
+Soybean,Singapore,20260531T193000Z,channelnewsasia.com,Latest: Singapore imposes temporary restriction on Soybean exports,Negative,-0.5,0,0,0,1,0,20,0.6
+Sugar,Vietnam,20260515T123000Z,reuters.com,Vietnam retailers raise Sugar prices amid rising import costs,Negative,-1.0,0,0,0,1,0,20,0.5
+Maize,Japan,20260528T040000Z,finance.yahoo.com,"Japan faces Maize shortage as stocks fall to multi-year lows, traders say",Negative,-0.5,1,0,0,1,0,80,0.8
+Wheat,Singapore,20260524T031500Z,todayonline.com,"Heatwave damages Wheat crop yields across key regions of Singapore, traders say",Negative,-0.5,1,1,0,0,0,20,0.6
+Cotton,Japan,20260404T133000Z,asahi.com,Cotton prices ease in Japan after fresh arrivals hit markets,Positive,0.5,0,0,0,0,1,60,0.5
+Maize,Bangladesh,20260418T071500Z,dailyinqilab.com,Bangladesh imposes temporary restriction on Maize exports - Agriculture Report,Negative,-0.5,0,0,0,1,0,30,0.6
+Soybean,Bangladesh,20260505T231500Z,thedailystar.net,Policy uncertainty hangs over Soybean contracts linked to Bangladesh (June 2025 briefing),Neutral,0.0,0,0,0,0,0,20,0.3
+Sugar,Germany,20260619T151500Z,farmer.pl,Germany ports report normal Sugar handling volumes despite weather delays: officials urge caution,Neutral,0.0,0,0,0,0,0,0,0.0
+Soybean,Saudi Arabia,20260623T103000Z,finance.ifeng.com,Drought cuts Soybean harvest in Saudi Arabia; farmers report steep losses - Agriculture Report,Negative,-0.5,0,1,0,1,0,20,0.6
+Coffee,Singapore,20260517T230000Z,livemint.com,Latest: Coffee prices ease in Singapore after fresh arrivals hit markets,Positive,0.5,0,0,0,0,1,40,0.5
+Soybean,China,20260522T001500Z,hellenicshippingnews.com,China cuts import duty on Soybean to cool retail inflation: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,Germany,20260601T081500Z,reuters.com,"Germany reports record Turmeric harvest; output rises for second year, traders say",Positive,0.8,0,0,1,0,0,20,0.9
+Wheat,Netherlands,20260419T190000Z,dutchnews.nl,Latest: Falling Wheat prices pressure farmers in Netherlands,Negative,-0.5,0,0,0,0,1,0,0.6
+Sugar,Singapore,20260511T060000Z,economictimes.indiatimes.com,Latest: Pest outbreak threatens Sugar output in Singapore this season,Negative,-0.5,0,1,0,0,0,20,0.5
+Sugar,Germany,20260425T164500Z,indianexpress.com,Sugar prices ease in Germany after fresh arrivals hit markets,Positive,0.5,0,0,0,0,1,50,0.5
+Sugar,Germany,20260503T083000Z,thehindubusinessline.com,Private traders boost Sugar bookings destined for Germany - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Wheat,Japan,20260503T191500Z,finance.yahoo.com,Food security alert: Wheat supplies tighten across Japan - seasonal update,Negative,-0.5,1,0,0,0,0,80,0.9
+Wheat,Singapore,20260515T171500Z,bloomberg.com,Latest: Singapore warns of possible Wheat rationing amid supply crunch,Negative,-1.0,1,0,0,1,0,80,0.8
+Onion,Singapore,20260605T201500Z,thehindubusinessline.com,Latest: Singapore stockpiles strategic Onion reserves ahead of festival demand,Positive,0.5,0,0,0,0,0,50,0.9
+Cotton,Vietnam,20260617T061500Z,thehindubusinessline.com,Latest: Policy uncertainty hangs over Cotton contracts linked to Vietnam,Neutral,0.0,0,0,0,0,0,20,0.3
+Sugar,Vietnam,20260621T184500Z,tuoitre.vn,Food security alert: Sugar supplies tighten across Vietnam - Agriculture Report,Negative,-0.5,1,0,0,0,0,80,0.9
+Cotton,Singapore,20260623T064500Z,thehindubusinessline.com,Pest outbreak threatens Cotton output in Singapore this season - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.5
+Soybean,Germany,20260620T124500Z,reuters.com,Heatwave damages Soybean crop yields across key regions of Germany: officials urge caution,Negative,-0.5,1,1,0,0,0,20,0.6
+Coffee,Germany,20260628T161500Z,farmer.pl,Pest outbreak threatens Coffee output in Germany this season - Agriculture Report,Negative,-0.5,0,1,0,0,0,20,0.5
+Wheat,Vietnam,20260517T223000Z,livemint.com,"Shipping delays leave Vietnam Wheat importers scrambling for cargo, traders say",Negative,-0.5,1,0,0,0,0,80,0.8
+Onion,Germany,20260420T220000Z,livemint.com,Government of Germany announces subsidy support for Onion farmers | Market Watch,Neutral,0.0,0,0,0,0,0,10,0.5
+Sugar,Singapore,20260528T164500Z,straitstimes.com,Early forecasts point to weaker Sugar sowing in Singapore,Negative,-0.5,0,1,0,0,0,20,0.5
+Coffee,Nepal,20260403T041500Z,finance.yahoo.com,"Floods disrupt Coffee production and logistics in Nepal, traders say",Negative,-0.5,0,1,0,0,0,20,0.6
+Soybean,Bangladesh,20260522T161500Z,thehindubusinessline.com,Soybean prices ease in Bangladesh after fresh arrivals hit markets - Agriculture Report,Positive,0.5,0,0,0,0,1,50,0.5
+Soybean,Bangladesh,20260531T113000Z,bloomberg.com,Trade deal may ease Soybean tariffs for shipments into Bangladesh | Market Watch,Positive,0.8,0,0,0,0,0,80,0.8
+Wheat,Netherlands,20260608T091500Z,indianexpress.com,"Analysts say Wheat trade flows to Netherlands remain stable this month, traders say",Neutral,0.0,0,0,0,0,0,20,0.5
+Coffee,Netherlands,20260514T014500Z,dutchnews.nl,Drought cuts Coffee harvest in Netherlands; farmers report steep losses - Agriculture Report,Negative,-0.5,0,1,0,1,0,20,0.6
+Sugar,Singapore,20260418T090000Z,livemint.com,Import demand for Sugar surges in Singapore after domestic shortfall,Positive,0.8,1,1,0,0,0,90,0.9
+Cotton,Japan,20260420T053000Z,livemint.com,"Strong retail demand for Cotton products continues in Japan, traders say",Positive,0.8,0,0,0,0,0,80,0.9
+Soybean,Saudi Arabia,20260410T003000Z,indianexpress.com,Heatwave damages Soybean crop yields across key regions of Saudi Arabia - seasonal update,Negative,-0.5,1,1,0,0,0,20,0.6
+Onion,Singapore,20260516T041500Z,reuters.com,Singapore processors increase Onion crushing and refining capacity - Agriculture Report,Positive,0.8,0,0,0,0,0,60,0.8
+Coffee,Netherlands,20260604T134500Z,thehindubusinessline.com,Netherlands opens new tender for Coffee purchases from global suppliers - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Maize,Nepal,20260517T111500Z,bloomberg.com,Nepal processors increase Maize crushing and refining capacity: officials urge caution,Positive,0.8,0,0,0,0,0,60,0.9
+Maize,Germany,20260510T091500Z,livemint.com,"Analysts say Maize trade flows to Germany remain stable this month, traders say",Neutral,0.0,0,0,0,0,0,20,0.5
+Maize,Germany,20260528T080000Z,economictimes.indiatimes.com,Drought cuts Maize harvest in Germany; farmers report steep losses - seasonal update,Negative,-0.5,0,1,0,1,0,20,0.6
+Coffee,Netherlands,20260619T003000Z,livemint.com,Favorable monsoon lifts Coffee acreage and yields in Netherlands: officials urge caution,Positive,0.8,0,0,1,0,1,20,0.8
+Cotton,Saudi Arabia,20260423T221500Z,saudigazette.com.sa,"Quality concerns slow Cotton imports into Saudi Arabia markets, traders say",Negative,-0.5,0,0,0,0,0,20,0.6
+Soybean,Vietnam,20260515T223000Z,thehindubusinessline.com,Policy uncertainty hangs over Soybean contracts linked to Vietnam - seasonal update,Neutral,0.0,0,0,0,0,0,20,0.3
+Cotton,Saudi Arabia,20260606T131500Z,hellenicshippingnews.com,Cotton prices jump in Saudi Arabia as wholesale markets tighten - Agriculture Report,Negative,-0.5,0,0,0,1,0,40,0.6
+Soybean,Germany,20260626T031500Z,hellenicshippingnews.com,Latest: Currency weakness makes Soybean imports costlier for Germany buyers,Negative,-0.5,0,0,0,1,0,10,0.6
+Onion,Bangladesh,20260522T134500Z,bssnews.net,Bangladesh faces Onion shortage as stocks fall to multi-year lows - seasonal update,Negative,-0.5,1,0,0,1,0,80,0.8
+Wheat,Japan,20260526T084500Z,indianexpress.com,Japan retailers raise Wheat prices amid rising import costs | Market Watch,Negative,-1.0,0,0,0,1,0,20,0.5
+Onion,Germany,20260409T160000Z,hellenicshippingnews.com,Latest: Quality concerns slow Onion imports into Germany markets,Negative,-0.5,0,0,0,0,0,20,0.6
+Sugar,Malaysia,20260506T201500Z,bloomberg.com,Logistics costs for Sugar shipments to Malaysia rise on higher freight rates - seasonal update,Negative,-0.5,0,0,0,0,0,20,0.6
+Turmeric,Vietnam,20260428T093000Z,baomoi.com,Private traders boost Turmeric bookings destined for Vietnam - seasonal update,Positive,0.8,0,0,0,0,0,80,0.9
+Coffee,Sri Lanka,20260508T010000Z,economictimes.indiatimes.com,Latest: Logistics costs for Coffee shipments to Sri Lanka rise on higher freight rates,Negative,-0.5,0,0,0,0,0,20,0.6
+Cotton,Bangladesh,20260629T180000Z,thehindubusinessline.com,Shipping delays leave Bangladesh Cotton importers scrambling for cargo | Market Watch,Negative,-0.5,1,0,0,0,0,80,0.8
+Maize,Vietnam,20260625T214500Z,reuters.com,Vietnam reports record Maize harvest; output rises for second year | Market Watch,Positive,0.8,0,0,1,0,0,20,0.8
+Cotton,Indonesia,20260623T121500Z,reuters.com,Indonesia reports record Cotton harvest; output rises for second year,Positive,0.8,0,0,1,0,0,20,0.9
+Onion,Sri Lanka,20260524T141500Z,reuters.com,"Quality concerns slow Onion imports into Sri Lanka markets, traders say",Negative,-0.5,0,0,0,0,0,20,0.6
+Wheat,Netherlands,20260423T233000Z,livemint.com,"Quality concerns slow Wheat imports into Netherlands markets, traders say",Negative,-0.5,0,0,0,0,0,20,0.7
+Wheat,Singapore,20260526T034500Z,reuters.com,"Rainfall deficit raises concerns for Wheat planting in Singapore, traders say",Negative,-0.5,0,1,0,0,0,20,0.6
+Soybean,Vietnam,20260408T141500Z,bloomberg.com,Latest: Shipping delays leave Vietnam Soybean importers scrambling for cargo,Negative,-0.5,1,0,0,0,0,80,0.9
+Onion,Vietnam,20260408T134500Z,finance.yahoo.com,Latest: Shipping delays leave Vietnam Onion importers scrambling for cargo,Negative,-0.5,1,0,0,0,0,80,0.8
+Cotton,Saudi Arabia,20260402T010000Z,reuters.com,"Saudi Arabia imposes temporary restriction on Cotton exports, traders say",Negative,-0.5,0,0,0,1,0,20,0.7
+Wheat,China,20260617T114500Z,baijiahao.baidu.com,Latest: Policy uncertainty hangs over Wheat contracts linked to China,Neutral,0.0,0,0,0,0,0,20,0.3
+Coffee,Vietnam,20260601T021500Z,reuters.com,Latest: Vietnam imposes temporary restriction on Coffee exports,Negative,-0.5,0,0,0,1,0,20,0.6
+Cotton,Japan,20260409T001500Z,asahi.com,Japan cuts import duty on Cotton to cool retail inflation - seasonal update,Positive,0.8,0,0,0,0,0,90,0.9
+Wheat,Nepal,20260623T064500Z,thehindubusinessline.com,Trade deal may ease Wheat tariffs for shipments into Nepal - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.8
+Sugar,Vietnam,20260506T213000Z,indianexpress.com,"Sugar prices jump in Vietnam as wholesale markets tighten, traders say",Negative,-0.5,0,0,0,1,0,50,0.6
+Sugar,Saudi Arabia,20260404T050000Z,thehindubusinessline.com,Saudi Arabia plans to increase Sugar imports to stabilize domestic supply: officials urge caution,Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,Indonesia,20260511T020000Z,indianexpress.com,New high-yield Turmeric varieties boost production in Indonesia - seasonal update,Positive,0.8,0,0,1,0,0,0,0.9
+Wheat,Bangladesh,20260412T061500Z,thedailystar.net,Favorable monsoon lifts Wheat acreage and yields in Bangladesh (June 2026 briefing),Positive,0.8,0,0,1,0,1,20,0.9
+Sugar,Singapore,20260522T164500Z,businesstimes.com.sg,Singapore imposes temporary restriction on Sugar exports: officials urge caution,Negative,-0.5,0,0,0,1,0,20,0.6
+Wheat,Sri Lanka,20260402T033000Z,newsfirst.lk,Shipping delays leave Sri Lanka Wheat importers scrambling for cargo - Agriculture Report,Negative,-0.5,1,0,0,0,0,80,0.8
+Onion,Singapore,20260621T230000Z,economictimes.indiatimes.com,"Government of Singapore announces subsidy support for Onion farmers, traders say",Neutral,0.0,0,0,0,0,0,30,0.5
+Cotton,Bangladesh,20260425T184500Z,finance.yahoo.com,Trade deal may ease Cotton tariffs for shipments into Bangladesh - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.8
+Cotton,Singapore,20260521T113000Z,thehindubusinessline.com,Latest: Singapore plans to increase Cotton imports to stabilize domestic supply,Positive,0.8,0,0,0,0,0,80,0.9
+Soybean,Malaysia,20260402T034500Z,economictimes.indiatimes.com,"Government of Malaysia announces subsidy support for Soybean farmers, traders say",Neutral,0.0,0,0,0,0,0,20,0.4
+Sugar,Vietnam,20260406T123000Z,hellenicshippingnews.com,Strong retail demand for Sugar products continues in Vietnam (April 2026 briefing),Positive,0.8,0,0,0,0,0,70,0.9
+Cotton,Saudi Arabia,20260507T120000Z,finance.yahoo.com,Latest: Pest outbreak threatens Cotton output in Saudi Arabia this season,Negative,-0.5,0,1,0,0,0,10,0.5
+Soybean,Bangladesh,20260516T080000Z,finance.yahoo.com,Soybean prices jump in Bangladesh as wholesale markets tighten,Negative,-0.5,0,0,0,1,0,50,0.6
+Onion,Bangladesh,20260614T174500Z,indianexpress.com,Trade deal may ease Onion tariffs for shipments into Bangladesh - seasonal update,Positive,0.8,0,0,0,0,0,80,0.8
+Coffee,Netherlands,20260426T013000Z,reuters.com,Drought cuts Coffee harvest in Netherlands; farmers report steep losses (April 2026 briefing),Negative,-0.5,0,1,0,1,0,20,0.6
+Sugar,Vietnam,20260411T123000Z,tuoitre.vn,"Vietnam retailers raise Sugar prices amid rising import costs, traders say",Negative,-1.0,0,0,0,1,0,20,0.5
+Cotton,Singapore,20260408T014500Z,straitstimes.com,Floods disrupt Cotton production and logistics in Singapore: officials urge caution,Negative,-0.5,0,1,0,0,0,20,0.6
+Cotton,Netherlands,20260602T040000Z,dutchnews.nl,Strong retail demand for Cotton products continues in Netherlands,Positive,0.8,0,0,0,0,0,80,0.9
+Onion,Bangladesh,20260526T190000Z,thedailystar.net,Trade deal may ease Onion tariffs for shipments into Bangladesh | Market Watch,Positive,0.8,0,0,0,0,0,80,0.8
+Wheat,Indonesia,20260615T193000Z,indianexpress.com,Currency weakness makes Wheat imports costlier for Indonesia buyers: officials urge caution,Negative,-0.5,0,0,0,1,0,20,0.6
+Maize,Japan,20260517T191500Z,nikkei.com,Japan faces Maize shortage as stocks fall to multi-year lows: officials urge caution,Negative,-0.5,1,0,0,1,0,80,0.8
+Cotton,China,20260601T091500Z,finance.yahoo.com,Analysts say Cotton trade flows to China remain stable this month - Agriculture Report,Neutral,0.0,0,0,0,0,0,20,0.5
+Sugar,Japan,20260621T160000Z,reuters.com,Japan agriculture ministry reviews Sugar market outlook for next quarter,Neutral,0.0,0,0,0,0,0,0,0.0
+Soybean,Germany,20260604T033000Z,dw.com,Germany retailers raise Soybean prices amid rising import costs | Market Watch,Negative,-1.0,0,0,0,1,0,20,0.5
+Coffee,Singapore,20260625T223000Z,finance.yahoo.com,Latest: Floods disrupt Coffee production and logistics in Singapore,Negative,-0.5,0,1,0,0,0,20,0.6
+Wheat,Netherlands,20260407T024500Z,indianexpress.com,Netherlands warns of possible Wheat rationing amid supply crunch | Market Watch,Negative,-1.0,1,0,0,1,0,80,0.7
+Cotton,Germany,20260402T141500Z,merkur.de,Rainfall deficit raises concerns for Cotton planting in Germany - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.6
+Coffee,Germany,20260624T113000Z,bloomberg.com,Germany warns of possible Coffee rationing amid supply crunch: officials urge caution,Negative,-1.0,1,0,0,1,0,80,0.9
+Sugar,Japan,20260402T201500Z,reuters.com,Drought cuts Sugar harvest in Japan; farmers report steep losses,Negative,-0.5,0,1,0,1,0,20,0.6
+Onion,Bangladesh,20260627T200000Z,bssnews.net,Latest: Bangladesh plans to increase Onion imports to stabilize domestic supply,Positive,0.8,0,0,0,0,0,70,0.9
+Maize,Vietnam,20260519T061500Z,hellenicshippingnews.com,Favorable monsoon lifts Maize acreage and yields in Vietnam (June 2025 briefing),Positive,0.8,0,0,1,0,1,20,0.8
+Maize,Netherlands,20260611T151500Z,finance.yahoo.com,Netherlands retailers raise Maize prices amid rising import costs: officials urge caution,Negative,-1.0,0,0,0,1,0,20,0.5
+Wheat,Vietnam,20260617T000000Z,vnexpress.net,"Policy uncertainty hangs over Wheat contracts linked to Vietnam, traders say",Neutral,0.0,0,0,0,0,0,20,0.3
+Soybean,Japan,20260412T171500Z,hea.china.com,Japan agriculture ministry reviews Soybean market outlook for next quarter,Neutral,0.0,0,0,0,0,0,0,0.0
+Sugar,Singapore,20260417T001500Z,reuters.com,"Singapore ports report normal Sugar handling volumes despite weather delays, traders say",Neutral,0.0,0,0,0,0,0,0,0.0
+Coffee,Japan,20260507T121500Z,indianexpress.com,Japan reports record Coffee harvest; output rises for second year,Positive,0.8,0,0,1,0,0,20,0.9
+Sugar,Nepal,20260528T151500Z,thehindubusinessline.com,Heatwave damages Sugar crop yields across key regions of Nepal,Negative,-0.5,1,1,0,0,0,20,0.5
+Wheat,Saudi Arabia,20260427T071500Z,bloomberg.com,Latest: Shipping delays leave Saudi Arabia Wheat importers scrambling for cargo,Negative,-0.5,1,0,0,0,0,80,0.8
+Wheat,Netherlands,20260530T100000Z,nos.nl,Wheat prices jump in Netherlands as wholesale markets tighten (June 2025 briefing),Negative,-0.5,0,0,0,1,0,50,0.6
+Cotton,Saudi Arabia,20260522T111500Z,arabnews.com,Analysts say Cotton trade flows to Saudi Arabia remain stable this month: officials urge caution,Neutral,0.0,0,0,0,0,0,20,0.4
+Cotton,Nepal,20260604T001500Z,thehimalayantimes.com,"Rainfall deficit raises concerns for Cotton planting in Nepal, traders say",Negative,-0.5,0,1,0,0,0,20,0.6
+Coffee,Netherlands,20260628T114500Z,reuters.com,Latest: New high-yield Coffee varieties boost production in Netherlands,Positive,0.8,0,0,1,0,0,0,0.9
+Wheat,Netherlands,20260513T044500Z,reuters.com,Netherlands warns of possible Wheat rationing amid supply crunch,Negative,-1.0,1,0,0,1,0,80,0.8
+Coffee,Saudi Arabia,20260418T014500Z,saudigazette.com.sa,Saudi Arabia processors increase Coffee crushing and refining capacity,Positive,0.8,0,0,0,0,0,60,0.7
+Maize,Singapore,20260528T130000Z,hellenicshippingnews.com,Pest outbreak threatens Maize output in Singapore this season,Negative,-0.5,0,1,0,0,0,20,0.5
+Coffee,Netherlands,20260410T123000Z,agroberichtenbuitenland.nl,Government of Netherlands announces subsidy support for Coffee farmers | Market Watch,Neutral,0.0,0,0,0,0,0,20,0.5
+Soybean,Nepal,20260415T013000Z,thehimalayantimes.com,Exporters eye Nepal as a growing Soybean destination in Asia | Market Watch,Positive,0.8,0,0,0,0,0,90,1.0
+Onion,Singapore,20260601T083000Z,thehindubusinessline.com,Exporters eye Singapore as a growing Onion destination in Asia - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,Netherlands,20260411T184500Z,reuters.com,Netherlands reports record Turmeric harvest; output rises for second year,Positive,0.8,0,0,1,0,0,10,0.9
+Wheat,Netherlands,20260626T011500Z,reuters.com,Netherlands agriculture ministry reviews Wheat market outlook for next quarter | Market Watch,Neutral,0.0,0,0,0,0,0,0,0.0
+Cotton,Saudi Arabia,20260409T091500Z,economictimes.indiatimes.com,"Favorable monsoon lifts Cotton acreage and yields in Saudi Arabia, traders say",Positive,0.8,0,0,1,0,1,20,0.8
+Maize,Singapore,20260402T094500Z,livemint.com,"Maize prices ease in Singapore after fresh arrivals hit markets, traders say",Positive,0.5,0,0,0,0,1,50,0.5
+Wheat,Nepal,20260630T010000Z,finance.yahoo.com,Nepal plans to increase Wheat imports to stabilize domestic supply - Agriculture Report,Positive,0.8,0,0,0,0,0,80,0.9
+Turmeric,China,20260611T050000Z,indianexpress.com,China faces Turmeric shortage as stocks fall to multi-year lows: officials urge caution,Negative,-0.5,1,0,0,1,0,90,0.8
+Wheat,Singapore,20260410T121500Z,reuters.com,Logistics costs for Wheat shipments to Singapore rise on higher freight rates: officials urge caution,Negative,-0.5,0,0,0,0,0,20,0.6
+Wheat,Vietnam,20260413T210000Z,thehindubusinessline.com,Latest: Vietnam faces Wheat shortage as stocks fall to multi-year lows,Negative,-0.5,1,0,0,1,0,80,0.8
+Coffee,Bangladesh,20260608T064500Z,reuters.com,Heatwave damages Coffee crop yields across key regions of Bangladesh,Negative,-0.5,1,1,0,0,0,20,0.6
+Maize,Sri Lanka,20260608T061500Z,economictimes.indiatimes.com,Food security alert: Maize supplies tighten across Sri Lanka: officials urge caution,Negative,-0.5,1,0,0,0,0,80,0.9
+Sugar,Nepal,20260407T203000Z,reuters.com,Latest: Nepal processors increase Sugar crushing and refining capacity,Positive,0.8,0,0,0,0,0,60,0.8
+Onion,Germany,20260530T110000Z,bloomberg.com,Germany warns of possible Onion rationing amid supply crunch - Agriculture Report,Negative,-1.0,1,0,0,1,0,80,0.8
+Cotton,Netherlands,20260406T073000Z,bloomberg.com,"Heatwave damages Cotton crop yields across key regions of Netherlands, traders say",Negative,-0.5,1,1,0,0,0,20,0.6
+Turmeric,Bangladesh,20260404T230000Z,thehindubusinessline.com,Import demand for Turmeric surges in Bangladesh after domestic shortfall,Positive,0.8,1,1,0,0,0,80,0.9
+Wheat,Bangladesh,20260523T091500Z,bd-pratidin.com,Drought cuts Wheat harvest in Bangladesh; farmers report steep losses (June 2025 briefing),Negative,-0.5,0,1,0,1,0,20,0.6
+Cotton,Sri Lanka,20260612T080000Z,indianexpress.com,Sri Lanka consumers shift to cheaper substitutes as Cotton stays expensive - seasonal update,Negative,-0.5,0,0,0,1,0,20,0.5
+Coffee,Germany,20260407T033000Z,thehindubusinessline.com,"Trade deal may ease Coffee tariffs for shipments into Germany, traders say",Positive,0.8,0,0,0,0,0,80,0.8
+Coffee,Singapore,20260605T203000Z,bloomberg.com,Early forecasts point to weaker Coffee sowing in Singapore - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.6
+Onion,Singapore,20260605T084500Z,livemint.com,Singapore ports report normal Onion handling volumes despite weather delays - seasonal update,Neutral,0.0,0,0,0,0,0,0,0.0
+Maize,Indonesia,20260408T184500Z,economictimes.indiatimes.com,Drought cuts Maize harvest in Indonesia; farmers report steep losses | Market Watch,Negative,-0.5,0,1,0,1,0,20,0.6
+Onion,Germany,20260415T084500Z,reuters.com,Drought cuts Onion harvest in Germany; farmers report steep losses,Negative,-0.5,0,1,0,1,0,20,0.6
+Sugar,Netherlands,20260630T110000Z,foodnavigator.com,Food security alert: Sugar supplies tighten across Netherlands - Agriculture Report,Negative,-0.5,1,0,0,0,0,80,0.9
+Wheat,Singapore,20260621T013000Z,bloomberg.com,Food security alert: Wheat supplies tighten across Singapore - Agriculture Report,Negative,-0.5,1,0,0,0,0,70,0.9
+Cotton,Singapore,20260602T171500Z,indianexpress.com,Latest: Singapore agriculture ministry reviews Cotton market outlook for next quarter,Neutral,0.0,0,0,0,0,0,0,0.0
+Coffee,Japan,20260526T014500Z,asahi.com,Early forecasts point to weaker Coffee sowing in Japan - seasonal update,Negative,-0.5,0,1,0,0,0,20,0.6

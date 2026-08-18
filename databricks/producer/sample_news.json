@@ -1,0 +1,87 @@
+{
+  "demand": [
+    {
+      "event_id": "demand-001",
+      "news_type": "demand",
+      "source": "trade-wire.example",
+      "published_at": "2026-07-25T08:00:00Z",
+      "title": "Bangladesh wheat imports surge as domestic stocks tighten ahead of Ramadan demand.",
+      "body": "Importers in Dhaka are seeking additional wheat cargoes from India and the Black Sea.",
+      "language": "en"
+    },
+    {
+      "event_id": "demand-002",
+      "news_type": "demand",
+      "source": "gulf-markets.example",
+      "published_at": "2026-07-25T08:15:00Z",
+      "title": "Saudi Arabia faces onion shortage after delayed shipments; traders seek Indian supply.",
+      "body": "Wholesale onion prices rose in Riyadh after several delayed container arrivals.",
+      "language": "en"
+    },
+    {
+      "event_id": "demand-003",
+      "news_type": "demand",
+      "source": "eu-agri.example",
+      "published_at": "2026-07-25T08:30:00Z",
+      "title": "Germany sugar refiners report tighter stocks; import tenders expected next month.",
+      "body": "Refiners cited lower beet yields and rising industrial demand.",
+      "language": "en"
+    },
+    {
+      "event_id": "demand-004",
+      "news_type": "demand",
+      "source": "asia-trade.example",
+      "published_at": "2026-07-25T08:45:00Z",
+      "title": "Vietnam coffee weather risks and India turmeric enquiry appear in regional trade notes.",
+      "body": "Buyers flagged possible supply disruption and stronger turmeric enquiry from India.",
+      "language": "en"
+    }
+  ],
+  "price": [
+    {
+      "event_id": "price-001",
+      "news_type": "price",
+      "source": "india-mandi.example",
+      "published_at": "2026-07-25T09:00:00Z",
+      "title": "Indian wheat mandi prices softened slightly on improved arrivals, but export enquiry supports near-term stability.",
+      "body": "Arrivals improved in key markets while export enquiry kept prices from falling further.",
+      "language": "en"
+    },
+    {
+      "event_id": "price-002",
+      "news_type": "price",
+      "source": "india-mandi.example",
+      "published_at": "2026-07-25T09:10:00Z",
+      "title": "Onion prices in Nashik remain firm after lower stock reports; traders expect further upside next month.",
+      "body": "Stock reports from Nashik pointed to tighter availability into next month.",
+      "language": "en"
+    },
+    {
+      "event_id": "price-003",
+      "news_type": "price",
+      "source": "india-mandi.example",
+      "published_at": "2026-07-25T09:20:00Z",
+      "title": "Coffee auctions in Kerala show mixed sentiment with weather concerns in growing regions.",
+      "body": "Auction clears were mixed as weather risks weighed on grower offers.",
+      "language": "en"
+    },
+    {
+      "event_id": "price-004",
+      "news_type": "price",
+      "source": "india-mandi.example",
+      "published_at": "2026-07-25T09:30:00Z",
+      "title": "Sugar mills quote higher offering rates amid tight mill stocks and festival demand outlook.",
+      "body": "Mill stocks tightened ahead of festival season buying.",
+      "language": "en"
+    },
+    {
+      "event_id": "price-005",
+      "news_type": "price",
+      "source": "india-mandi.example",
+      "published_at": "2026-07-25T09:40:00Z",
+      "title": "Turmeric markets in Nizamabad are steady to firm on export interest.",
+      "body": "Export interest supported turmeric prices in Nizamabad.",
+      "language": "en"
+    }
+  ]
+}

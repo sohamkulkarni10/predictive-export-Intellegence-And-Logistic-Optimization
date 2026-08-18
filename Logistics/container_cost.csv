@@ -1,0 +1,3 @@
+container_type,max_payload_tons,container_rental_usd,container_handling_usd,container_cleaning_usd,container_insurance_usd,total_container_cost_usd
+20FT,28,120,45,15,20,200
+40FT,30,180,60,20,30,290

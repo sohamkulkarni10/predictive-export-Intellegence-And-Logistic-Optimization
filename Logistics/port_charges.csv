@@ -1,0 +1,21 @@
+port_id,port_name,loading_charge_usd,terminal_handling_charge_usd,documentation_charge_usd,customs_processing_charge_usd,inspection_charge_usd,total_port_charge_usd
+1,Jawaharlal Nehru Port (JNPT),60,85,20,30,15,210
+2,Mumbai Port,62,88,20,30,15,215
+3,Deendayal Port (Kandla),55,80,18,28,14,195
+4,Mundra Port,58,82,18,28,14,200
+5,Pipavav Port,56,80,18,28,14,196
+6,Hazira Port,57,81,18,28,14,198
+7,Chennai Port,61,86,20,30,15,212
+8,Kamarajar Port (Ennore),60,85,20,30,15,210
+9,V.O. Chidambaranar Port (Tuticorin),54,78,18,28,14,192
+10,Cochin Port,56,80,18,28,14,196
+11,New Mangalore Port,55,79,18,28,14,194
+12,Mormugao Port,55,79,18,28,14,194
+13,Visakhapatnam Port,58,82,18,28,14,200
+14,Gangavaram Port,57,81,18,28,14,198
+15,Paradip Port,56,80,18,28,14,196
+16,Dhamra Port,55,79,18,28,14,194
+17,Kolkata Port,63,90,22,32,16,223
+18,Haldia Dock Complex,60,86,20,30,15,211
+19,Krishnapatnam Port,57,81,18,28,14,198
+20,Karaikal Port,54,78,18,28,14,192

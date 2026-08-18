@@ -1,0 +1,92 @@
+destination_port_id,country,port_name,unlocode,latitude,longitude,region,port_type
+1,UAE,Jebel Ali,AEJEA,25.0199,55.0618,Middle East,Seaport
+2,UAE,Port Rashid,AERSH,25.2736,55.2819,Middle East,Seaport
+3,UAE,Khalifa Port,AEKHL,24.8128,54.8853,Middle East,Seaport
+4,UAE,Port of Fujairah,AEFJR,25.1288,56.3265,Middle East,Seaport
+5,Saudi Arabia,Jeddah Islamic Port,SAJED,21.4858,39.17,Middle East,Seaport
+6,Saudi Arabia,King Abdul Aziz Port (Dammam),SADMM,26.4282,50.1045,Middle East,Seaport
+7,Saudi Arabia,Jazan Port,SAJAZ,16.8892,42.5511,Middle East,Seaport
+8,Saudi Arabia,Yanbu Commercial Port,SAYNB,24.0891,38.0618,Middle East,Seaport
+9,Qatar,Hamad Port,QAHMD,24.7877,51.6138,Middle East,Seaport
+10,Qatar,Doha Port,QADOH,25.2867,51.5333,Middle East,Seaport
+11,Qatar,Ras Laffan Port,QARLF,25.9245,51.6067,Middle East,Seaport
+12,Oman,Port of Sohar,OMSOH,24.5036,56.6254,Middle East,Seaport
+13,Oman,Port of Salalah,OMSLL,16.9495,54.006,Middle East,Seaport
+14,Oman,Port Sultan Qaboos,OMPSQ,23.6167,58.5833,Middle East,Seaport
+15,Oman,Port of Duqm,OMDQM,19.6667,57.7,Middle East,Seaport
+16,Kuwait,Shuwaikh Port,KWSWK,29.3633,47.9267,Middle East,Seaport
+17,Kuwait,Shuaiba Port,KWSBA,29.043,48.157,Middle East,Seaport
+18,Kuwait,Mina Al Ahmadi,KWMAA,28.935,48.183,Middle East,Seaport
+19,Bahrain,Khalifa Bin Salman Port,BHKBS,26.2476,50.6544,Middle East,Seaport
+20,Bahrain,Mina Salman Port,BHMSP,26.2167,50.6,Middle East,Seaport
+21,Singapore,Port of Singapore,SGSIN,1.2644,103.84,Southeast Asia,Seaport
+22,Malaysia,Port Klang,MYPKG,3.0019,101.3928,Southeast Asia,Seaport
+23,Malaysia,Tanjung Pelepas Port,MYTPP,1.3611,103.548,Southeast Asia,Seaport
+24,Malaysia,Penang Port,MYPEN,5.4141,100.343,Southeast Asia,Seaport
+25,Malaysia,Bintulu Port,MYBTU,3.171,113.041,Southeast Asia,Seaport
+26,Indonesia,Tanjung Priok Port,IDTPP,-6.1045,106.886,Southeast Asia,Seaport
+27,Indonesia,Belawan Port,IDBLW,3.7857,98.6839,Southeast Asia,Seaport
+28,Indonesia,Tanjung Perak Port,IDSUB,-7.2053,112.7344,Southeast Asia,Seaport
+29,Indonesia,Makassar Port,IDMKS,-5.138,119.412,Southeast Asia,Seaport
+30,Thailand,Laem Chabang Port,THLCH,13.0827,100.883,Southeast Asia,Seaport
+31,Thailand,Bangkok Port,THBKK,13.698,100.568,Southeast Asia,Seaport
+32,Thailand,Map Ta Phut Port,THMTP,12.681,101.169,Southeast Asia,Seaport
+33,Vietnam,Cat Lai Port,VNCAT,10.769,106.794,Southeast Asia,Seaport
+34,Vietnam,Hai Phong Port,VNHPH,20.8648,106.6835,Southeast Asia,Seaport
+35,Vietnam,Da Nang Port,VNDAD,16.0678,108.2208,Southeast Asia,Seaport
+36,Vietnam,Cai Mep Port,VNCMT,10.583,107.016,Southeast Asia,Seaport
+37,Bangladesh,Chittagong Port,BDCGP,22.3072,91.791,South Asia,Seaport
+38,Bangladesh,Mongla Port,BDMON,22.482,89.601,South Asia,Seaport
+39,Bangladesh,Payra Port,BDPRA,21.989,90.323,South Asia,Seaport
+40,Sri Lanka,Port of Colombo,LKCMB,6.9519,79.8428,South Asia,Seaport
+41,Sri Lanka,Port of Hambantota,LKHBT,6.124,81.1185,South Asia,Seaport
+42,Sri Lanka,Port of Trincomalee,LKTRR,8.569,81.2335,South Asia,Seaport
+43,Nepal,Birgunj Inland Port,NPBIR,27.0104,84.88,South Asia,Inland
+44,Nepal,Biratnagar ICP,NPBRT,26.4525,87.2718,South Asia,Seaport
+45,China,Shanghai Port,CNSHA,31.2304,121.4737,East Asia,Seaport
+46,China,Ningbo-Zhoushan Port,CNNGB,29.8683,121.544,East Asia,Seaport
+47,China,Shenzhen Port,CNSZX,22.5431,114.0579,East Asia,Seaport
+48,China,Qingdao Port,CNTAO,36.0671,120.3826,East Asia,Seaport
+49,Japan,Port of Tokyo,JPTYO,35.657,139.7966,East Asia,Seaport
+50,Japan,Port of Yokohama,JPYOK,35.4437,139.638,East Asia,Seaport
+51,Japan,Port of Kobe,JPUKB,34.6901,135.1955,East Asia,Seaport
+52,Japan,Port of Nagoya,JPNGO,35.0844,136.8856,East Asia,Seaport
+53,South Korea,Port of Busan,KRPUS,35.095,129.0403,East Asia,Seaport
+54,South Korea,Port of Incheon,KRINC,37.4563,126.7052,East Asia,Seaport
+55,South Korea,Port of Gwangyang,KRKAN,34.9407,127.695,East Asia,Seaport
+56,South Korea,Port of Ulsan,KRUSN,35.5048,129.387,East Asia,Seaport
+57,Netherlands,Port of Rotterdam,NLRTM,51.948,4.142,Europe,Seaport
+58,Netherlands,Port of Amsterdam,NLAMS,52.3791,4.8994,Europe,Seaport
+59,Germany,Port of Hamburg,DEHAM,53.5461,9.9661,Europe,Seaport
+60,Germany,Port of Bremerhaven,DEBRV,53.5396,8.5809,Europe,Seaport
+61,Belgium,Port of Antwerp,BEANR,51.2637,4.4003,Europe,Seaport
+62,Belgium,Port of Zeebrugge,BEZEE,51.3316,3.2074,Europe,Seaport
+63,United Kingdom,Port of Felixstowe,GBFXT,51.954,1.351,Europe,Seaport
+64,United Kingdom,Port of Southampton,GBSOU,50.9097,-1.4044,Europe,Seaport
+65,United Kingdom,Port of London,GBLON,51.5074,-0.1278,Europe,Seaport
+66,United Kingdom,Port of Liverpool,GBLIV,53.4084,-2.9916,Europe,Seaport
+67,France,Port of Le Havre,FRLEH,49.4833,0.1,Europe,Seaport
+68,France,Port of Marseille,FRMRS,43.2965,5.3698,Europe,Seaport
+69,France,Port of Dunkirk,FRDKK,51.0344,2.3768,Europe,Seaport
+70,United States,Port of New York & New Jersey,USNYC,40.684,-74.045,North America,Seaport
+71,United States,Port of Los Angeles,USLAX,33.7405,-118.2728,North America,Seaport
+72,United States,Port of Long Beach,USLGB,33.7701,-118.1937,North America,Seaport
+73,United States,Port of Savannah,USSAV,32.0809,-81.0912,North America,Seaport
+74,Canada,Port of Vancouver,CAVAN,49.2965,-123.1091,North America,Seaport
+75,Canada,Port of Montreal,CAMTR,45.5019,-73.5674,North America,Seaport
+76,Canada,Port of Halifax,CAHAL,44.6488,-63.5752,North America,Seaport
+77,Australia,Port of Melbourne,AUMEL,-37.814,144.9633,Oceania,Seaport
+78,Australia,Port Botany,AUBTB,-33.9667,151.2333,Oceania,Seaport
+79,Australia,Port of Brisbane,AUBNE,-27.4698,153.0251,Oceania,Seaport
+80,Australia,Port of Fremantle,AUFRE,-32.0569,115.7439,Oceania,Seaport
+81,South Africa,Port of Durban,ZADUR,-29.871,31.026,Africa,Seaport
+82,South Africa,Port of Cape Town,ZACPT,-33.9249,18.4241,Africa,Seaport
+83,South Africa,Port Elizabeth,ZAPLZ,-33.9608,25.6022,Africa,Seaport
+84,South Africa,Port of Richards Bay,ZARCB,-28.7807,32.0383,Africa,Seaport
+85,Kenya,Port of Mombasa,KEMBA,-4.0435,39.6682,Africa,Seaport
+86,Kenya,Port of Lamu,KELAU,-2.2717,40.902,Africa,Seaport
+87,Kenya,Kisumu Port,KEKIS,-0.0917,34.768,Africa,Seaport
+88,Singapore,Jurong Port,SGJUR,1.307,103.708,Southeast Asia,Seaport
+89,Singapore,Tuas Port,SGTAS,1.2408,103.6333,Southeast Asia,Seaport
+90,Germany,Port of Wilhelmshaven,DEWVN,53.529,8.112,Europe,Seaport
+91,Germany,Port of Rostock,DERSK,54.0924,12.0991,Europe,Seaport

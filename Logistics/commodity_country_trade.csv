@@ -1,0 +1,35 @@
+commodity,country,avg_export_price_usd_per_ton,typical_quantity_tons,notes
+Wheat,Bangladesh,520,120,FOB-linked sell to Bangladesh
+Wheat,Saudi Arabia,540,100,Gulf wheat enquiry
+Wheat,UAE,530,90,Re-export hub
+Wheat,Indonesia,510,110,ASEAN wheat
+Wheat,Sri Lanka,505,80,Neighbour market
+Onion,Saudi Arabia,620,80,Strong Gulf onion demand
+Onion,UAE,600,70,Dubai wholesale
+Onion,Bangladesh,580,90,Regional shortage
+Onion,Malaysia,590,60,ASEAN onion
+Onion,Indonesia,585,75,Jakarta wholesale
+Sugar,Germany,820,100,EU refining demand
+Sugar,UAE,800,85,Gulf sugar
+Sugar,Bangladesh,780,95,Retail/industrial
+Sugar,Japan,850,70,Premium import
+Coffee,Germany,3400,40,Specialty blend
+Coffee,Japan,3500,35,Premium coffee
+Coffee,Singapore,3450,30,Re-export hub
+Coffee,Vietnam,3300,45,Regional blend
+Cotton,Vietnam,2300,60,Textile mills
+Cotton,China,2350,80,Mill consumption
+Cotton,Bangladesh,2250,70,Garment sector
+Maize,Japan,400,90,Feed grain
+Maize,Saudi Arabia,390,85,Poultry feed
+Maize,Indonesia,385,100,Feed mills
+Soybean,Germany,700,70,Crushing demand
+Soybean,Nepal,680,50,Neighbour demand
+Soybean,Indonesia,690,65,Feed and oil
+Turmeric,Saudi Arabia,2600,25,Spice imports
+Turmeric,UAE,2550,20,Re-export spices
+Turmeric,China,2500,30,Food processing
+Turmeric,Vietnam,2480,22,Regional spice
+Rice,UAE,850,100,Basmati mix
+Rice,Saudi Arabia,860,90,Gulf rice
+Rice,Bangladesh,800,110,Regional rice

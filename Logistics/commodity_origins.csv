@@ -1,0 +1,27 @@
+commodity,origin_state,origin_city,latitude,longitude,production_share,notes
+Wheat,Maharashtra,Nagpur,21.1458,79.0882,0.35,Central India procurement hub
+Wheat,Punjab,Ludhiana,30.9010,75.8573,0.40,Major wheat belt
+Wheat,Haryana,Karnal,29.6857,76.9905,0.25,North India wheat belt
+Coffee,Kerala,Kochi,9.9312,76.2673,0.55,Arabica/Robusta export hub
+Coffee,Karnataka,Chikkamagaluru,13.3161,75.7720,0.45,Major coffee growing region
+Soybean,Madhya Pradesh,Indore,22.7196,75.8577,0.50,Primary soybean belt
+Soybean,Maharashtra,Latur,18.4088,76.5604,0.35,Marathwada soybean
+Soybean,Rajasthan,Kota,25.2138,75.8648,0.15,Secondary soybean belt
+Cotton,Gujarat,Rajkot,22.3039,70.8022,0.40,Gujarat cotton belt
+Cotton,Maharashtra,Nagpur,21.1458,79.0882,0.35,Vidarbha cotton
+Cotton,Telangana,Warangal,17.9689,79.5941,0.25,South India cotton
+Maize,Karnataka,Davangere,14.4644,75.9218,0.35,Karnataka maize belt
+Maize,Bihar,Patna,25.5941,85.1376,0.30,Bihar maize
+Maize,Madhya Pradesh,Indore,22.7196,75.8577,0.35,MP maize
+Onion,Maharashtra,Nashik,19.9975,73.7898,0.55,Lasalgaon onion market hub
+Onion,Karnataka,Bengaluru,12.9716,77.5946,0.25,South India onion
+Onion,Madhya Pradesh,Indore,22.7196,75.8577,0.20,Central onion belt
+Sugar,Maharashtra,Kolhapur,16.7050,74.2433,0.45,Western Maharashtra sugar
+Sugar,Uttar Pradesh,Muzaffarnagar,29.4727,77.7085,0.40,UP sugar belt
+Sugar,Karnataka,Belagavi,15.8497,74.4977,0.15,North Karnataka sugar
+Turmeric,Telangana,Nizamabad,18.6725,78.0941,0.40,Nizamabad turmeric hub
+Turmeric,Tamil Nadu,Erode,11.3410,77.7172,0.35,Erode turmeric market
+Turmeric,Maharashtra,Sangli,16.8524,74.5815,0.25,Sangli turmeric
+Rice,Punjab,Amritsar,31.6340,74.8723,0.40,Basmati belt
+Rice,Haryana,Karnal,29.6857,76.9905,0.35,Basmati / non-basmati
+Rice,Andhra Pradesh,Vijayawada,16.5062,80.6480,0.25,South India rice

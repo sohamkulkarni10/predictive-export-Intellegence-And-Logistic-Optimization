@@ -1,0 +1,43 @@
+Synthetic news + sentiment merge report
+==================================================
+Original rows: 1065
+Original backup: final_news_dataset_without_india_backup.csv
+Duplicates removed (same news + same country): 180
+Deduped rows: 885 -> final_news_dataset_without_india_deduped.csv
+Synthetic rows: 885 -> synthetic_news_dataset.csv
+Merged rows: 1770 -> final_news_dataset_with_synthetic.csv
+
+Synthetic sentiment:
+sentiment
+Negative    412
+Positive    333
+Neutral     140
+
+Merged sentiment:
+sentiment
+Negative    661
+Positive    564
+Neutral     545
+
+Synthetic commodities:
+commodity
+Sugar       145
+Wheat       145
+Cotton      139
+Coffee      138
+Soybean      99
+Maize        86
+Turmeric     67
+Onion        66
+
+Sample synthetic:
+  [Cotton/Vietnam] Positive (0.8) opp=80 | Trade deal may ease Cotton tariffs for shipments into Vietnam | Market Watch
+  [Onion/Vietnam] Negative (-0.5) opp=20 | Quality concerns slow Onion imports into Vietnam markets
+  [Cotton/Sri Lanka] Negative (-0.5) opp=20 | Rainfall deficit raises concerns for Cotton planting in Sri Lanka: officials urge caution
+  [Soybean/Netherlands] Negative (-0.5) opp=20 | Quality concerns slow Soybean imports into Netherlands markets - Agriculture Report
+  [Sugar/Germany] Neutral (0.0) opp=20 | Analysts say Sugar trade flows to Germany remain stable this month - seasonal update
+  [Wheat/Vietnam] Positive (0.8) opp=80 | Exporters eye Vietnam as a growing Wheat destination in Asia
+  [Cotton/Sri Lanka] Negative (-1.0) opp=80 | Latest: Sri Lanka warns of possible Cotton rationing amid supply crunch
+  [Maize/Germany] Positive (0.8) opp=60 | Latest: Germany processors increase Maize crushing and refining capacity
+  [Soybean/Sri Lanka] Negative (-0.5) opp=20 | Drought cuts Soybean harvest in Sri Lanka; farmers report steep losses, traders say
+  [Wheat/Netherlands] Positive (0.8) opp=80 | Private traders boost Wheat bookings destined for Netherlands | Market Watch

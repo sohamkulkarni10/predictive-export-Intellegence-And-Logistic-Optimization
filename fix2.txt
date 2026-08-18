@@ -1,0 +1,7 @@
+﻿price {'commodity': 'Onion', 'current_price_inr': 1271.04, 'current_as_of': '2026-06', 'predicted_next_month_price_inr': 1295.39, 'predicted_change_inr': 24.35, 'predicted_change_pct': 1.92, 'direction': 'Increase', 'unit': 'INR_per_quintal', 'note': 'Current = dataset 2026-06 price (INR/quintal). Next month predicted by your XGBoost model.'}
+rag1 To export onions from India, you will need documents such as a Commercial Invoice, Packing List, Bill of Lading/Airway B
+rag2 In export shipping, CIF (Cost, Insurance, Freight) means the seller arranges freight and insurance to the destination po
+same_rag False
+meta {'enabled': True, 'model': 'llama-3.3-70b-versatile', 'source': 'groq'}
+demand_ex For onion in Saudi Arabia, demand is expected to increase next month with a demand score of 0.72 and
+keys ['demand_agent', 'price_agent']

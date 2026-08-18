@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+
+# Secrets — never commit API keys
+.env
+.env.local
+*.pem
+
+# Runtime / generated
+backend/export_ai.db
+backend/vector_db/chroma/
+node_modules/
+frontend/dist/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

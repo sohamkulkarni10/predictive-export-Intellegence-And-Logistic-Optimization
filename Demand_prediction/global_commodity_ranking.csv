@@ -1,0 +1,9 @@
+global_rank,commodity,global_demand_probability,global_demand_percentage,countries_covered,total_articles,average_reliability
+1,Onion,0.5764,57.64,12,130,0.5809
+2,Sugar,0.5618,56.18,12,220,0.7549
+3,Turmeric,0.5463,54.63,12,109,0.5874
+4,Maize,0.5449,54.49,12,141,0.6455
+5,Cotton,0.5401,54.01,12,155,0.6519
+6,Coffee,0.5241,52.41,11,209,0.6907
+7,Wheat,0.5232,52.32,12,197,0.6744
+8,Soybean,0.5062,50.62,11,153,0.6785
